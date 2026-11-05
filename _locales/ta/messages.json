@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "திரை பதிவி & ஸ்கிரீன்ஷாட் — உள்நுழைவு இல்லை, வாட்டர்மார்க் இல்லை",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "தாவல்/திரை/வெப்கேமைப் பதிவு செய்து முழுப் பக்கங்களையும் ஸ்கிரீன்ஷாட் எடுக்கவும்.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "ஸ்கிரீன்ஷாட் & பதிவு"
+  },
+  "cmdCaptureVisible": {
+    "message": "பக்கத்தின் தெரியும் பகுதியைப் படம்பிடி"
+  },
+  "cmdCaptureFullPage": {
+    "message": "முழுப் பக்கத்தையும் படம்பிடி"
+  },
+  "cmdCaptureArea": {
+    "message": "தேர்ந்தெடுத்த பகுதியைப் படம்பிடி"
+  },
+  "popupTitle": {
+    "message": "திரை பதிவி & ஸ்கிரீன்ஷாட்"
+  },
+  "popupSubtitle": {
+    "message": "உள்நுழைவு இல்லை · வாட்டர்மார்க் இல்லை · பதிவேற்றம் இல்லை"
+  },
+  "sectionScreenshot": {
+    "message": "ஸ்கிரீன்ஷாட்"
+  },
+  "sectionRecord": {
+    "message": "பதிவு (கட்டம் B)"
+  },
+  "actionVisible": {
+    "message": "தெரியும் பகுதி"
+  },
+  "actionFullPage": {
+    "message": "முழுப் பக்கம்"
+  },
+  "actionArea": {
+    "message": "தேர்ந்தெடுத்த பகுதி"
+  },
+  "actionDelay": {
+    "message": "3 வி தாமதம்"
+  },
+  "recordTab": {
+    "message": "தாவல்"
+  },
+  "recordScreen": {
+    "message": "திரை"
+  },
+  "recordWebcam": {
+    "message": "வெப்கேம்"
+  },
+  "micOn": {
+    "message": "மைக்"
+  },
+  "tabAudioOn": {
+    "message": "தாவல் ஒலி"
+  },
+  "comingSoonPhaseB": {
+    "message": "பதிவு கட்டம் B-இல் வரும் (இலவச புதுப்பிப்பு)."
+  },
+  "settingsFormat": {
+    "message": "இயல்புநிலை வடிவம்"
+  },
+  "formatPNG": {
+    "message": "PNG (இழப்பில்லா)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (சிறியது)"
+  },
+  "formatPDF": {
+    "message": "PDF (பல-பக்கம்)"
+  },
+  "settingsDPR": {
+    "message": "ரெட்டினா தெளிவுத்திறனில் படம்பிடி"
+  },
+  "settingsQuality": {
+    "message": "JPEG தரம்"
+  },
+  "save": {
+    "message": "சேமி"
+  },
+  "cancel": {
+    "message": "ரத்துசெய்"
+  },
+  "openEditor": {
+    "message": "எடிட்டரில் திற"
+  },
+  "downloadNow": {
+    "message": "இப்போது பதிவிறக்கு"
+  },
+  "editorTitle": {
+    "message": "எடிட்டர்"
+  },
+  "toolArrow": {
+    "message": "அம்பு"
+  },
+  "toolBox": {
+    "message": "பெட்டி"
+  },
+  "toolText": {
+    "message": "உரை"
+  },
+  "toolBlur": {
+    "message": "மங்கல்"
+  },
+  "toolHighlight": {
+    "message": "தனிப்படுத்து"
+  },
+  "toolUndo": {
+    "message": "செயல்தவிர்"
+  },
+  "toolRedo": {
+    "message": "மீண்டும் செய்"
+  },
+  "toolClear": {
+    "message": "அழி"
+  },
+  "exportPng": {
+    "message": "PNG ஏற்றுமதி"
+  },
+  "exportJpeg": {
+    "message": "JPEG ஏற்றுமதி"
+  },
+  "exportPdf": {
+    "message": "PDF ஏற்றுமதி"
+  },
+  "toastCapturing": {
+    "message": "படம்பிடிக்கிறது…"
+  },
+  "toastStitching": {
+    "message": "ஓடுகளை இணைக்கிறது…"
+  },
+  "toastSaved": {
+    "message": "உங்கள் பதிவிறக்கங்களில் சேமிக்கப்பட்டது."
+  },
+  "toastEditorOpened": {
+    "message": "புதிய தாவலில் எடிட்டர் திறக்கப்பட்டது."
+  },
+  "toastFailed": {
+    "message": "படம்பிடிப்பு தோல்வியடைந்தது. தாவலை மீளேற்றி முயலவும்."
+  },
+  "toastCanvasCapHit": {
+    "message": "பக்கம் மிக நீளமானது — Chrome-இன் கேன்வாஸ் வரம்புக்கு ஏற்ப வெளியீடு ஓடுகளாகப் பிரிக்கப்பட்டது."
+  },
+  "selectorHint": {
+    "message": "தேர்ந்தெடுக்க இழுக்கவும். ரத்துசெய்ய Esc."
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$வி-இல் படம்பிடிக்கிறது…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "அனைத்து செயலாக்கமும் உள்ளூரில் நடக்கிறது. உங்கள் திரை உங்கள் சாதனத்தை விட்டு வெளியேறாது."
+  },
+  "cmdRecordToggle": {
+    "message": "பதிவை மாற்று"
+  },
+  "recordStop": {
+    "message": "நிறுத்து"
+  },
+  "recordStopTooltip": {
+    "message": "பதிவை நிறுத்தி சேமி"
+  },
+  "toastRecordingStarted": {
+    "message": "பதிவு தொடங்கியது…"
+  },
+  "toastRecordingStopped": {
+    "message": "பதிவு உங்கள் பதிவிறக்கங்களில் சேமிக்கப்பட்டது."
+  },
+  "toastMicDenied": {
+    "message": "மைக்ரோஃபோன் அனுமதி மறுக்கப்பட்டது."
+  },
+  "toastScreenDenied": {
+    "message": "திரை அனுமதி மறுக்கப்பட்டது."
+  },
+  "toastTabCaptureFailed": {
+    "message": "தாவல் படம்பிடிப்பு தோல்வியடைந்தது. தாவலை மீளேற்றி முயலவும்."
+  },
+  "toastRecovered": {
+    "message": "கடைசி பதிவு மீட்கப்பட்டது."
+  },
+  "recoverLast": {
+    "message": "கடைசி பதிவை மீட்டெடு"
+  },
+  "discardLast": {
+    "message": "நிராகரி"
+  },
+  "recordingActive": {
+    "message": "அமர்வில் பதிவு செய்கிறது"
+  },
+  "recordDuration": {
+    "message": "கால அளவு"
+  },
+  "recordHintTab": {
+    "message": "தாவல் · மைக் · தாவல் ஒலி"
+  },
+  "recordHintScreen": {
+    "message": "திரை · மைக் (விருப்பத்தேர்வு)"
+  },
+  "recordHintWebcam": {
+    "message": "வெப்கேம் + மைக்"
+  },
+  "sectionVideoEditor": {
+    "message": "வீடியோ எடிட்டர் (கட்டம் C)"
+  },
+  "sectionScheduler": {
+    "message": "திட்டமிட்ட பதிவு"
+  },
+  "sectionLicense": {
+    "message": "உரிமம்"
+  },
+  "openVideoEditor": {
+    "message": "வீடியோ எடிட்டரைத் திற"
+  },
+  "noRecordingsYet": {
+    "message": "இதுவரை பதிவுகள் இல்லை. முதலில் ஏதேனும் பதிவு செய்யவும்."
+  },
+  "editorVideoTitle": {
+    "message": "வீடியோ எடிட்டர்"
+  },
+  "editorTrim": {
+    "message": "வெட்டு"
+  },
+  "editorCrop": {
+    "message": "செதுக்கு"
+  },
+  "editorBlur": {
+    "message": "மங்கல்"
+  },
+  "editorClickZoom": {
+    "message": "கிளிக்-பெரிதாக்கம்"
+  },
+  "editorExportWebM": {
+    "message": "WebM ஏற்றுமதி (இலவசம்)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 ஏற்றுமதி (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF ஏற்றுமதி (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K ஏற்றுமதி (Pro)"
+  },
+  "editorInPoint": {
+    "message": "தொடக்கம்"
+  },
+  "editorOutPoint": {
+    "message": "முடிவு"
+  },
+  "editorAddBlurRegion": {
+    "message": "மங்கல் பகுதியைச் சேர்"
+  },
+  "editorClearOverlays": {
+    "message": "மேலடுக்குகளை அழி"
+  },
+  "editorProcessing": {
+    "message": "செயலாக்குகிறது…"
+  },
+  "editorExportDone": {
+    "message": "ஏற்றுமதி பதிவிறக்கங்களில் சேமிக்கப்பட்டது."
+  },
+  "editorExportFailed": {
+    "message": "ஏற்றுமதி தோல்வியடைந்தது."
+  },
+  "schedulerStartIn": {
+    "message": "இதற்குள் தொடங்கு (நிமி)"
+  },
+  "schedulerDuration": {
+    "message": "கால அளவு (நிமி)"
+  },
+  "schedulerSource": {
+    "message": "மூலம்"
+  },
+  "schedulerCreate": {
+    "message": "பதிவைத் திட்டமிடு"
+  },
+  "schedulerCancel": {
+    "message": "திட்டத்தை ரத்துசெய்"
+  },
+  "schedulerActive": {
+    "message": "திட்டமிடப்பட்டது"
+  },
+  "schedulerFiresIn": {
+    "message": "$MIN$வி-இல் இயங்கும்",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "குறைந்தபட்ச திட்டம் 30வி (Chrome அலாரம் வரம்பு)."
+  },
+  "licenseKey": {
+    "message": "உரிமக் குறியீடு"
+  },
+  "licenseActivate": {
+    "message": "செயல்படுத்து"
+  },
+  "licenseActive": {
+    "message": "Pro உரிமம் செயலில் உள்ளது"
+  },
+  "licenseInvalid": {
+    "message": "உரிமக் குறியீடு செல்லுபடியாகாது."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro அம்சம் — திறக்க ஒரு உரிமத்தைச் செயல்படுத்தவும்."
+  },
+  "toastScheduled": {
+    "message": "பதிவு திட்டமிடப்பட்டது."
+  },
+  "toastScheduleCancelled": {
+    "message": "திட்டம் ரத்துசெய்யப்பட்டது."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro உரிமம் செயல்படுத்தப்பட்டது."
+  },
+  "cmdOpenEditor": {
+    "message": "வீடியோ எடிட்டரைத் திற"
+  },
+  "formatWebM": {
+    "message": "WebM (இலவசம்)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

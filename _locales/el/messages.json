@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — Χωρίς σύνδεση, χωρίς υδατογράφημα",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Κατάγραψε καρτέλα/οθόνη/κάμερα και τράβα στιγμιότυπα ολόκληρων σελίδων. Χωρίς σύνδεση, χωρίς υδατογράφημα, χωρίς όρια, χωρίς",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Στιγμιότυπο & Καταγραφή"
+  },
+  "cmdCaptureVisible": {
+    "message": "Καταγραφή ορατού τμήματος της σελίδας"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Καταγραφή ολόκληρης της σελίδας"
+  },
+  "cmdCaptureArea": {
+    "message": "Καταγραφή επιλεγμένης περιοχής"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "Χωρίς σύνδεση · Χωρίς υδατογράφημα · Χωρίς μεταφόρτωση"
+  },
+  "sectionScreenshot": {
+    "message": "Στιγμιότυπο"
+  },
+  "sectionRecord": {
+    "message": "Καταγραφή (Φάση B)"
+  },
+  "actionVisible": {
+    "message": "Ορατή περιοχή"
+  },
+  "actionFullPage": {
+    "message": "Ολόκληρη η σελίδα"
+  },
+  "actionArea": {
+    "message": "Επιλεγμένη περιοχή"
+  },
+  "actionDelay": {
+    "message": "Καθυστέρηση 3 δευτ."
+  },
+  "recordTab": {
+    "message": "Καρτέλα"
+  },
+  "recordScreen": {
+    "message": "Οθόνη"
+  },
+  "recordWebcam": {
+    "message": "Κάμερα"
+  },
+  "micOn": {
+    "message": "Μικρόφωνο"
+  },
+  "tabAudioOn": {
+    "message": "Ήχος καρτέλας"
+  },
+  "comingSoonPhaseB": {
+    "message": "Η καταγραφή έρχεται στη Φάση B (δωρεάν ενημέρωση)."
+  },
+  "settingsFormat": {
+    "message": "Προεπιλεγμένη μορφή"
+  },
+  "formatPNG": {
+    "message": "PNG (χωρίς απώλειες)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (μικρότερο)"
+  },
+  "formatPDF": {
+    "message": "PDF (πολλών σελίδων)"
+  },
+  "settingsDPR": {
+    "message": "Καταγραφή σε ανάλυση retina"
+  },
+  "settingsQuality": {
+    "message": "Ποιότητα JPEG"
+  },
+  "save": {
+    "message": "Αποθήκευση"
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "openEditor": {
+    "message": "Άνοιγμα στον επεξεργαστή"
+  },
+  "downloadNow": {
+    "message": "Λήψη τώρα"
+  },
+  "editorTitle": {
+    "message": "Επεξεργαστής"
+  },
+  "toolArrow": {
+    "message": "Βέλος"
+  },
+  "toolBox": {
+    "message": "Πλαίσιο"
+  },
+  "toolText": {
+    "message": "Κείμενο"
+  },
+  "toolBlur": {
+    "message": "Θόλωμα"
+  },
+  "toolHighlight": {
+    "message": "Επισήμανση"
+  },
+  "toolUndo": {
+    "message": "Αναίρεση"
+  },
+  "toolRedo": {
+    "message": "Επανάληψη"
+  },
+  "toolClear": {
+    "message": "Καθαρισμός"
+  },
+  "exportPng": {
+    "message": "Εξαγωγή PNG"
+  },
+  "exportJpeg": {
+    "message": "Εξαγωγή JPEG"
+  },
+  "exportPdf": {
+    "message": "Εξαγωγή PDF"
+  },
+  "toastCapturing": {
+    "message": "Γίνεται καταγραφή…"
+  },
+  "toastStitching": {
+    "message": "Συρραφή πλακιδίων…"
+  },
+  "toastSaved": {
+    "message": "Αποθηκεύτηκε στις Λήψεις σας."
+  },
+  "toastEditorOpened": {
+    "message": "Άνοιξε ο επεξεργαστής σε νέα καρτέλα."
+  },
+  "toastFailed": {
+    "message": "Η καταγραφή απέτυχε. Δοκίμασε να επαναφορτώσεις την καρτέλα."
+  },
+  "toastCanvasCapHit": {
+    "message": "Η σελίδα είναι πολύ ψηλή — η έξοδος χωρίστηκε σε πλακίδια για να χωρέσει στο όριο καμβά του Chrome."
+  },
+  "selectorHint": {
+    "message": "Σύρε για επιλογή. Esc για ακύρωση."
+  },
+  "delayCountdown": {
+    "message": "Καταγραφή σε $SECONDS$ δευτ…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Όλη η επεξεργασία γίνεται τοπικά. Η οθόνη σου δεν φεύγει ποτέ από τη συσκευή σου."
+  },
+  "cmdRecordToggle": {
+    "message": "Εναλλαγή καταγραφής"
+  },
+  "recordStop": {
+    "message": "Διακοπή"
+  },
+  "recordStopTooltip": {
+    "message": "Διακοπή και αποθήκευση καταγραφής"
+  },
+  "toastRecordingStarted": {
+    "message": "Η καταγραφή ξεκίνησε…"
+  },
+  "toastRecordingStopped": {
+    "message": "Η καταγραφή αποθηκεύτηκε στις Λήψεις σας."
+  },
+  "toastMicDenied": {
+    "message": "Η άδεια μικροφώνου απορρίφθηκε."
+  },
+  "toastScreenDenied": {
+    "message": "Η άδεια οθόνης απορρίφθηκε."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Η καταγραφή καρτέλας απέτυχε. Δοκίμασε να επαναφορτώσεις την καρτέλα."
+  },
+  "toastRecovered": {
+    "message": "Ανακτήθηκε η τελευταία καταγραφή."
+  },
+  "recoverLast": {
+    "message": "Ανάκτηση τελευταίας καταγραφής"
+  },
+  "discardLast": {
+    "message": "Απόρριψη"
+  },
+  "recordingActive": {
+    "message": "Καταγραφή σε εξέλιξη"
+  },
+  "recordDuration": {
+    "message": "Διάρκεια"
+  },
+  "recordHintTab": {
+    "message": "Καρτέλα · μικρόφωνο · ήχος καρτέλας"
+  },
+  "recordHintScreen": {
+    "message": "Οθόνη · μικρόφωνο (προαιρετικό)"
+  },
+  "recordHintWebcam": {
+    "message": "Κάμερα + μικρόφωνο"
+  },
+  "sectionVideoEditor": {
+    "message": "Επεξεργαστής βίντεο (Φάση C)"
+  },
+  "sectionScheduler": {
+    "message": "Προγραμματισμένη καταγραφή"
+  },
+  "sectionLicense": {
+    "message": "Άδεια"
+  },
+  "openVideoEditor": {
+    "message": "Άνοιγμα επεξεργαστή βίντεο"
+  },
+  "noRecordingsYet": {
+    "message": "Δεν υπάρχουν ακόμη καταγραφές. Κατάγραψε κάτι πρώτα."
+  },
+  "editorVideoTitle": {
+    "message": "Επεξεργαστής βίντεο"
+  },
+  "editorTrim": {
+    "message": "Περικοπή"
+  },
+  "editorCrop": {
+    "message": "Αποκοπή"
+  },
+  "editorBlur": {
+    "message": "Θόλωμα"
+  },
+  "editorClickZoom": {
+    "message": "Ζουμ με κλικ"
+  },
+  "editorExportWebM": {
+    "message": "Εξαγωγή WebM (δωρεάν)"
+  },
+  "editorExportMp4": {
+    "message": "Εξαγωγή MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Εξαγωγή GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Εξαγωγή 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Είσοδος"
+  },
+  "editorOutPoint": {
+    "message": "Έξοδος"
+  },
+  "editorAddBlurRegion": {
+    "message": "Προσθήκη περιοχής θολώματος"
+  },
+  "editorClearOverlays": {
+    "message": "Καθαρισμός επικαλύψεων"
+  },
+  "editorProcessing": {
+    "message": "Γίνεται επεξεργασία…"
+  },
+  "editorExportDone": {
+    "message": "Η εξαγωγή αποθηκεύτηκε στις Λήψεις."
+  },
+  "editorExportFailed": {
+    "message": "Η εξαγωγή απέτυχε."
+  },
+  "schedulerStartIn": {
+    "message": "Έναρξη σε (λεπτά)"
+  },
+  "schedulerDuration": {
+    "message": "Διάρκεια (λεπτά)"
+  },
+  "schedulerSource": {
+    "message": "Πηγή"
+  },
+  "schedulerCreate": {
+    "message": "Προγραμματισμός καταγραφής"
+  },
+  "schedulerCancel": {
+    "message": "Ακύρωση προγραμματισμού"
+  },
+  "schedulerActive": {
+    "message": "Προγραμματισμένο"
+  },
+  "schedulerFiresIn": {
+    "message": "Εκτελείται σε $MIN$ δευτ.",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Ο ελάχιστος προγραμματισμός είναι 30 δευτ. (κατώτατο όριο ειδοποιήσεων Chrome)."
+  },
+  "licenseKey": {
+    "message": "Κλειδί άδειας"
+  },
+  "licenseActivate": {
+    "message": "Ενεργοποίηση"
+  },
+  "licenseActive": {
+    "message": "Η άδεια Pro είναι ενεργή"
+  },
+  "licenseInvalid": {
+    "message": "Το κλειδί άδειας δεν είναι έγκυρο."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Λειτουργία Pro — ενεργοποίησε μια άδεια για ξεκλείδωμα."
+  },
+  "toastScheduled": {
+    "message": "Η καταγραφή προγραμματίστηκε."
+  },
+  "toastScheduleCancelled": {
+    "message": "Ο προγραμματισμός ακυρώθηκε."
+  },
+  "toastLicenseActivated": {
+    "message": "Η άδεια Pro ενεργοποιήθηκε."
+  },
+  "cmdOpenEditor": {
+    "message": "Άνοιγμα επεξεργαστή βίντεο"
+  },
+  "formatWebM": {
+    "message": "WebM (δωρεάν)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

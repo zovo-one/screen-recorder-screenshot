@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "స్క్రీన్ రికార్డర్ & స్క్రీన్‌షాట్ — లాగిన్ లేదు, వాటర్‌మార్క్ లేదు",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "ట్యాబ్/స్క్రీన్/వెబ్‌క్యామ్‌ను రికార్డ్ చేసి మొత్తం పేజీలను స్క్రీన్‌షాట్ తీయండి.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "స్క్రీన్‌షాట్ & రికార్డ్"
+  },
+  "cmdCaptureVisible": {
+    "message": "పేజీలో కనిపించే భాగాన్ని క్యాప్చర్ చేయి"
+  },
+  "cmdCaptureFullPage": {
+    "message": "మొత్తం పేజీని క్యాప్చర్ చేయి"
+  },
+  "cmdCaptureArea": {
+    "message": "ఎంచుకున్న ప్రాంతాన్ని క్యాప్చర్ చేయి"
+  },
+  "popupTitle": {
+    "message": "స్క్రీన్ రికార్డర్ & స్క్రీన్‌షాట్"
+  },
+  "popupSubtitle": {
+    "message": "లాగిన్ లేదు · వాటర్‌మార్క్ లేదు · అప్‌లోడ్ లేదు"
+  },
+  "sectionScreenshot": {
+    "message": "స్క్రీన్‌షాట్"
+  },
+  "sectionRecord": {
+    "message": "రికార్డ్"
+  },
+  "actionVisible": {
+    "message": "కనిపించే ప్రాంతం"
+  },
+  "actionFullPage": {
+    "message": "మొత్తం పేజీ"
+  },
+  "actionArea": {
+    "message": "ఎంచుకున్న ప్రాంతం"
+  },
+  "actionDelay": {
+    "message": "3సె. ఆలస్యం"
+  },
+  "recordTab": {
+    "message": "ట్యాబ్"
+  },
+  "recordScreen": {
+    "message": "స్క్రీన్"
+  },
+  "recordWebcam": {
+    "message": "వెబ్‌క్యామ్"
+  },
+  "micOn": {
+    "message": "మైక్"
+  },
+  "tabAudioOn": {
+    "message": "ట్యాబ్ ఆడియో"
+  },
+  "comingSoonPhaseB": {
+    "message": "రికార్డింగ్ a free update లో వస్తుంది (ఉచిత అప్‌డేట్)."
+  },
+  "settingsFormat": {
+    "message": "డిఫాల్ట్ ఫార్మాట్"
+  },
+  "formatPNG": {
+    "message": "PNG (నష్టం లేనిది)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (చిన్నది)"
+  },
+  "formatPDF": {
+    "message": "PDF (బహుళ-పేజీ)"
+  },
+  "settingsDPR": {
+    "message": "రెటినా రిజల్యూషన్‌లో క్యాప్చర్ చేయి"
+  },
+  "settingsQuality": {
+    "message": "JPEG నాణ్యత"
+  },
+  "save": {
+    "message": "సేవ్ చేయి"
+  },
+  "cancel": {
+    "message": "రద్దు చేయి"
+  },
+  "openEditor": {
+    "message": "ఎడిటర్‌లో తెరువు"
+  },
+  "downloadNow": {
+    "message": "ఇప్పుడే డౌన్‌లోడ్ చేయి"
+  },
+  "editorTitle": {
+    "message": "ఎడిటర్"
+  },
+  "toolArrow": {
+    "message": "బాణం"
+  },
+  "toolBox": {
+    "message": "పెట్టె"
+  },
+  "toolText": {
+    "message": "టెక్స్ట్"
+  },
+  "toolBlur": {
+    "message": "బ్లర్"
+  },
+  "toolHighlight": {
+    "message": "హైలైట్"
+  },
+  "toolUndo": {
+    "message": "రద్దు"
+  },
+  "toolRedo": {
+    "message": "మళ్లీ చేయి"
+  },
+  "toolClear": {
+    "message": "క్లియర్"
+  },
+  "exportPng": {
+    "message": "PNG ఎగుమతి చేయి"
+  },
+  "exportJpeg": {
+    "message": "JPEG ఎగుమతి చేయి"
+  },
+  "exportPdf": {
+    "message": "PDF ఎగుమతి చేయి"
+  },
+  "toastCapturing": {
+    "message": "క్యాప్చర్ చేస్తోంది…"
+  },
+  "toastStitching": {
+    "message": "టైల్‌లను కలుపుతోంది…"
+  },
+  "toastSaved": {
+    "message": "మీ డౌన్‌లోడ్‌లకు సేవ్ చేయబడింది."
+  },
+  "toastEditorOpened": {
+    "message": "కొత్త ట్యాబ్‌లో ఎడిటర్‌ను తెరిచింది."
+  },
+  "toastFailed": {
+    "message": "క్యాప్చర్ విఫలమైంది. ట్యాబ్‌ను రీలోడ్ చేసి ప్రయత్నించండి."
+  },
+  "toastCanvasCapHit": {
+    "message": "పేజీ చాలా పొడవుగా ఉంది — Chrome కాన్వాస్ పరిమితికి సరిపడేలా అవుట్‌పుట్ టైల్‌గా విభజించబడింది."
+  },
+  "selectorHint": {
+    "message": "ఎంచుకోవడానికి లాగండి. రద్దు చేయడానికి Esc."
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$సె.లో క్యాప్చర్ చేస్తోంది…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "మొత్తం ప్రాసెసింగ్ స్థానికమైనది. మీ స్క్రీన్ ఎప్పుడూ మీ పరికరాన్ని వదిలిపెట్టదు."
+  },
+  "cmdRecordToggle": {
+    "message": "రికార్డింగ్ టోగుల్ చేయి"
+  },
+  "recordStop": {
+    "message": "ఆపు"
+  },
+  "recordStopTooltip": {
+    "message": "రికార్డింగ్‌ను ఆపి సేవ్ చేయి"
+  },
+  "toastRecordingStarted": {
+    "message": "రికార్డింగ్ ప్రారంభమైంది…"
+  },
+  "toastRecordingStopped": {
+    "message": "రికార్డింగ్ మీ డౌన్‌లోడ్‌లకు సేవ్ చేయబడింది."
+  },
+  "toastMicDenied": {
+    "message": "మైక్రోఫోన్ అనుమతి నిరాకరించబడింది."
+  },
+  "toastScreenDenied": {
+    "message": "స్క్రీన్ అనుమతి నిరాకరించబడింది."
+  },
+  "toastTabCaptureFailed": {
+    "message": "ట్యాబ్ క్యాప్చర్ విఫలమైంది. ట్యాబ్‌ను రీలోడ్ చేసి ప్రయత్నించండి."
+  },
+  "toastRecovered": {
+    "message": "చివరి రికార్డింగ్‌ను తిరిగి పొందింది."
+  },
+  "recoverLast": {
+    "message": "చివరి రికార్డింగ్‌ను తిరిగి పొందు"
+  },
+  "discardLast": {
+    "message": "విస్మరించు"
+  },
+  "recordingActive": {
+    "message": "సెషన్‌లో రికార్డింగ్"
+  },
+  "recordDuration": {
+    "message": "వ్యవధి"
+  },
+  "recordHintTab": {
+    "message": "ట్యాబ్ · మైక్ · ట్యాబ్ ఆడియో"
+  },
+  "recordHintScreen": {
+    "message": "స్క్రీన్ · మైక్ (ఐచ్ఛికం)"
+  },
+  "recordHintWebcam": {
+    "message": "వెబ్‌క్యామ్ + మైక్"
+  },
+  "sectionVideoEditor": {
+    "message": "వీడియో ఎడిటర్"
+  },
+  "sectionScheduler": {
+    "message": "షెడ్యూల్ చేసిన రికార్డింగ్"
+  },
+  "sectionLicense": {
+    "message": "లైసెన్స్"
+  },
+  "openVideoEditor": {
+    "message": "వీడియో ఎడిటర్‌ను తెరువు"
+  },
+  "noRecordingsYet": {
+    "message": "ఇంకా రికార్డింగ్‌లు లేవు. ముందుగా ఏదైనా రికార్డ్ చేయండి."
+  },
+  "editorVideoTitle": {
+    "message": "వీడియో ఎడిటర్"
+  },
+  "editorTrim": {
+    "message": "ట్రిమ్"
+  },
+  "editorCrop": {
+    "message": "క్రాప్"
+  },
+  "editorBlur": {
+    "message": "బ్లర్"
+  },
+  "editorClickZoom": {
+    "message": "క్లిక్-జూమ్"
+  },
+  "editorExportWebM": {
+    "message": "WebM ఎగుమతి చేయి (ఉచితం)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 ఎగుమతి చేయి (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF ఎగుమతి చేయి (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K ఎగుమతి చేయి (Pro)"
+  },
+  "editorInPoint": {
+    "message": "ప్రారంభం"
+  },
+  "editorOutPoint": {
+    "message": "ముగింపు"
+  },
+  "editorAddBlurRegion": {
+    "message": "బ్లర్ ప్రాంతాన్ని జోడించు"
+  },
+  "editorClearOverlays": {
+    "message": "ఓవర్‌లేలను క్లియర్ చేయి"
+  },
+  "editorProcessing": {
+    "message": "ప్రాసెస్ చేస్తోంది…"
+  },
+  "editorExportDone": {
+    "message": "ఎగుమతి డౌన్‌లోడ్‌లకు సేవ్ చేయబడింది."
+  },
+  "editorExportFailed": {
+    "message": "ఎగుమతి విఫలమైంది."
+  },
+  "schedulerStartIn": {
+    "message": "ఇందులో ప్రారంభించు (నిమి)"
+  },
+  "schedulerDuration": {
+    "message": "వ్యవధి (నిమి)"
+  },
+  "schedulerSource": {
+    "message": "మూలం"
+  },
+  "schedulerCreate": {
+    "message": "రికార్డింగ్‌ను షెడ్యూల్ చేయి"
+  },
+  "schedulerCancel": {
+    "message": "షెడ్యూల్‌ను రద్దు చేయి"
+  },
+  "schedulerActive": {
+    "message": "షెడ్యూల్ చేయబడింది"
+  },
+  "schedulerFiresIn": {
+    "message": "$MIN$సె.లో ప్రారంభమవుతుంది",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "కనిష్ట షెడ్యూల్ 30సె. (Chrome అలారమ్‌ల కనీస పరిమితి)."
+  },
+  "licenseKey": {
+    "message": "లైసెన్స్ కీ"
+  },
+  "licenseActivate": {
+    "message": "యాక్టివేట్ చేయి"
+  },
+  "licenseActive": {
+    "message": "Pro లైసెన్స్ యాక్టివ్‌గా ఉంది"
+  },
+  "licenseInvalid": {
+    "message": "లైసెన్స్ కీ చెల్లదు."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro ఫీచర్ — అన్‌లాక్ చేయడానికి లైసెన్స్‌ను యాక్టివేట్ చేయండి."
+  },
+  "toastScheduled": {
+    "message": "రికార్డింగ్ షెడ్యూల్ చేయబడింది."
+  },
+  "toastScheduleCancelled": {
+    "message": "షెడ్యూల్ రద్దు చేయబడింది."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro లైసెన్స్ యాక్టివేట్ చేయబడింది."
+  },
+  "cmdOpenEditor": {
+    "message": "వీడియో ఎడిటర్‌ను తెరువు"
+  },
+  "formatWebM": {
+    "message": "WebM (ఉచితం)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

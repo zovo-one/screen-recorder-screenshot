@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Ekrano įrašymas ir ekrano nuotrauka — be prisijungimo, be vandenženklio",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Įrašykite skirtuką/ekraną/internetinę kamerą ir darykite viso puslapio nuotraukas.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Ekrano nuotrauka ir įrašymas"
+  },
+  "cmdCaptureVisible": {
+    "message": "Užfiksuoti matomą puslapio dalį"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Užfiksuoti visą puslapį"
+  },
+  "cmdCaptureArea": {
+    "message": "Užfiksuoti pasirinktą sritį"
+  },
+  "popupTitle": {
+    "message": "Ekrano įrašymas ir ekrano nuotrauka"
+  },
+  "popupSubtitle": {
+    "message": "Be prisijungimo · Be vandenženklio · Be įkėlimo"
+  },
+  "sectionScreenshot": {
+    "message": "Ekrano nuotrauka"
+  },
+  "sectionRecord": {
+    "message": "Įrašymas (B etapas)"
+  },
+  "actionVisible": {
+    "message": "Matoma sritis"
+  },
+  "actionFullPage": {
+    "message": "Visas puslapis"
+  },
+  "actionArea": {
+    "message": "Pasirinkta sritis"
+  },
+  "actionDelay": {
+    "message": "Delsa 3 s"
+  },
+  "recordTab": {
+    "message": "Skirtukas"
+  },
+  "recordScreen": {
+    "message": "Ekranas"
+  },
+  "recordWebcam": {
+    "message": "Internetinė kamera"
+  },
+  "micOn": {
+    "message": "Mikrofonas"
+  },
+  "tabAudioOn": {
+    "message": "Skirtuko garsas"
+  },
+  "comingSoonPhaseB": {
+    "message": "Įrašymas atsiras B etape (nemokamas atnaujinimas)."
+  },
+  "settingsFormat": {
+    "message": "Numatytasis formatas"
+  },
+  "formatPNG": {
+    "message": "PNG (be kokybės praradimo)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (mažesnis)"
+  },
+  "formatPDF": {
+    "message": "PDF (kelių puslapių)"
+  },
+  "settingsDPR": {
+    "message": "Fiksuoti tinklainės raiška"
+  },
+  "settingsQuality": {
+    "message": "JPEG kokybė"
+  },
+  "save": {
+    "message": "Išsaugoti"
+  },
+  "cancel": {
+    "message": "Atšaukti"
+  },
+  "openEditor": {
+    "message": "Atverti redaktoriuje"
+  },
+  "downloadNow": {
+    "message": "Atsisiųsti dabar"
+  },
+  "editorTitle": {
+    "message": "Redaktorius"
+  },
+  "toolArrow": {
+    "message": "Rodyklė"
+  },
+  "toolBox": {
+    "message": "Stačiakampis"
+  },
+  "toolText": {
+    "message": "Tekstas"
+  },
+  "toolBlur": {
+    "message": "Suliejimas"
+  },
+  "toolHighlight": {
+    "message": "Paryškinimas"
+  },
+  "toolUndo": {
+    "message": "Anuliuoti"
+  },
+  "toolRedo": {
+    "message": "Grąžinti"
+  },
+  "toolClear": {
+    "message": "Išvalyti"
+  },
+  "exportPng": {
+    "message": "Eksportuoti PNG"
+  },
+  "exportJpeg": {
+    "message": "Eksportuoti JPEG"
+  },
+  "exportPdf": {
+    "message": "Eksportuoti PDF"
+  },
+  "toastCapturing": {
+    "message": "Fiksuojama…"
+  },
+  "toastStitching": {
+    "message": "Sujungiamos plytelės…"
+  },
+  "toastSaved": {
+    "message": "Išsaugota jūsų atsisiuntimų aplanke."
+  },
+  "toastEditorOpened": {
+    "message": "Redaktorius atvertas naujame skirtuke."
+  },
+  "toastFailed": {
+    "message": "Fiksavimas nepavyko. Pabandykite perkrauti skirtuką."
+  },
+  "toastCanvasCapHit": {
+    "message": "Puslapis labai aukštas — išvestis suskaidyta į plyteles, kad tilptų į Chrome drobės ribą."
+  },
+  "selectorHint": {
+    "message": "Vilkite, kad pasirinktumėte. Esc — atšaukti."
+  },
+  "delayCountdown": {
+    "message": "Fiksuojama po $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Visas apdorojimas vyksta vietoje. Jūsų ekranas niekada nepalieka įrenginio."
+  },
+  "cmdRecordToggle": {
+    "message": "Perjungti įrašymą"
+  },
+  "recordStop": {
+    "message": "Stabdyti"
+  },
+  "recordStopTooltip": {
+    "message": "Sustabdyti ir išsaugoti įrašą"
+  },
+  "toastRecordingStarted": {
+    "message": "Įrašymas pradėtas…"
+  },
+  "toastRecordingStopped": {
+    "message": "Įrašas išsaugotas jūsų atsisiuntimų aplanke."
+  },
+  "toastMicDenied": {
+    "message": "Mikrofono leidimas atmestas."
+  },
+  "toastScreenDenied": {
+    "message": "Ekrano leidimas atmestas."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Skirtuko fiksavimas nepavyko. Pabandykite perkrauti skirtuką."
+  },
+  "toastRecovered": {
+    "message": "Atkurtas paskutinis įrašas."
+  },
+  "recoverLast": {
+    "message": "Atkurti paskutinį įrašą"
+  },
+  "discardLast": {
+    "message": "Atmesti"
+  },
+  "recordingActive": {
+    "message": "Vyksta įrašymas"
+  },
+  "recordDuration": {
+    "message": "Trukmė"
+  },
+  "recordHintTab": {
+    "message": "Skirtukas · mikrofonas · skirtuko garsas"
+  },
+  "recordHintScreen": {
+    "message": "Ekranas · mikrofonas (pasirinktinai)"
+  },
+  "recordHintWebcam": {
+    "message": "Internetinė kamera + mikrofonas"
+  },
+  "sectionVideoEditor": {
+    "message": "Vaizdo redaktorius (C etapas)"
+  },
+  "sectionScheduler": {
+    "message": "Suplanuotas įrašymas"
+  },
+  "sectionLicense": {
+    "message": "Licencija"
+  },
+  "openVideoEditor": {
+    "message": "Atverti vaizdo redaktorių"
+  },
+  "noRecordingsYet": {
+    "message": "Dar nėra įrašų. Pirmiausia ką nors įrašykite."
+  },
+  "editorVideoTitle": {
+    "message": "Vaizdo redaktorius"
+  },
+  "editorTrim": {
+    "message": "Apkarpyti"
+  },
+  "editorCrop": {
+    "message": "Kirpti"
+  },
+  "editorBlur": {
+    "message": "Suliejimas"
+  },
+  "editorClickZoom": {
+    "message": "Priartinimas paspaudus"
+  },
+  "editorExportWebM": {
+    "message": "Eksportuoti WebM (nemokamai)"
+  },
+  "editorExportMp4": {
+    "message": "Eksportuoti MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Eksportuoti GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Eksportuoti 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Pradžia"
+  },
+  "editorOutPoint": {
+    "message": "Pabaiga"
+  },
+  "editorAddBlurRegion": {
+    "message": "Pridėti suliejimo sritį"
+  },
+  "editorClearOverlays": {
+    "message": "Išvalyti perdangas"
+  },
+  "editorProcessing": {
+    "message": "Apdorojama…"
+  },
+  "editorExportDone": {
+    "message": "Eksportas išsaugotas atsisiuntimų aplanke."
+  },
+  "editorExportFailed": {
+    "message": "Eksportas nepavyko."
+  },
+  "schedulerStartIn": {
+    "message": "Pradėti po (min.)"
+  },
+  "schedulerDuration": {
+    "message": "Trukmė (min.)"
+  },
+  "schedulerSource": {
+    "message": "Šaltinis"
+  },
+  "schedulerCreate": {
+    "message": "Suplanuoti įrašymą"
+  },
+  "schedulerCancel": {
+    "message": "Atšaukti planą"
+  },
+  "schedulerActive": {
+    "message": "Suplanuota"
+  },
+  "schedulerFiresIn": {
+    "message": "Įsijungs po $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Mažiausias planas yra 30 s (Chrome žadintuvų riba)."
+  },
+  "licenseKey": {
+    "message": "Licencijos raktas"
+  },
+  "licenseActivate": {
+    "message": "Aktyvinti"
+  },
+  "licenseActive": {
+    "message": "Pro licencija aktyvi"
+  },
+  "licenseInvalid": {
+    "message": "Netinkamas licencijos raktas."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "NEMOKAMA"
+  },
+  "proFeatureLocked": {
+    "message": "Pro funkcija — aktyvinkite licenciją, kad atrakintumėte."
+  },
+  "toastScheduled": {
+    "message": "Įrašymas suplanuotas."
+  },
+  "toastScheduleCancelled": {
+    "message": "Planas atšauktas."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro licencija aktyvinta."
+  },
+  "cmdOpenEditor": {
+    "message": "Atverti vaizdo redaktorių"
+  },
+  "formatWebM": {
+    "message": "WebM (nemokamai)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

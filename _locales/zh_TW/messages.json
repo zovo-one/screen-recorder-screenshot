@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "螢幕錄影與截圖 — 免登入、無浮水印",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "錄製分頁／螢幕／網路攝影機並截取整頁畫面。免登入、無浮水印、無限制、免上傳。",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "截圖與錄影"
+  },
+  "cmdCaptureVisible": {
+    "message": "截取頁面可見部分"
+  },
+  "cmdCaptureFullPage": {
+    "message": "截取整個頁面"
+  },
+  "cmdCaptureArea": {
+    "message": "截取選取範圍"
+  },
+  "popupTitle": {
+    "message": "螢幕錄影與截圖"
+  },
+  "popupSubtitle": {
+    "message": "免登入 · 無浮水印 · 免上傳"
+  },
+  "sectionScreenshot": {
+    "message": "截圖"
+  },
+  "sectionRecord": {
+    "message": "錄製（階段 B）"
+  },
+  "actionVisible": {
+    "message": "可見區域"
+  },
+  "actionFullPage": {
+    "message": "整個頁面"
+  },
+  "actionArea": {
+    "message": "選取範圍"
+  },
+  "actionDelay": {
+    "message": "延遲 3 秒"
+  },
+  "recordTab": {
+    "message": "分頁"
+  },
+  "recordScreen": {
+    "message": "螢幕"
+  },
+  "recordWebcam": {
+    "message": "網路攝影機"
+  },
+  "micOn": {
+    "message": "麥克風"
+  },
+  "tabAudioOn": {
+    "message": "分頁音訊"
+  },
+  "comingSoonPhaseB": {
+    "message": "錄製功能將於階段 B 推出（免費更新）。"
+  },
+  "settingsFormat": {
+    "message": "預設格式"
+  },
+  "formatPNG": {
+    "message": "PNG（無損）"
+  },
+  "formatJPEG": {
+    "message": "JPEG（較小）"
+  },
+  "formatPDF": {
+    "message": "PDF（多頁）"
+  },
+  "settingsDPR": {
+    "message": "以視網膜解析度截取"
+  },
+  "settingsQuality": {
+    "message": "JPEG 品質"
+  },
+  "save": {
+    "message": "儲存"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "openEditor": {
+    "message": "在編輯器中開啟"
+  },
+  "downloadNow": {
+    "message": "立即下載"
+  },
+  "editorTitle": {
+    "message": "編輯器"
+  },
+  "toolArrow": {
+    "message": "箭頭"
+  },
+  "toolBox": {
+    "message": "方框"
+  },
+  "toolText": {
+    "message": "文字"
+  },
+  "toolBlur": {
+    "message": "模糊"
+  },
+  "toolHighlight": {
+    "message": "螢光標示"
+  },
+  "toolUndo": {
+    "message": "復原"
+  },
+  "toolRedo": {
+    "message": "重做"
+  },
+  "toolClear": {
+    "message": "清除"
+  },
+  "exportPng": {
+    "message": "匯出 PNG"
+  },
+  "exportJpeg": {
+    "message": "匯出 JPEG"
+  },
+  "exportPdf": {
+    "message": "匯出 PDF"
+  },
+  "toastCapturing": {
+    "message": "擷取中…"
+  },
+  "toastStitching": {
+    "message": "拼接圖塊中…"
+  },
+  "toastSaved": {
+    "message": "已儲存至你的「下載」資料夾。"
+  },
+  "toastEditorOpened": {
+    "message": "已在新分頁開啟編輯器。"
+  },
+  "toastFailed": {
+    "message": "擷取失敗。請嘗試重新載入分頁。"
+  },
+  "toastCanvasCapHit": {
+    "message": "頁面非常長 — 輸出已分塊以符合 Chrome 的畫布上限。"
+  },
+  "selectorHint": {
+    "message": "拖曳以選取。按 Esc 取消。"
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$ 秒後擷取…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "所有處理都在本機進行。你的畫面絕不離開你的裝置。"
+  },
+  "cmdRecordToggle": {
+    "message": "切換錄製"
+  },
+  "recordStop": {
+    "message": "停止"
+  },
+  "recordStopTooltip": {
+    "message": "停止並儲存錄製"
+  },
+  "toastRecordingStarted": {
+    "message": "錄製已開始…"
+  },
+  "toastRecordingStopped": {
+    "message": "已將錄製儲存至你的「下載」資料夾。"
+  },
+  "toastMicDenied": {
+    "message": "麥克風權限遭拒。"
+  },
+  "toastScreenDenied": {
+    "message": "螢幕權限遭拒。"
+  },
+  "toastTabCaptureFailed": {
+    "message": "分頁擷取失敗。請嘗試重新載入分頁。"
+  },
+  "toastRecovered": {
+    "message": "已復原上次的錄製。"
+  },
+  "recoverLast": {
+    "message": "復原上次的錄製"
+  },
+  "discardLast": {
+    "message": "捨棄"
+  },
+  "recordingActive": {
+    "message": "錄製工作階段進行中"
+  },
+  "recordDuration": {
+    "message": "時長"
+  },
+  "recordHintTab": {
+    "message": "分頁 · 麥克風 · 分頁音訊"
+  },
+  "recordHintScreen": {
+    "message": "螢幕 · 麥克風（選用）"
+  },
+  "recordHintWebcam": {
+    "message": "網路攝影機 + 麥克風"
+  },
+  "sectionVideoEditor": {
+    "message": "影片編輯器（階段 C）"
+  },
+  "sectionScheduler": {
+    "message": "排程錄製"
+  },
+  "sectionLicense": {
+    "message": "授權"
+  },
+  "openVideoEditor": {
+    "message": "開啟影片編輯器"
+  },
+  "noRecordingsYet": {
+    "message": "尚無錄製。請先錄製一些內容。"
+  },
+  "editorVideoTitle": {
+    "message": "影片編輯器"
+  },
+  "editorTrim": {
+    "message": "修剪"
+  },
+  "editorCrop": {
+    "message": "裁切"
+  },
+  "editorBlur": {
+    "message": "模糊"
+  },
+  "editorClickZoom": {
+    "message": "點擊縮放"
+  },
+  "editorExportWebM": {
+    "message": "匯出 WebM（免費）"
+  },
+  "editorExportMp4": {
+    "message": "匯出 MP4（Pro）"
+  },
+  "editorExportGif": {
+    "message": "匯出 GIF（Pro）"
+  },
+  "editorExport4K": {
+    "message": "匯出 4K（Pro）"
+  },
+  "editorInPoint": {
+    "message": "起點"
+  },
+  "editorOutPoint": {
+    "message": "終點"
+  },
+  "editorAddBlurRegion": {
+    "message": "新增模糊區域"
+  },
+  "editorClearOverlays": {
+    "message": "清除疊加層"
+  },
+  "editorProcessing": {
+    "message": "處理中…"
+  },
+  "editorExportDone": {
+    "message": "匯出已儲存至「下載」資料夾。"
+  },
+  "editorExportFailed": {
+    "message": "匯出失敗。"
+  },
+  "schedulerStartIn": {
+    "message": "多久後開始（分鐘）"
+  },
+  "schedulerDuration": {
+    "message": "時長（分鐘）"
+  },
+  "schedulerSource": {
+    "message": "來源"
+  },
+  "schedulerCreate": {
+    "message": "排程錄製"
+  },
+  "schedulerCancel": {
+    "message": "取消排程"
+  },
+  "schedulerActive": {
+    "message": "已排程"
+  },
+  "schedulerFiresIn": {
+    "message": "$MIN$ 秒後啟動",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "最短排程為 30 秒（Chrome 鬧鐘下限）。"
+  },
+  "licenseKey": {
+    "message": "授權金鑰"
+  },
+  "licenseActivate": {
+    "message": "啟用"
+  },
+  "licenseActive": {
+    "message": "Pro 授權已啟用"
+  },
+  "licenseInvalid": {
+    "message": "授權金鑰無效。"
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro 功能 — 啟用授權即可解鎖。"
+  },
+  "toastScheduled": {
+    "message": "錄製已排程。"
+  },
+  "toastScheduleCancelled": {
+    "message": "排程已取消。"
+  },
+  "toastLicenseActivated": {
+    "message": "Pro 授權已啟用。"
+  },
+  "cmdOpenEditor": {
+    "message": "開啟影片編輯器"
+  },
+  "formatWebM": {
+    "message": "WebM（免費）"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264（Pro）"
+  },
+  "formatGif": {
+    "message": "GIF（Pro）"
+  },
+  "format4K": {
+    "message": "4K MP4（Pro）"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

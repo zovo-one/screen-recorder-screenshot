@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "Gravador de tela e captura — Sem conta, sem marca d'água"
+  },
+  "extDesc": {
+    "message": "Grave aba/tela/webcam e capture páginas inteiras. Sem conta, sem marca d'água, sem limites, sem upload."
+  },
+  "actionTitle": {
+    "message": "Capturar e gravar"
+  },
+  "cmdCaptureVisible": {
+    "message": "Capturar parte visível"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Capturar página inteira"
+  },
+  "cmdCaptureArea": {
+    "message": "Capturar área selecionada"
+  },
+  "popupTitle": {
+    "message": "Gravador de tela e captura"
+  },
+  "popupSubtitle": {
+    "message": "Sem conta · Sem marca d'água · Sem upload"
+  },
+  "sectionScreenshot": {
+    "message": "Captura"
+  },
+  "sectionRecord": {
+    "message": "Gravar (Fase B)"
+  },
+  "actionVisible": {
+    "message": "Área visível"
+  },
+  "actionFullPage": {
+    "message": "Página inteira"
+  },
+  "actionArea": {
+    "message": "Área selecionada"
+  },
+  "actionDelay": {
+    "message": "Atraso 3s"
+  },
+  "recordTab": {
+    "message": "Aba"
+  },
+  "recordScreen": {
+    "message": "Tela"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Microfone"
+  },
+  "tabAudioOn": {
+    "message": "Áudio da aba"
+  },
+  "comingSoonPhaseB": {
+    "message": "A gravação chega na Fase B (atualização gratuita)."
+  },
+  "settingsFormat": {
+    "message": "Formato padrão"
+  },
+  "formatPNG": {
+    "message": "PNG (sem perdas)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (menor)"
+  },
+  "formatPDF": {
+    "message": "PDF (várias páginas)"
+  },
+  "settingsDPR": {
+    "message": "Capturar em resolução retina"
+  },
+  "settingsQuality": {
+    "message": "Qualidade JPEG"
+  },
+  "save": {
+    "message": "Salvar"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "openEditor": {
+    "message": "Abrir no editor"
+  },
+  "downloadNow": {
+    "message": "Baixar agora"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Seta"
+  },
+  "toolBox": {
+    "message": "Retângulo"
+  },
+  "toolText": {
+    "message": "Texto"
+  },
+  "toolBlur": {
+    "message": "Desfoque"
+  },
+  "toolHighlight": {
+    "message": "Destaque"
+  },
+  "toolUndo": {
+    "message": "Desfazer"
+  },
+  "toolRedo": {
+    "message": "Refazer"
+  },
+  "toolClear": {
+    "message": "Limpar"
+  },
+  "exportPng": {
+    "message": "Exportar PNG"
+  },
+  "exportJpeg": {
+    "message": "Exportar JPEG"
+  },
+  "exportPdf": {
+    "message": "Exportar PDF"
+  },
+  "toastCapturing": {
+    "message": "Capturando…"
+  },
+  "toastStitching": {
+    "message": "Unindo blocos…"
+  },
+  "toastSaved": {
+    "message": "Salvo em Downloads."
+  },
+  "toastEditorOpened": {
+    "message": "Editor aberto em nova aba."
+  },
+  "toastFailed": {
+    "message": "Falha na captura. Recarregue a aba."
+  },
+  "toastCanvasCapHit": {
+    "message": "Página muito alta — saída em mosaico pelo limite de tela."
+  },
+  "selectorHint": {
+    "message": "Arraste para selecionar. Esc para cancelar."
+  },
+  "delayCountdown": {
+    "message": "Capturando em $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Todo o processamento é local. Sua tela nunca sai do seu dispositivo."
+  },
+  "cmdRecordToggle": {
+    "message": "Alternar gravação"
+  },
+  "recordStop": {
+    "message": "Parar"
+  },
+  "recordStopTooltip": {
+    "message": "Parar e salvar gravação"
+  },
+  "toastRecordingStarted": {
+    "message": "Gravação iniciada…"
+  },
+  "toastRecordingStopped": {
+    "message": "Gravação salva em Downloads."
+  },
+  "toastMicDenied": {
+    "message": "Permissão de microfone negada."
+  },
+  "toastScreenDenied": {
+    "message": "Permissão de tela negada."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Captura de aba falhou. Recarregue a aba."
+  },
+  "toastRecovered": {
+    "message": "Última gravação recuperada."
+  },
+  "recoverLast": {
+    "message": "Recuperar última gravação"
+  },
+  "discardLast": {
+    "message": "Descartar"
+  },
+  "recordingActive": {
+    "message": "Gravação em andamento"
+  },
+  "recordDuration": {
+    "message": "Duração"
+  },
+  "recordHintTab": {
+    "message": "Aba · mic · áudio da aba"
+  },
+  "recordHintScreen": {
+    "message": "Tela · mic (opcional)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + mic"
+  },
+  "sectionVideoEditor": {
+    "message": "Editor de vídeo (Fase C)"
+  },
+  "sectionScheduler": {
+    "message": "Gravação programada"
+  },
+  "sectionLicense": {
+    "message": "Licença"
+  },
+  "openVideoEditor": {
+    "message": "Abrir editor de vídeo"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "Agendar gravação"
+  },
+  "schedulerCancel": {
+    "message": "Cancelar agendamento"
+  },
+  "schedulerActive": {
+    "message": "Agendada"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "Chave de licença"
+  },
+  "licenseActivate": {
+    "message": "Ativar"
+  },
+  "licenseActive": {
+    "message": "Licença Pro ativa"
+  },
+  "licenseInvalid": {
+    "message": "Chave inválida."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "GRÁTIS"
+  },
+  "proFeatureLocked": {
+    "message": "Recurso Pro — ative a licença."
+  },
+  "toastScheduled": {
+    "message": "Gravação agendada."
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Licença Pro ativada."
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

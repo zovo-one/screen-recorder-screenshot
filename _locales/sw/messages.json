@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — Bila Kuingia, Bila Alama ya Maji",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Rekodi kichupo/skrini/kamera na piga picha za kurasa nzima. Bila kuingia, bila alama ya maji, bila vikomo, bila kupakia.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Piga Picha na Rekodi"
+  },
+  "cmdCaptureVisible": {
+    "message": "Nasa sehemu inayoonekana ya ukurasa"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Nasa ukurasa mzima"
+  },
+  "cmdCaptureArea": {
+    "message": "Nasa eneo lililochaguliwa"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "Bila kuingia · Bila alama ya maji · Bila kupakia"
+  },
+  "sectionScreenshot": {
+    "message": "Picha ya skrini"
+  },
+  "sectionRecord": {
+    "message": "Rekodi (Awamu B)"
+  },
+  "actionVisible": {
+    "message": "Eneo linaloonekana"
+  },
+  "actionFullPage": {
+    "message": "Ukurasa mzima"
+  },
+  "actionArea": {
+    "message": "Eneo lililochaguliwa"
+  },
+  "actionDelay": {
+    "message": "Kuchelewa 3s"
+  },
+  "recordTab": {
+    "message": "Kichupo"
+  },
+  "recordScreen": {
+    "message": "Skrini"
+  },
+  "recordWebcam": {
+    "message": "Kamera"
+  },
+  "micOn": {
+    "message": "Maikrofoni"
+  },
+  "tabAudioOn": {
+    "message": "Sauti ya kichupo"
+  },
+  "comingSoonPhaseB": {
+    "message": "Kurekodi kunakuja katika Awamu B (sasisho la bure)."
+  },
+  "settingsFormat": {
+    "message": "Muundo chaguo-msingi"
+  },
+  "formatPNG": {
+    "message": "PNG (bila hasara)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (ndogo zaidi)"
+  },
+  "formatPDF": {
+    "message": "PDF (kurasa nyingi)"
+  },
+  "settingsDPR": {
+    "message": "Nasa kwa mwonekano wa retina"
+  },
+  "settingsQuality": {
+    "message": "Ubora wa JPEG"
+  },
+  "save": {
+    "message": "Hifadhi"
+  },
+  "cancel": {
+    "message": "Ghairi"
+  },
+  "openEditor": {
+    "message": "Fungua katika kihariri"
+  },
+  "downloadNow": {
+    "message": "Pakua sasa"
+  },
+  "editorTitle": {
+    "message": "Kihariri"
+  },
+  "toolArrow": {
+    "message": "Mshale"
+  },
+  "toolBox": {
+    "message": "Kisanduku"
+  },
+  "toolText": {
+    "message": "Maandishi"
+  },
+  "toolBlur": {
+    "message": "Ukungu"
+  },
+  "toolHighlight": {
+    "message": "Angazia"
+  },
+  "toolUndo": {
+    "message": "Tendua"
+  },
+  "toolRedo": {
+    "message": "Rudia"
+  },
+  "toolClear": {
+    "message": "Futa"
+  },
+  "exportPng": {
+    "message": "Hamisha PNG"
+  },
+  "exportJpeg": {
+    "message": "Hamisha JPEG"
+  },
+  "exportPdf": {
+    "message": "Hamisha PDF"
+  },
+  "toastCapturing": {
+    "message": "Inanasa…"
+  },
+  "toastStitching": {
+    "message": "Inaunganisha vipande…"
+  },
+  "toastSaved": {
+    "message": "Imehifadhiwa kwenye Vipakuliwa vyako."
+  },
+  "toastEditorOpened": {
+    "message": "Kihariri kimefunguliwa katika kichupo kipya."
+  },
+  "toastFailed": {
+    "message": "Kunasa kumeshindwa. Jaribu kupakia upya kichupo."
+  },
+  "toastCanvasCapHit": {
+    "message": "Ukurasa ni mrefu sana — matokeo yamegawanywa vipande ili kutosha kikomo cha turubai cha Chrome."
+  },
+  "selectorHint": {
+    "message": "Buruta ili kuchagua. Esc ili kughairi."
+  },
+  "delayCountdown": {
+    "message": "Inanasa baada ya $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Uchakataji wote hufanyika ndani ya kifaa. Skrini yako haitoki kamwe kwenye kifaa chako."
+  },
+  "cmdRecordToggle": {
+    "message": "Washa au zima kurekodi"
+  },
+  "recordStop": {
+    "message": "Simamisha"
+  },
+  "recordStopTooltip": {
+    "message": "Simamisha na uhifadhi rekodi"
+  },
+  "toastRecordingStarted": {
+    "message": "Kurekodi kumeanza…"
+  },
+  "toastRecordingStopped": {
+    "message": "Rekodi imehifadhiwa kwenye Vipakuliwa vyako."
+  },
+  "toastMicDenied": {
+    "message": "Ruhusa ya maikrofoni imekataliwa."
+  },
+  "toastScreenDenied": {
+    "message": "Ruhusa ya skrini imekataliwa."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Kunasa kichupo kumeshindwa. Jaribu kupakia upya kichupo."
+  },
+  "toastRecovered": {
+    "message": "Rekodi ya mwisho imerejeshwa."
+  },
+  "recoverLast": {
+    "message": "Rejesha rekodi ya mwisho"
+  },
+  "discardLast": {
+    "message": "Tupa"
+  },
+  "recordingActive": {
+    "message": "Kurekodi kunaendelea"
+  },
+  "recordDuration": {
+    "message": "Muda"
+  },
+  "recordHintTab": {
+    "message": "Kichupo · maikrofoni · sauti ya kichupo"
+  },
+  "recordHintScreen": {
+    "message": "Skrini · maikrofoni (hiari)"
+  },
+  "recordHintWebcam": {
+    "message": "Kamera + maikrofoni"
+  },
+  "sectionVideoEditor": {
+    "message": "Kihariri cha video (Awamu C)"
+  },
+  "sectionScheduler": {
+    "message": "Kurekodi kulikopangwa"
+  },
+  "sectionLicense": {
+    "message": "Leseni"
+  },
+  "openVideoEditor": {
+    "message": "Fungua kihariri cha video"
+  },
+  "noRecordingsYet": {
+    "message": "Hakuna rekodi bado. Rekodi kitu kwanza."
+  },
+  "editorVideoTitle": {
+    "message": "Kihariri cha video"
+  },
+  "editorTrim": {
+    "message": "Punguza"
+  },
+  "editorCrop": {
+    "message": "Kata"
+  },
+  "editorBlur": {
+    "message": "Ukungu"
+  },
+  "editorClickZoom": {
+    "message": "Bofya-kuza"
+  },
+  "editorExportWebM": {
+    "message": "Hamisha WebM (bure)"
+  },
+  "editorExportMp4": {
+    "message": "Hamisha MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Hamisha GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Hamisha 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Ndani"
+  },
+  "editorOutPoint": {
+    "message": "Nje"
+  },
+  "editorAddBlurRegion": {
+    "message": "Ongeza eneo la ukungu"
+  },
+  "editorClearOverlays": {
+    "message": "Futa vifuniko"
+  },
+  "editorProcessing": {
+    "message": "Inachakata…"
+  },
+  "editorExportDone": {
+    "message": "Uhamishaji umehifadhiwa kwenye Vipakuliwa."
+  },
+  "editorExportFailed": {
+    "message": "Uhamishaji umeshindwa."
+  },
+  "schedulerStartIn": {
+    "message": "Anza baada ya (dak)"
+  },
+  "schedulerDuration": {
+    "message": "Muda (dak)"
+  },
+  "schedulerSource": {
+    "message": "Chanzo"
+  },
+  "schedulerCreate": {
+    "message": "Panga kurekodi"
+  },
+  "schedulerCancel": {
+    "message": "Ghairi ratiba"
+  },
+  "schedulerActive": {
+    "message": "Imepangwa"
+  },
+  "schedulerFiresIn": {
+    "message": "Inaanza baada ya $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Ratiba ya chini kabisa ni 30s (kikomo cha king'ora cha Chrome)."
+  },
+  "licenseKey": {
+    "message": "Ufunguo wa leseni"
+  },
+  "licenseActivate": {
+    "message": "Amilisha"
+  },
+  "licenseActive": {
+    "message": "Leseni ya Pro imeamilishwa"
+  },
+  "licenseInvalid": {
+    "message": "Ufunguo wa leseni si halali."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "BURE"
+  },
+  "proFeatureLocked": {
+    "message": "Kipengele cha Pro — amilisha leseni ili kufungua."
+  },
+  "toastScheduled": {
+    "message": "Kurekodi kumepangwa."
+  },
+  "toastScheduleCancelled": {
+    "message": "Ratiba imeghairiwa."
+  },
+  "toastLicenseActivated": {
+    "message": "Leseni ya Pro imeamilishwa."
+  },
+  "cmdOpenEditor": {
+    "message": "Fungua kihariri cha video"
+  },
+  "formatWebM": {
+    "message": "WebM (bure)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

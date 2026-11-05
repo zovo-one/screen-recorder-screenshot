@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "屏幕录制与截图 — 无需登录，无水印"
+  },
+  "extDesc": {
+    "message": "录制标签页/屏幕/摄像头并截取整页。无需登录、无水印、无时长限制、不上传。"
+  },
+  "actionTitle": {
+    "message": "截图与录制"
+  },
+  "cmdCaptureVisible": {
+    "message": "截取可见部分"
+  },
+  "cmdCaptureFullPage": {
+    "message": "截取整个页面"
+  },
+  "cmdCaptureArea": {
+    "message": "截取选定区域"
+  },
+  "popupTitle": {
+    "message": "屏幕录制与截图"
+  },
+  "popupSubtitle": {
+    "message": "无需登录 · 无水印 · 不上传"
+  },
+  "sectionScreenshot": {
+    "message": "截图"
+  },
+  "sectionRecord": {
+    "message": "录制（阶段 B）"
+  },
+  "actionVisible": {
+    "message": "可见区域"
+  },
+  "actionFullPage": {
+    "message": "整页"
+  },
+  "actionArea": {
+    "message": "选定区域"
+  },
+  "actionDelay": {
+    "message": "延迟 3 秒"
+  },
+  "recordTab": {
+    "message": "标签页"
+  },
+  "recordScreen": {
+    "message": "屏幕"
+  },
+  "recordWebcam": {
+    "message": "摄像头"
+  },
+  "micOn": {
+    "message": "麦克风"
+  },
+  "tabAudioOn": {
+    "message": "标签页声音"
+  },
+  "comingSoonPhaseB": {
+    "message": "录制功能将在阶段 B 推出（免费更新）。"
+  },
+  "settingsFormat": {
+    "message": "默认格式"
+  },
+  "formatPNG": {
+    "message": "PNG（无损）"
+  },
+  "formatJPEG": {
+    "message": "JPEG（更小）"
+  },
+  "formatPDF": {
+    "message": "PDF（多页）"
+  },
+  "settingsDPR": {
+    "message": "以 Retina 分辨率捕获"
+  },
+  "settingsQuality": {
+    "message": "JPEG 质量"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "openEditor": {
+    "message": "在编辑器中打开"
+  },
+  "downloadNow": {
+    "message": "立即下载"
+  },
+  "editorTitle": {
+    "message": "编辑器"
+  },
+  "toolArrow": {
+    "message": "箭头"
+  },
+  "toolBox": {
+    "message": "矩形"
+  },
+  "toolText": {
+    "message": "文字"
+  },
+  "toolBlur": {
+    "message": "模糊"
+  },
+  "toolHighlight": {
+    "message": "高亮"
+  },
+  "toolUndo": {
+    "message": "撤销"
+  },
+  "toolRedo": {
+    "message": "重做"
+  },
+  "toolClear": {
+    "message": "清除"
+  },
+  "exportPng": {
+    "message": "导出 PNG"
+  },
+  "exportJpeg": {
+    "message": "导出 JPEG"
+  },
+  "exportPdf": {
+    "message": "导出 PDF"
+  },
+  "toastCapturing": {
+    "message": "正在捕获…"
+  },
+  "toastStitching": {
+    "message": "正在拼接分块…"
+  },
+  "toastSaved": {
+    "message": "已保存到下载文件夹。"
+  },
+  "toastEditorOpened": {
+    "message": "已在新标签页打开编辑器。"
+  },
+  "toastFailed": {
+    "message": "捕获失败。请重新加载标签页。"
+  },
+  "toastCanvasCapHit": {
+    "message": "页面过长 — 因画布限制已分块输出。"
+  },
+  "selectorHint": {
+    "message": "拖动以选择。按 Esc 取消。"
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$s 后捕获…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "所有处理均在本地完成。您的屏幕永远不会离开设备。"
+  },
+  "cmdRecordToggle": {
+    "message": "切换录制"
+  },
+  "recordStop": {
+    "message": "停止"
+  },
+  "recordStopTooltip": {
+    "message": "停止并保存录制"
+  },
+  "toastRecordingStarted": {
+    "message": "录制已开始…"
+  },
+  "toastRecordingStopped": {
+    "message": "录制已保存到下载文件夹。"
+  },
+  "toastMicDenied": {
+    "message": "麦克风权限被拒绝。"
+  },
+  "toastScreenDenied": {
+    "message": "屏幕权限被拒绝。"
+  },
+  "toastTabCaptureFailed": {
+    "message": "标签页捕获失败。请重新加载标签页。"
+  },
+  "toastRecovered": {
+    "message": "已恢复上次录制。"
+  },
+  "recoverLast": {
+    "message": "恢复上次录制"
+  },
+  "discardLast": {
+    "message": "丢弃"
+  },
+  "recordingActive": {
+    "message": "正在录制中"
+  },
+  "recordDuration": {
+    "message": "时长"
+  },
+  "recordHintTab": {
+    "message": "标签页 · 麦克风 · 标签页声音"
+  },
+  "recordHintScreen": {
+    "message": "屏幕 · 麦克风（可选）"
+  },
+  "recordHintWebcam": {
+    "message": "摄像头 + 麦克风"
+  },
+  "sectionVideoEditor": {
+    "message": "视频编辑器(C阶段)"
+  },
+  "sectionScheduler": {
+    "message": "定时录制"
+  },
+  "sectionLicense": {
+    "message": "许可证"
+  },
+  "openVideoEditor": {
+    "message": "打开视频编辑器"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "安排录制"
+  },
+  "schedulerCancel": {
+    "message": "取消安排"
+  },
+  "schedulerActive": {
+    "message": "已安排"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "许可证密钥"
+  },
+  "licenseActivate": {
+    "message": "激活"
+  },
+  "licenseActive": {
+    "message": "Pro 许可证已激活"
+  },
+  "licenseInvalid": {
+    "message": "许可证密钥无效。"
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "免费"
+  },
+  "proFeatureLocked": {
+    "message": "Pro 功能 — 请激活许可证。"
+  },
+  "toastScheduled": {
+    "message": "录制已安排。"
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro 许可证已激活。"
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Nahrávanie obrazovky a snímky — bez prihlásenia, bez vodoznaku",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Nahrávajte kartu/obrazovku/webkameru a robte snímky celých stránok. Bez prihlásenia, bez vodoznaku, bez limitov, bez nahrávania na",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Snímka a nahrávanie"
+  },
+  "cmdCaptureVisible": {
+    "message": "Zachytiť viditeľnú časť stránky"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Zachytiť celú stránku"
+  },
+  "cmdCaptureArea": {
+    "message": "Zachytiť vybranú oblasť"
+  },
+  "popupTitle": {
+    "message": "Nahrávanie obrazovky a snímky"
+  },
+  "popupSubtitle": {
+    "message": "Bez prihlásenia · Bez vodoznaku · Bez nahrávania na server"
+  },
+  "sectionScreenshot": {
+    "message": "Snímka obrazovky"
+  },
+  "sectionRecord": {
+    "message": "Nahrávanie (fáza B)"
+  },
+  "actionVisible": {
+    "message": "Viditeľná oblasť"
+  },
+  "actionFullPage": {
+    "message": "Celá stránka"
+  },
+  "actionArea": {
+    "message": "Vybraná oblasť"
+  },
+  "actionDelay": {
+    "message": "Oneskorenie 3 s"
+  },
+  "recordTab": {
+    "message": "Karta"
+  },
+  "recordScreen": {
+    "message": "Obrazovka"
+  },
+  "recordWebcam": {
+    "message": "Webkamera"
+  },
+  "micOn": {
+    "message": "Mikrofón"
+  },
+  "tabAudioOn": {
+    "message": "Zvuk karty"
+  },
+  "comingSoonPhaseB": {
+    "message": "Nahrávanie príde vo fáze B (bezplatná aktualizácia)."
+  },
+  "settingsFormat": {
+    "message": "Predvolený formát"
+  },
+  "formatPNG": {
+    "message": "PNG (bezstratový)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (menší)"
+  },
+  "formatPDF": {
+    "message": "PDF (viacstranový)"
+  },
+  "settingsDPR": {
+    "message": "Zachytiť v rozlíšení retina"
+  },
+  "settingsQuality": {
+    "message": "Kvalita JPEG"
+  },
+  "save": {
+    "message": "Uložiť"
+  },
+  "cancel": {
+    "message": "Zrušiť"
+  },
+  "openEditor": {
+    "message": "Otvoriť v editore"
+  },
+  "downloadNow": {
+    "message": "Stiahnuť teraz"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Šípka"
+  },
+  "toolBox": {
+    "message": "Obdĺžnik"
+  },
+  "toolText": {
+    "message": "Text"
+  },
+  "toolBlur": {
+    "message": "Rozostrenie"
+  },
+  "toolHighlight": {
+    "message": "Zvýraznenie"
+  },
+  "toolUndo": {
+    "message": "Späť"
+  },
+  "toolRedo": {
+    "message": "Znova"
+  },
+  "toolClear": {
+    "message": "Vymazať"
+  },
+  "exportPng": {
+    "message": "Exportovať PNG"
+  },
+  "exportJpeg": {
+    "message": "Exportovať JPEG"
+  },
+  "exportPdf": {
+    "message": "Exportovať PDF"
+  },
+  "toastCapturing": {
+    "message": "Zachytáva sa…"
+  },
+  "toastStitching": {
+    "message": "Spájajú sa dlaždice…"
+  },
+  "toastSaved": {
+    "message": "Uložené do priečinka Stiahnuté."
+  },
+  "toastEditorOpened": {
+    "message": "Editor otvorený na novej karte."
+  },
+  "toastFailed": {
+    "message": "Zachytenie zlyhalo. Skúste kartu znova načítať."
+  },
+  "toastCanvasCapHit": {
+    "message": "Stránka je veľmi dlhá — výstup rozdelený na dlaždice podľa limitu plátna Chromu."
+  },
+  "selectorHint": {
+    "message": "Ťahaním vyberte oblasť. Esc na zrušenie."
+  },
+  "delayCountdown": {
+    "message": "Zachytenie o $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Všetko spracovanie prebieha lokálne. Vaša obrazovka nikdy neopustí vaše zariadenie."
+  },
+  "cmdRecordToggle": {
+    "message": "Prepnúť nahrávanie"
+  },
+  "recordStop": {
+    "message": "Zastaviť"
+  },
+  "recordStopTooltip": {
+    "message": "Zastaviť a uložiť nahrávku"
+  },
+  "toastRecordingStarted": {
+    "message": "Nahrávanie spustené…"
+  },
+  "toastRecordingStopped": {
+    "message": "Nahrávka uložená do priečinka Stiahnuté."
+  },
+  "toastMicDenied": {
+    "message": "Povolenie mikrofónu bolo zamietnuté."
+  },
+  "toastScreenDenied": {
+    "message": "Povolenie obrazovky bolo zamietnuté."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Zachytenie karty zlyhalo. Skúste kartu znova načítať."
+  },
+  "toastRecovered": {
+    "message": "Obnovená posledná nahrávka."
+  },
+  "recoverLast": {
+    "message": "Obnoviť poslednú nahrávku"
+  },
+  "discardLast": {
+    "message": "Zahodiť"
+  },
+  "recordingActive": {
+    "message": "Nahrávanie v relácii"
+  },
+  "recordDuration": {
+    "message": "Trvanie"
+  },
+  "recordHintTab": {
+    "message": "Karta · mikrofón · zvuk karty"
+  },
+  "recordHintScreen": {
+    "message": "Obrazovka · mikrofón (voliteľné)"
+  },
+  "recordHintWebcam": {
+    "message": "Webkamera + mikrofón"
+  },
+  "sectionVideoEditor": {
+    "message": "Video editor (fáza C)"
+  },
+  "sectionScheduler": {
+    "message": "Naplánované nahrávanie"
+  },
+  "sectionLicense": {
+    "message": "Licencia"
+  },
+  "openVideoEditor": {
+    "message": "Otvoriť video editor"
+  },
+  "noRecordingsYet": {
+    "message": "Zatiaľ žiadne nahrávky. Najprv niečo nahrajte."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Orezať"
+  },
+  "editorCrop": {
+    "message": "Vystrihnúť"
+  },
+  "editorBlur": {
+    "message": "Rozostrenie"
+  },
+  "editorClickZoom": {
+    "message": "Priblíženie kliknutím"
+  },
+  "editorExportWebM": {
+    "message": "Exportovať WebM (zadarmo)"
+  },
+  "editorExportMp4": {
+    "message": "Exportovať MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Exportovať GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Exportovať 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Začiatok"
+  },
+  "editorOutPoint": {
+    "message": "Koniec"
+  },
+  "editorAddBlurRegion": {
+    "message": "Pridať oblasť rozostrenia"
+  },
+  "editorClearOverlays": {
+    "message": "Vymazať prekrytia"
+  },
+  "editorProcessing": {
+    "message": "Spracúva sa…"
+  },
+  "editorExportDone": {
+    "message": "Export uložený do priečinka Stiahnuté."
+  },
+  "editorExportFailed": {
+    "message": "Export zlyhal."
+  },
+  "schedulerStartIn": {
+    "message": "Spustiť o (min)"
+  },
+  "schedulerDuration": {
+    "message": "Trvanie (min)"
+  },
+  "schedulerSource": {
+    "message": "Zdroj"
+  },
+  "schedulerCreate": {
+    "message": "Naplánovať nahrávanie"
+  },
+  "schedulerCancel": {
+    "message": "Zrušiť plán"
+  },
+  "schedulerActive": {
+    "message": "Naplánované"
+  },
+  "schedulerFiresIn": {
+    "message": "Spustí sa o $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimálny plán je 30 s (limit budíkov Chromu)."
+  },
+  "licenseKey": {
+    "message": "Licenčný kľúč"
+  },
+  "licenseActivate": {
+    "message": "Aktivovať"
+  },
+  "licenseActive": {
+    "message": "Pro licencia aktívna"
+  },
+  "licenseInvalid": {
+    "message": "Neplatný licenčný kľúč."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "ZADARMO"
+  },
+  "proFeatureLocked": {
+    "message": "Pro funkcia — odomknite aktiváciou licencie."
+  },
+  "toastScheduled": {
+    "message": "Nahrávanie naplánované."
+  },
+  "toastScheduleCancelled": {
+    "message": "Plán zrušený."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro licencia aktivovaná."
+  },
+  "cmdOpenEditor": {
+    "message": "Otvoriť video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (zadarmo)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

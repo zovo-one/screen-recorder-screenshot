@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Näytön tallennin ja kuvakaappaus — ei kirjautumista, ei vesileimaa",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Tallenna välilehti/näyttö/verkkokamera ja ota kuvakaappaus kokonaisista sivuista.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Kuvakaappaus ja tallennus"
+  },
+  "cmdCaptureVisible": {
+    "message": "Kaappaa sivun näkyvä osa"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Kaappaa koko sivu"
+  },
+  "cmdCaptureArea": {
+    "message": "Kaappaa valittu alue"
+  },
+  "popupTitle": {
+    "message": "Näytön tallennin ja kuvakaappaus"
+  },
+  "popupSubtitle": {
+    "message": "Ei kirjautumista · Ei vesileimaa · Ei lähettämistä"
+  },
+  "sectionScreenshot": {
+    "message": "Kuvakaappaus"
+  },
+  "sectionRecord": {
+    "message": "Tallenna (vaihe B)"
+  },
+  "actionVisible": {
+    "message": "Näkyvä alue"
+  },
+  "actionFullPage": {
+    "message": "Koko sivu"
+  },
+  "actionArea": {
+    "message": "Valittu alue"
+  },
+  "actionDelay": {
+    "message": "Viive 3 s"
+  },
+  "recordTab": {
+    "message": "Välilehti"
+  },
+  "recordScreen": {
+    "message": "Näyttö"
+  },
+  "recordWebcam": {
+    "message": "Verkkokamera"
+  },
+  "micOn": {
+    "message": "Mikrofoni"
+  },
+  "tabAudioOn": {
+    "message": "Välilehden ääni"
+  },
+  "comingSoonPhaseB": {
+    "message": "Tallennus saapuu vaiheessa B (ilmainen päivitys)."
+  },
+  "settingsFormat": {
+    "message": "Oletusmuoto"
+  },
+  "formatPNG": {
+    "message": "PNG (häviötön)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (pienempi)"
+  },
+  "formatPDF": {
+    "message": "PDF (monisivuinen)"
+  },
+  "settingsDPR": {
+    "message": "Kaappaa retina-tarkkuudella"
+  },
+  "settingsQuality": {
+    "message": "JPEG-laatu"
+  },
+  "save": {
+    "message": "Tallenna"
+  },
+  "cancel": {
+    "message": "Peruuta"
+  },
+  "openEditor": {
+    "message": "Avaa editorissa"
+  },
+  "downloadNow": {
+    "message": "Lataa nyt"
+  },
+  "editorTitle": {
+    "message": "Editori"
+  },
+  "toolArrow": {
+    "message": "Nuoli"
+  },
+  "toolBox": {
+    "message": "Laatikko"
+  },
+  "toolText": {
+    "message": "Teksti"
+  },
+  "toolBlur": {
+    "message": "Sumennus"
+  },
+  "toolHighlight": {
+    "message": "Korostus"
+  },
+  "toolUndo": {
+    "message": "Kumoa"
+  },
+  "toolRedo": {
+    "message": "Tee uudelleen"
+  },
+  "toolClear": {
+    "message": "Tyhjennä"
+  },
+  "exportPng": {
+    "message": "Vie PNG"
+  },
+  "exportJpeg": {
+    "message": "Vie JPEG"
+  },
+  "exportPdf": {
+    "message": "Vie PDF"
+  },
+  "toastCapturing": {
+    "message": "Kaapataan…"
+  },
+  "toastStitching": {
+    "message": "Yhdistetään ruutuja…"
+  },
+  "toastSaved": {
+    "message": "Tallennettu Lataukset-kansioon."
+  },
+  "toastEditorOpened": {
+    "message": "Editori avattiin uuteen välilehteen."
+  },
+  "toastFailed": {
+    "message": "Kaappaus epäonnistui. Lataa välilehti uudelleen."
+  },
+  "toastCanvasCapHit": {
+    "message": "Sivu on hyvin pitkä — tuloste jaettiin ruutuihin Chromen canvas-rajan mukaan."
+  },
+  "selectorHint": {
+    "message": "Valitse vetämällä. Peruuta Esc-näppäimellä."
+  },
+  "delayCountdown": {
+    "message": "Kaapataan $SECONDS$ s kuluttua…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Kaikki käsittely tapahtuu paikallisesti. Näyttösi ei koskaan poistu laitteeltasi."
+  },
+  "cmdRecordToggle": {
+    "message": "Käynnistä/pysäytä tallennus"
+  },
+  "recordStop": {
+    "message": "Pysäytä"
+  },
+  "recordStopTooltip": {
+    "message": "Pysäytä ja tallenna nauhoitus"
+  },
+  "toastRecordingStarted": {
+    "message": "Tallennus alkoi…"
+  },
+  "toastRecordingStopped": {
+    "message": "Tallenne tallennettiin Lataukset-kansioon."
+  },
+  "toastMicDenied": {
+    "message": "Mikrofonin käyttölupa evätty."
+  },
+  "toastScreenDenied": {
+    "message": "Näytön käyttölupa evätty."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Välilehden kaappaus epäonnistui. Lataa välilehti uudelleen."
+  },
+  "toastRecovered": {
+    "message": "Viimeisin tallenne palautettiin."
+  },
+  "recoverLast": {
+    "message": "Palauta viimeisin tallenne"
+  },
+  "discardLast": {
+    "message": "Hylkää"
+  },
+  "recordingActive": {
+    "message": "Tallennus käynnissä"
+  },
+  "recordDuration": {
+    "message": "Kesto"
+  },
+  "recordHintTab": {
+    "message": "Välilehti · mikrofoni · välilehden ääni"
+  },
+  "recordHintScreen": {
+    "message": "Näyttö · mikrofoni (valinnainen)"
+  },
+  "recordHintWebcam": {
+    "message": "Verkkokamera + mikrofoni"
+  },
+  "sectionVideoEditor": {
+    "message": "Videoeditori (vaihe C)"
+  },
+  "sectionScheduler": {
+    "message": "Ajastettu tallennus"
+  },
+  "sectionLicense": {
+    "message": "Lisenssi"
+  },
+  "openVideoEditor": {
+    "message": "Avaa videoeditori"
+  },
+  "noRecordingsYet": {
+    "message": "Ei vielä tallenteita. Tallenna ensin jotain."
+  },
+  "editorVideoTitle": {
+    "message": "Videoeditori"
+  },
+  "editorTrim": {
+    "message": "Leikkaa"
+  },
+  "editorCrop": {
+    "message": "Rajaa"
+  },
+  "editorBlur": {
+    "message": "Sumennus"
+  },
+  "editorClickZoom": {
+    "message": "Napsautuszoomaus"
+  },
+  "editorExportWebM": {
+    "message": "Vie WebM (ilmainen)"
+  },
+  "editorExportMp4": {
+    "message": "Vie MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Vie GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Vie 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Alku"
+  },
+  "editorOutPoint": {
+    "message": "Loppu"
+  },
+  "editorAddBlurRegion": {
+    "message": "Lisää sumennusalue"
+  },
+  "editorClearOverlays": {
+    "message": "Tyhjennä peittokuvat"
+  },
+  "editorProcessing": {
+    "message": "Käsitellään…"
+  },
+  "editorExportDone": {
+    "message": "Vienti tallennettiin Lataukset-kansioon."
+  },
+  "editorExportFailed": {
+    "message": "Vienti epäonnistui."
+  },
+  "schedulerStartIn": {
+    "message": "Alkaa (min)"
+  },
+  "schedulerDuration": {
+    "message": "Kesto (min)"
+  },
+  "schedulerSource": {
+    "message": "Lähde"
+  },
+  "schedulerCreate": {
+    "message": "Ajasta tallennus"
+  },
+  "schedulerCancel": {
+    "message": "Peruuta ajastus"
+  },
+  "schedulerActive": {
+    "message": "Ajastettu"
+  },
+  "schedulerFiresIn": {
+    "message": "Käynnistyy $MIN$ s kuluttua",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Vähimmäisajastus on 30 s (Chromen hälytysten alaraja)."
+  },
+  "licenseKey": {
+    "message": "Lisenssiavain"
+  },
+  "licenseActivate": {
+    "message": "Aktivoi"
+  },
+  "licenseActive": {
+    "message": "Pro-lisenssi aktiivinen"
+  },
+  "licenseInvalid": {
+    "message": "Lisenssiavain ei kelpaa."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "ILMAINEN"
+  },
+  "proFeatureLocked": {
+    "message": "Pro-ominaisuus — aktivoi lisenssi avataksesi sen."
+  },
+  "toastScheduled": {
+    "message": "Tallennus ajastettu."
+  },
+  "toastScheduleCancelled": {
+    "message": "Ajastus peruutettu."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro-lisenssi aktivoitu."
+  },
+  "cmdOpenEditor": {
+    "message": "Avaa videoeditori"
+  },
+  "formatWebM": {
+    "message": "WebM (ilmainen)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "Bildschirmrekorder & Screenshot — Kein Login, kein Wasserzeichen"
+  },
+  "extDesc": {
+    "message": "Tab/Bildschirm/Webcam aufnehmen und ganze Seiten erfassen. Kein Login, kein Wasserzeichen, keine Limits, kein Upload."
+  },
+  "actionTitle": {
+    "message": "Aufnehmen & Screenshot"
+  },
+  "cmdCaptureVisible": {
+    "message": "Sichtbaren Bereich aufnehmen"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Ganze Seite aufnehmen"
+  },
+  "cmdCaptureArea": {
+    "message": "Ausgewählten Bereich aufnehmen"
+  },
+  "popupTitle": {
+    "message": "Bildschirmrekorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "Kein Login · Kein Wasserzeichen · Kein Upload"
+  },
+  "sectionScreenshot": {
+    "message": "Screenshot"
+  },
+  "sectionRecord": {
+    "message": "Aufnehmen"
+  },
+  "actionVisible": {
+    "message": "Sichtbarer Bereich"
+  },
+  "actionFullPage": {
+    "message": "Ganze Seite"
+  },
+  "actionArea": {
+    "message": "Ausgewählter Bereich"
+  },
+  "actionDelay": {
+    "message": "Verzögerung 3s"
+  },
+  "recordTab": {
+    "message": "Tab"
+  },
+  "recordScreen": {
+    "message": "Bildschirm"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Mikrofon"
+  },
+  "tabAudioOn": {
+    "message": "Tab-Audio"
+  },
+  "comingSoonPhaseB": {
+    "message": "Aufnahme kommt (kostenloses Update)."
+  },
+  "settingsFormat": {
+    "message": "Standardformat"
+  },
+  "formatPNG": {
+    "message": "PNG (verlustfrei)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (kleiner)"
+  },
+  "formatPDF": {
+    "message": "PDF (mehrseitig)"
+  },
+  "settingsDPR": {
+    "message": "In Retina-Auflösung aufnehmen"
+  },
+  "settingsQuality": {
+    "message": "JPEG-Qualität"
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "openEditor": {
+    "message": "Im Editor öffnen"
+  },
+  "downloadNow": {
+    "message": "Jetzt herunterladen"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Pfeil"
+  },
+  "toolBox": {
+    "message": "Rechteck"
+  },
+  "toolText": {
+    "message": "Text"
+  },
+  "toolBlur": {
+    "message": "Unschärfe"
+  },
+  "toolHighlight": {
+    "message": "Hervorheben"
+  },
+  "toolUndo": {
+    "message": "Rückgängig"
+  },
+  "toolRedo": {
+    "message": "Wiederholen"
+  },
+  "toolClear": {
+    "message": "Löschen"
+  },
+  "exportPng": {
+    "message": "PNG exportieren"
+  },
+  "exportJpeg": {
+    "message": "JPEG exportieren"
+  },
+  "exportPdf": {
+    "message": "PDF exportieren"
+  },
+  "toastCapturing": {
+    "message": "Erfasse…"
+  },
+  "toastStitching": {
+    "message": "Füge Kacheln zusammen…"
+  },
+  "toastSaved": {
+    "message": "In Downloads gespeichert."
+  },
+  "toastEditorOpened": {
+    "message": "Editor in neuem Tab geöffnet."
+  },
+  "toastFailed": {
+    "message": "Aufnahme fehlgeschlagen. Tab neu laden."
+  },
+  "toastCanvasCapHit": {
+    "message": "Seite sehr lang — Ausgabe gekachelt wegen Canvas-Limit."
+  },
+  "selectorHint": {
+    "message": "Ziehen zum Auswählen. Esc zum Abbrechen."
+  },
+  "delayCountdown": {
+    "message": "Aufnahme in $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Alle Verarbeitung erfolgt lokal. Ihr Bildschirm verlässt nie Ihr Gerät."
+  },
+  "cmdRecordToggle": {
+    "message": "Aufnahme umschalten"
+  },
+  "recordStop": {
+    "message": "Stopp"
+  },
+  "recordStopTooltip": {
+    "message": "Aufnahme stoppen und speichern"
+  },
+  "toastRecordingStarted": {
+    "message": "Aufnahme gestartet…"
+  },
+  "toastRecordingStopped": {
+    "message": "Aufnahme in Downloads gespeichert."
+  },
+  "toastMicDenied": {
+    "message": "Mikrofonzugriff verweigert."
+  },
+  "toastScreenDenied": {
+    "message": "Bildschirmzugriff verweigert."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Tab-Aufnahme fehlgeschlagen. Tab neu laden."
+  },
+  "toastRecovered": {
+    "message": "Letzte Aufnahme wiederhergestellt."
+  },
+  "recoverLast": {
+    "message": "Letzte Aufnahme wiederherstellen"
+  },
+  "discardLast": {
+    "message": "Verwerfen"
+  },
+  "recordingActive": {
+    "message": "Aufnahme läuft"
+  },
+  "recordDuration": {
+    "message": "Dauer"
+  },
+  "recordHintTab": {
+    "message": "Tab · Mik · Tab-Audio"
+  },
+  "recordHintScreen": {
+    "message": "Bildschirm · Mik (optional)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + Mik"
+  },
+  "sectionVideoEditor": {
+    "message": "Video-Editor"
+  },
+  "sectionScheduler": {
+    "message": "Geplante Aufnahme"
+  },
+  "sectionLicense": {
+    "message": "Lizenz"
+  },
+  "openVideoEditor": {
+    "message": "Video-Editor öffnen"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "Aufnahme planen"
+  },
+  "schedulerCancel": {
+    "message": "Plan abbrechen"
+  },
+  "schedulerActive": {
+    "message": "Geplant"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "Lizenzschlüssel"
+  },
+  "licenseActivate": {
+    "message": "Aktivieren"
+  },
+  "licenseActive": {
+    "message": "Pro-Lizenz aktiv"
+  },
+  "licenseInvalid": {
+    "message": "Lizenzschlüssel ungültig."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "KOSTENLOS"
+  },
+  "proFeatureLocked": {
+    "message": "Pro-Funktion — Lizenz aktivieren."
+  },
+  "toastScheduled": {
+    "message": "Aufnahme geplant."
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro-Lizenz aktiviert."
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

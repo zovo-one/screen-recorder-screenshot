@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "Perekam layar & tangkapan layar — Tanpa login, tanpa watermark"
+  },
+  "extDesc": {
+    "message": "Rekam tab/layar/webcam dan tangkap halaman penuh. Tanpa login, tanpa watermark, tanpa batas, tanpa unggah."
+  },
+  "actionTitle": {
+    "message": "Tangkap & Rekam"
+  },
+  "cmdCaptureVisible": {
+    "message": "Tangkap bagian terlihat"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Tangkap seluruh halaman"
+  },
+  "cmdCaptureArea": {
+    "message": "Tangkap area terpilih"
+  },
+  "popupTitle": {
+    "message": "Perekam layar & tangkapan layar"
+  },
+  "popupSubtitle": {
+    "message": "Tanpa login · Tanpa watermark · Tanpa unggah"
+  },
+  "sectionScreenshot": {
+    "message": "Tangkapan layar"
+  },
+  "sectionRecord": {
+    "message": "Rekam (Fase B)"
+  },
+  "actionVisible": {
+    "message": "Area terlihat"
+  },
+  "actionFullPage": {
+    "message": "Halaman penuh"
+  },
+  "actionArea": {
+    "message": "Area terpilih"
+  },
+  "actionDelay": {
+    "message": "Jeda 3 dtk"
+  },
+  "recordTab": {
+    "message": "Tab"
+  },
+  "recordScreen": {
+    "message": "Layar"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Mik"
+  },
+  "tabAudioOn": {
+    "message": "Suara tab"
+  },
+  "comingSoonPhaseB": {
+    "message": "Perekaman hadir di Fase B (pembaruan gratis)."
+  },
+  "settingsFormat": {
+    "message": "Format bawaan"
+  },
+  "formatPNG": {
+    "message": "PNG (tanpa rugi)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (lebih kecil)"
+  },
+  "formatPDF": {
+    "message": "PDF (banyak halaman)"
+  },
+  "settingsDPR": {
+    "message": "Tangkap pada resolusi Retina"
+  },
+  "settingsQuality": {
+    "message": "Kualitas JPEG"
+  },
+  "save": {
+    "message": "Simpan"
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "openEditor": {
+    "message": "Buka di editor"
+  },
+  "downloadNow": {
+    "message": "Unduh sekarang"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Panah"
+  },
+  "toolBox": {
+    "message": "Kotak"
+  },
+  "toolText": {
+    "message": "Teks"
+  },
+  "toolBlur": {
+    "message": "Buram"
+  },
+  "toolHighlight": {
+    "message": "Sorot"
+  },
+  "toolUndo": {
+    "message": "Batal"
+  },
+  "toolRedo": {
+    "message": "Ulangi"
+  },
+  "toolClear": {
+    "message": "Bersihkan"
+  },
+  "exportPng": {
+    "message": "Ekspor PNG"
+  },
+  "exportJpeg": {
+    "message": "Ekspor JPEG"
+  },
+  "exportPdf": {
+    "message": "Ekspor PDF"
+  },
+  "toastCapturing": {
+    "message": "Menangkap…"
+  },
+  "toastStitching": {
+    "message": "Menggabungkan ubin…"
+  },
+  "toastSaved": {
+    "message": "Disimpan ke Unduhan."
+  },
+  "toastEditorOpened": {
+    "message": "Editor dibuka di tab baru."
+  },
+  "toastFailed": {
+    "message": "Tangkap gagal. Muat ulang tab."
+  },
+  "toastCanvasCapHit": {
+    "message": "Halaman sangat panjang — output diubin karena batas canvas."
+  },
+  "selectorHint": {
+    "message": "Seret untuk memilih. Esc untuk batal."
+  },
+  "delayCountdown": {
+    "message": "Menangkap dalam $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Semua pemrosesan dilakukan lokal. Layar Anda tidak pernah meninggalkan perangkat."
+  },
+  "cmdRecordToggle": {
+    "message": "Aktif/nonaktifkan perekaman"
+  },
+  "recordStop": {
+    "message": "Berhenti"
+  },
+  "recordStopTooltip": {
+    "message": "Hentikan dan simpan perekaman"
+  },
+  "toastRecordingStarted": {
+    "message": "Perekaman dimulai…"
+  },
+  "toastRecordingStopped": {
+    "message": "Perekaman disimpan ke Unduhan."
+  },
+  "toastMicDenied": {
+    "message": "Izin mikrofon ditolak."
+  },
+  "toastScreenDenied": {
+    "message": "Izin layar ditolak."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Tangkap tab gagal. Muat ulang tab."
+  },
+  "toastRecovered": {
+    "message": "Perekaman terakhir dipulihkan."
+  },
+  "recoverLast": {
+    "message": "Pulihkan perekaman terakhir"
+  },
+  "discardLast": {
+    "message": "Buang"
+  },
+  "recordingActive": {
+    "message": "Sedang merekam"
+  },
+  "recordDuration": {
+    "message": "Durasi"
+  },
+  "recordHintTab": {
+    "message": "Tab · mik · suara tab"
+  },
+  "recordHintScreen": {
+    "message": "Layar · mik (opsional)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + mik"
+  },
+  "sectionVideoEditor": {
+    "message": "Editor video (Fase C)"
+  },
+  "sectionScheduler": {
+    "message": "Rekaman terjadwal"
+  },
+  "sectionLicense": {
+    "message": "Lisensi"
+  },
+  "openVideoEditor": {
+    "message": "Buka editor video"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "Jadwalkan rekaman"
+  },
+  "schedulerCancel": {
+    "message": "Batalkan jadwal"
+  },
+  "schedulerActive": {
+    "message": "Terjadwal"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "Kunci lisensi"
+  },
+  "licenseActivate": {
+    "message": "Aktifkan"
+  },
+  "licenseActive": {
+    "message": "Lisensi Pro aktif"
+  },
+  "licenseInvalid": {
+    "message": "Kunci lisensi tidak valid."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "GRATIS"
+  },
+  "proFeatureLocked": {
+    "message": "Fitur Pro — aktifkan lisensi."
+  },
+  "toastScheduled": {
+    "message": "Rekaman dijadwalkan."
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Lisensi Pro aktif."
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

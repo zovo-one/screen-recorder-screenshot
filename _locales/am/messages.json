@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — መግቢያ የለም፣ የውሃ ምልክት የለም",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "ትር/ስክሪን/ድር-ካሜራ ይቅረጹ እና ሙሉ ገጾችን ቅጽበታዊ ገጽ ያድርጉ። መግቢያ የለም፣ የውሃ ምልክት የለም፣ ገደብ የለም፣ መስቀል የለም።",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "ቅጽበታዊ ገጽ እና ቅረጻ"
+  },
+  "cmdCaptureVisible": {
+    "message": "የገጹን የሚታይ ክፍል ያንሱ"
+  },
+  "cmdCaptureFullPage": {
+    "message": "ሙሉ ገጽ ያንሱ"
+  },
+  "cmdCaptureArea": {
+    "message": "የተመረጠውን ቦታ ያንሱ"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "መግቢያ የለም · የውሃ ምልክት የለም · መስቀል የለም"
+  },
+  "sectionScreenshot": {
+    "message": "ቅጽበታዊ ገጽ"
+  },
+  "sectionRecord": {
+    "message": "ቅረጻ (ደረጃ B)"
+  },
+  "actionVisible": {
+    "message": "የሚታይ ቦታ"
+  },
+  "actionFullPage": {
+    "message": "ሙሉ ገጽ"
+  },
+  "actionArea": {
+    "message": "የተመረጠ ቦታ"
+  },
+  "actionDelay": {
+    "message": "3 ሰከንድ ዘግይ"
+  },
+  "recordTab": {
+    "message": "ትር"
+  },
+  "recordScreen": {
+    "message": "ስክሪን"
+  },
+  "recordWebcam": {
+    "message": "ድር-ካሜራ"
+  },
+  "micOn": {
+    "message": "ማይክ"
+  },
+  "tabAudioOn": {
+    "message": "የትር ድምጽ"
+  },
+  "comingSoonPhaseB": {
+    "message": "ቅረጻ በደረጃ B ይመጣል (ነጻ ማሻሻያ)።"
+  },
+  "settingsFormat": {
+    "message": "ነባሪ ቅርጸት"
+  },
+  "formatPNG": {
+    "message": "PNG (ኪሳራ-አልባ)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (ያነሰ)"
+  },
+  "formatPDF": {
+    "message": "PDF (ብዙ-ገጽ)"
+  },
+  "settingsDPR": {
+    "message": "በሬቲና ጥራት ያንሱ"
+  },
+  "settingsQuality": {
+    "message": "የJPEG ጥራት"
+  },
+  "save": {
+    "message": "አስቀምጥ"
+  },
+  "cancel": {
+    "message": "ሰርዝ"
+  },
+  "openEditor": {
+    "message": "በአርታዒ ውስጥ ክፈት"
+  },
+  "downloadNow": {
+    "message": "አሁን አውርድ"
+  },
+  "editorTitle": {
+    "message": "አርታዒ"
+  },
+  "toolArrow": {
+    "message": "ቀስት"
+  },
+  "toolBox": {
+    "message": "ሳጥን"
+  },
+  "toolText": {
+    "message": "ጽሑፍ"
+  },
+  "toolBlur": {
+    "message": "ብዥታ"
+  },
+  "toolHighlight": {
+    "message": "አጉልቶ አሳይ"
+  },
+  "toolUndo": {
+    "message": "መልስ"
+  },
+  "toolRedo": {
+    "message": "እንደገና"
+  },
+  "toolClear": {
+    "message": "አጽዳ"
+  },
+  "exportPng": {
+    "message": "PNG ላክ"
+  },
+  "exportJpeg": {
+    "message": "JPEG ላክ"
+  },
+  "exportPdf": {
+    "message": "PDF ላክ"
+  },
+  "toastCapturing": {
+    "message": "በማንሳት ላይ…"
+  },
+  "toastStitching": {
+    "message": "ንጣፎችን በማጣመር ላይ…"
+  },
+  "toastSaved": {
+    "message": "ወደ ውርዶችዎ ተቀምጧል።"
+  },
+  "toastEditorOpened": {
+    "message": "አርታዒ በአዲስ ትር ውስጥ ተከፍቷል።"
+  },
+  "toastFailed": {
+    "message": "ማንሳት አልተሳካም። ትሩን እንደገና ለመጫን ይሞክሩ።"
+  },
+  "toastCanvasCapHit": {
+    "message": "ገጹ በጣም ረጅም ነው — ውጤቱ የChrome ን የሸራ ገደብ ለማሟላት በንጣፎች ተከፍሏል።"
+  },
+  "selectorHint": {
+    "message": "ለመምረጥ ይጎትቱ። ለመሰረዝ Esc።"
+  },
+  "delayCountdown": {
+    "message": "በ$SECONDS$ ሰከንድ ውስጥ በማንሳት ላይ…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "ሁሉም ሂደት አካባቢያዊ ነው። ስክሪንዎ ፈጽሞ መሣሪያዎን አይለቅም።"
+  },
+  "cmdRecordToggle": {
+    "message": "ቅረጻ ቀያይር"
+  },
+  "recordStop": {
+    "message": "አቁም"
+  },
+  "recordStopTooltip": {
+    "message": "ቅረጻን አቁም እና አስቀምጥ"
+  },
+  "toastRecordingStarted": {
+    "message": "ቅረጻ ተጀምሯል…"
+  },
+  "toastRecordingStopped": {
+    "message": "ቅረጻ ወደ ውርዶችዎ ተቀምጧል።"
+  },
+  "toastMicDenied": {
+    "message": "የማይክሮፎን ፈቃድ ተከልክሏል።"
+  },
+  "toastScreenDenied": {
+    "message": "የስክሪን ፈቃድ ተከልክሏል።"
+  },
+  "toastTabCaptureFailed": {
+    "message": "የትር ማንሳት አልተሳካም። ትሩን እንደገና ለመጫን ይሞክሩ።"
+  },
+  "toastRecovered": {
+    "message": "የመጨረሻው ቅረጻ ተመልሷል።"
+  },
+  "recoverLast": {
+    "message": "የመጨረሻውን ቅረጻ መልስ"
+  },
+  "discardLast": {
+    "message": "ጣል"
+  },
+  "recordingActive": {
+    "message": "ቅረጻ በክፍለ-ጊዜ ውስጥ"
+  },
+  "recordDuration": {
+    "message": "ቆይታ"
+  },
+  "recordHintTab": {
+    "message": "ትር · ማይክ · የትር ድምጽ"
+  },
+  "recordHintScreen": {
+    "message": "ስክሪን · ማይክ (አማራጭ)"
+  },
+  "recordHintWebcam": {
+    "message": "ድር-ካሜራ + ማይክ"
+  },
+  "sectionVideoEditor": {
+    "message": "የቪዲዮ አርታዒ (ደረጃ C)"
+  },
+  "sectionScheduler": {
+    "message": "የተያዘ ቅረጻ"
+  },
+  "sectionLicense": {
+    "message": "ፈቃድ"
+  },
+  "openVideoEditor": {
+    "message": "የቪዲዮ አርታዒ ክፈት"
+  },
+  "noRecordingsYet": {
+    "message": "እስካሁን ቅረጻዎች የሉም። መጀመሪያ አንድ ነገር ይቅረጹ።"
+  },
+  "editorVideoTitle": {
+    "message": "የቪዲዮ አርታዒ"
+  },
+  "editorTrim": {
+    "message": "ቁረጥ"
+  },
+  "editorCrop": {
+    "message": "ከርክም"
+  },
+  "editorBlur": {
+    "message": "ብዥታ"
+  },
+  "editorClickZoom": {
+    "message": "ጠቅ-አጉላ"
+  },
+  "editorExportWebM": {
+    "message": "WebM ላክ (ነጻ)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 ላክ (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF ላክ (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K ላክ (Pro)"
+  },
+  "editorInPoint": {
+    "message": "መግቢያ"
+  },
+  "editorOutPoint": {
+    "message": "መውጫ"
+  },
+  "editorAddBlurRegion": {
+    "message": "የብዥታ ክልል አክል"
+  },
+  "editorClearOverlays": {
+    "message": "ተደራቢዎችን አጽዳ"
+  },
+  "editorProcessing": {
+    "message": "በማስኬድ ላይ…"
+  },
+  "editorExportDone": {
+    "message": "ላክ ወደ ውርዶች ተቀምጧል።"
+  },
+  "editorExportFailed": {
+    "message": "ላክ አልተሳካም።"
+  },
+  "schedulerStartIn": {
+    "message": "ጀምር በ (ደቂቃ)"
+  },
+  "schedulerDuration": {
+    "message": "ቆይታ (ደቂቃ)"
+  },
+  "schedulerSource": {
+    "message": "ምንጭ"
+  },
+  "schedulerCreate": {
+    "message": "ቅረጻ አስይዝ"
+  },
+  "schedulerCancel": {
+    "message": "መርሐ-ግብር ሰርዝ"
+  },
+  "schedulerActive": {
+    "message": "ተይዟል"
+  },
+  "schedulerFiresIn": {
+    "message": "በ$MIN$ ሰከንድ ውስጥ ይነሳል",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "ዝቅተኛው መርሐ-ግብር 30 ሰከንድ ነው (የChrome ማንቂያ ወለል)።"
+  },
+  "licenseKey": {
+    "message": "የፈቃድ ቁልፍ"
+  },
+  "licenseActivate": {
+    "message": "አግብር"
+  },
+  "licenseActive": {
+    "message": "Pro ፈቃድ ገቢር ሆኗል"
+  },
+  "licenseInvalid": {
+    "message": "የፈቃድ ቁልፍ ትክክለኛ አይደለም።"
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "የPro ባህሪ — ለመክፈት ፈቃድ ያግብሩ።"
+  },
+  "toastScheduled": {
+    "message": "ቅረጻ ተይዟል።"
+  },
+  "toastScheduleCancelled": {
+    "message": "መርሐ-ግብር ተሰርዟል።"
+  },
+  "toastLicenseActivated": {
+    "message": "Pro ፈቃድ ገቢር ሆኗል።"
+  },
+  "cmdOpenEditor": {
+    "message": "የቪዲዮ አርታዒ ክፈት"
+  },
+  "formatWebM": {
+    "message": "WebM (ነጻ)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

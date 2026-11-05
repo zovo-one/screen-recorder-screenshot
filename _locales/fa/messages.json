@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "ضبط صفحه و اسکرین‌شات — بدون ورود، بدون واترمارک",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "زبانه/صفحه/وب‌کم را ضبط کنید و از صفحه‌های کامل اسکرین‌شات بگیرید. بدون ورود، بدون واترمارک، بدون محدودیت، بدون بارگذاری.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "اسکرین‌شات و ضبط"
+  },
+  "cmdCaptureVisible": {
+    "message": "گرفتن بخش قابل‌مشاهدهٔ صفحه"
+  },
+  "cmdCaptureFullPage": {
+    "message": "گرفتن کل صفحه"
+  },
+  "cmdCaptureArea": {
+    "message": "گرفتن ناحیهٔ انتخاب‌شده"
+  },
+  "popupTitle": {
+    "message": "ضبط صفحه و اسکرین‌شات"
+  },
+  "popupSubtitle": {
+    "message": "بدون ورود · بدون واترمارک · بدون بارگذاری"
+  },
+  "sectionScreenshot": {
+    "message": "اسکرین‌شات"
+  },
+  "sectionRecord": {
+    "message": "ضبط (فاز B)"
+  },
+  "actionVisible": {
+    "message": "ناحیهٔ قابل‌مشاهده"
+  },
+  "actionFullPage": {
+    "message": "کل صفحه"
+  },
+  "actionArea": {
+    "message": "ناحیهٔ انتخاب‌شده"
+  },
+  "actionDelay": {
+    "message": "تأخیر ۳ ثانیه"
+  },
+  "recordTab": {
+    "message": "زبانه"
+  },
+  "recordScreen": {
+    "message": "صفحه"
+  },
+  "recordWebcam": {
+    "message": "وب‌کم"
+  },
+  "micOn": {
+    "message": "میکروفون"
+  },
+  "tabAudioOn": {
+    "message": "صدای زبانه"
+  },
+  "comingSoonPhaseB": {
+    "message": "ضبط در فاز B (به‌روزرسانی رایگان) می‌آید."
+  },
+  "settingsFormat": {
+    "message": "قالب پیش‌فرض"
+  },
+  "formatPNG": {
+    "message": "PNG (بدون افت)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (کوچک‌تر)"
+  },
+  "formatPDF": {
+    "message": "PDF (چندصفحه‌ای)"
+  },
+  "settingsDPR": {
+    "message": "گرفتن با وضوح رتینا"
+  },
+  "settingsQuality": {
+    "message": "کیفیت JPEG"
+  },
+  "save": {
+    "message": "ذخیره"
+  },
+  "cancel": {
+    "message": "لغو"
+  },
+  "openEditor": {
+    "message": "باز کردن در ویرایشگر"
+  },
+  "downloadNow": {
+    "message": "اکنون دانلود کن"
+  },
+  "editorTitle": {
+    "message": "ویرایشگر"
+  },
+  "toolArrow": {
+    "message": "پیکان"
+  },
+  "toolBox": {
+    "message": "کادر"
+  },
+  "toolText": {
+    "message": "متن"
+  },
+  "toolBlur": {
+    "message": "محو"
+  },
+  "toolHighlight": {
+    "message": "برجسته‌سازی"
+  },
+  "toolUndo": {
+    "message": "واگرد"
+  },
+  "toolRedo": {
+    "message": "ازنو"
+  },
+  "toolClear": {
+    "message": "پاک کردن"
+  },
+  "exportPng": {
+    "message": "خروجی PNG"
+  },
+  "exportJpeg": {
+    "message": "خروجی JPEG"
+  },
+  "exportPdf": {
+    "message": "خروجی PDF"
+  },
+  "toastCapturing": {
+    "message": "در حال گرفتن…"
+  },
+  "toastStitching": {
+    "message": "در حال دوختن کاشی‌ها…"
+  },
+  "toastSaved": {
+    "message": "در پوشهٔ دانلودها ذخیره شد."
+  },
+  "toastEditorOpened": {
+    "message": "ویرایشگر در یک زبانهٔ جدید باز شد."
+  },
+  "toastFailed": {
+    "message": "گرفتن ناموفق بود. بارگذاری مجدد زبانه را امتحان کنید."
+  },
+  "toastCanvasCapHit": {
+    "message": "صفحه بسیار بلند است — خروجی برای جا شدن در سقف بوم Chrome کاشی‌بندی شد."
+  },
+  "selectorHint": {
+    "message": "برای انتخاب بکشید. Esc برای لغو."
+  },
+  "delayCountdown": {
+    "message": "گرفتن در $SECONDS$ ثانیه…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "همهٔ پردازش‌ها محلی است. صفحهٔ شما هرگز از دستگاهتان خارج نمی‌شود."
+  },
+  "cmdRecordToggle": {
+    "message": "روشن/خاموش کردن ضبط"
+  },
+  "recordStop": {
+    "message": "توقف"
+  },
+  "recordStopTooltip": {
+    "message": "توقف و ذخیرهٔ ضبط"
+  },
+  "toastRecordingStarted": {
+    "message": "ضبط آغاز شد…"
+  },
+  "toastRecordingStopped": {
+    "message": "ضبط در پوشهٔ دانلودها ذخیره شد."
+  },
+  "toastMicDenied": {
+    "message": "اجازهٔ میکروفون رد شد."
+  },
+  "toastScreenDenied": {
+    "message": "اجازهٔ صفحه رد شد."
+  },
+  "toastTabCaptureFailed": {
+    "message": "گرفتن زبانه ناموفق بود. بارگذاری مجدد زبانه را امتحان کنید."
+  },
+  "toastRecovered": {
+    "message": "آخرین ضبط بازیابی شد."
+  },
+  "recoverLast": {
+    "message": "بازیابی آخرین ضبط"
+  },
+  "discardLast": {
+    "message": "دور انداختن"
+  },
+  "recordingActive": {
+    "message": "ضبط در نشست"
+  },
+  "recordDuration": {
+    "message": "مدت"
+  },
+  "recordHintTab": {
+    "message": "زبانه · میکروفون · صدای زبانه"
+  },
+  "recordHintScreen": {
+    "message": "صفحه · میکروفون (اختیاری)"
+  },
+  "recordHintWebcam": {
+    "message": "وب‌کم + میکروفون"
+  },
+  "sectionVideoEditor": {
+    "message": "ویرایشگر ویدیو (فاز C)"
+  },
+  "sectionScheduler": {
+    "message": "ضبط زمان‌بندی‌شده"
+  },
+  "sectionLicense": {
+    "message": "مجوز"
+  },
+  "openVideoEditor": {
+    "message": "باز کردن ویرایشگر ویدیو"
+  },
+  "noRecordingsYet": {
+    "message": "هنوز ضبطی وجود ندارد. ابتدا چیزی ضبط کنید."
+  },
+  "editorVideoTitle": {
+    "message": "ویرایشگر ویدیو"
+  },
+  "editorTrim": {
+    "message": "برش زمانی"
+  },
+  "editorCrop": {
+    "message": "برش کادر"
+  },
+  "editorBlur": {
+    "message": "محو"
+  },
+  "editorClickZoom": {
+    "message": "بزرگ‌نمایی با کلیک"
+  },
+  "editorExportWebM": {
+    "message": "خروجی WebM (رایگان)"
+  },
+  "editorExportMp4": {
+    "message": "خروجی MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "خروجی GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "خروجی 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "شروع"
+  },
+  "editorOutPoint": {
+    "message": "پایان"
+  },
+  "editorAddBlurRegion": {
+    "message": "افزودن ناحیهٔ محو"
+  },
+  "editorClearOverlays": {
+    "message": "پاک کردن روی‌لایه‌ها"
+  },
+  "editorProcessing": {
+    "message": "در حال پردازش…"
+  },
+  "editorExportDone": {
+    "message": "خروجی در دانلودها ذخیره شد."
+  },
+  "editorExportFailed": {
+    "message": "خروجی ناموفق بود."
+  },
+  "schedulerStartIn": {
+    "message": "شروع تا (دقیقه)"
+  },
+  "schedulerDuration": {
+    "message": "مدت (دقیقه)"
+  },
+  "schedulerSource": {
+    "message": "منبع"
+  },
+  "schedulerCreate": {
+    "message": "زمان‌بندی ضبط"
+  },
+  "schedulerCancel": {
+    "message": "لغو زمان‌بندی"
+  },
+  "schedulerActive": {
+    "message": "زمان‌بندی‌شده"
+  },
+  "schedulerFiresIn": {
+    "message": "اجرا تا $MIN$ ثانیه",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "حداقل زمان‌بندی ۳۰ ثانیه است (کف هشدارهای Chrome)."
+  },
+  "licenseKey": {
+    "message": "کلید مجوز"
+  },
+  "licenseActivate": {
+    "message": "فعال‌سازی"
+  },
+  "licenseActive": {
+    "message": "مجوز Pro فعال است"
+  },
+  "licenseInvalid": {
+    "message": "کلید مجوز نامعتبر است."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "قابلیت Pro — برای باز کردن، یک مجوز فعال کنید."
+  },
+  "toastScheduled": {
+    "message": "ضبط زمان‌بندی شد."
+  },
+  "toastScheduleCancelled": {
+    "message": "زمان‌بندی لغو شد."
+  },
+  "toastLicenseActivated": {
+    "message": "مجوز Pro فعال شد."
+  },
+  "cmdOpenEditor": {
+    "message": "باز کردن ویرایشگر ویدیو"
+  },
+  "formatWebM": {
+    "message": "WebM (رایگان)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

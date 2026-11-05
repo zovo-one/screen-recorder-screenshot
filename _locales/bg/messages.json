@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Записване на екран и екранна снимка — без вход, без воден знак",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Записвайте раздел/екран/уебкамера и правете екранни снимки на цели страници. Без вход, без воден знак, без ограничения, без качване.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Екранна снимка и запис"
+  },
+  "cmdCaptureVisible": {
+    "message": "Заснеми видимата част от страницата"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Заснеми цялата страница"
+  },
+  "cmdCaptureArea": {
+    "message": "Заснеми избрана област"
+  },
+  "popupTitle": {
+    "message": "Записване на екран и екранна снимка"
+  },
+  "popupSubtitle": {
+    "message": "Без вход · Без воден знак · Без качване"
+  },
+  "sectionScreenshot": {
+    "message": "Екранна снимка"
+  },
+  "sectionRecord": {
+    "message": "Запис (Фаза B)"
+  },
+  "actionVisible": {
+    "message": "Видима област"
+  },
+  "actionFullPage": {
+    "message": "Цяла страница"
+  },
+  "actionArea": {
+    "message": "Избрана област"
+  },
+  "actionDelay": {
+    "message": "Забавяне 3 сек"
+  },
+  "recordTab": {
+    "message": "Раздел"
+  },
+  "recordScreen": {
+    "message": "Екран"
+  },
+  "recordWebcam": {
+    "message": "Уебкамера"
+  },
+  "micOn": {
+    "message": "Микрофон"
+  },
+  "tabAudioOn": {
+    "message": "Звук на раздела"
+  },
+  "comingSoonPhaseB": {
+    "message": "Записването пристига във Фаза B (безплатна актуализация)."
+  },
+  "settingsFormat": {
+    "message": "Формат по подразбиране"
+  },
+  "formatPNG": {
+    "message": "PNG (без загуба)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (по-малък)"
+  },
+  "formatPDF": {
+    "message": "PDF (много страници)"
+  },
+  "settingsDPR": {
+    "message": "Заснемане в retina резолюция"
+  },
+  "settingsQuality": {
+    "message": "Качество на JPEG"
+  },
+  "save": {
+    "message": "Запази"
+  },
+  "cancel": {
+    "message": "Отказ"
+  },
+  "openEditor": {
+    "message": "Отвори в редактора"
+  },
+  "downloadNow": {
+    "message": "Изтегли сега"
+  },
+  "editorTitle": {
+    "message": "Редактор"
+  },
+  "toolArrow": {
+    "message": "Стрелка"
+  },
+  "toolBox": {
+    "message": "Правоъгълник"
+  },
+  "toolText": {
+    "message": "Текст"
+  },
+  "toolBlur": {
+    "message": "Замъгляване"
+  },
+  "toolHighlight": {
+    "message": "Маркиране"
+  },
+  "toolUndo": {
+    "message": "Отмени"
+  },
+  "toolRedo": {
+    "message": "Повтори"
+  },
+  "toolClear": {
+    "message": "Изчисти"
+  },
+  "exportPng": {
+    "message": "Експортирай PNG"
+  },
+  "exportJpeg": {
+    "message": "Експортирай JPEG"
+  },
+  "exportPdf": {
+    "message": "Експортирай PDF"
+  },
+  "toastCapturing": {
+    "message": "Заснемане…"
+  },
+  "toastStitching": {
+    "message": "Съединяване на плочки…"
+  },
+  "toastSaved": {
+    "message": "Запазено в изтеглянията ви."
+  },
+  "toastEditorOpened": {
+    "message": "Редакторът е отворен в нов раздел."
+  },
+  "toastFailed": {
+    "message": "Заснемането е неуспешно. Опитайте да презаредите раздела."
+  },
+  "toastCanvasCapHit": {
+    "message": "Страницата е много дълга — резултатът е разделен на плочки, за да се впише в ограничението на платното на Chrome."
+  },
+  "selectorHint": {
+    "message": "Плъзнете, за да изберете. Esc за отказ."
+  },
+  "delayCountdown": {
+    "message": "Заснемане след $SECONDS$ сек…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Цялата обработка е локална. Екранът ви никога не напуска устройството ви."
+  },
+  "cmdRecordToggle": {
+    "message": "Превключи записа"
+  },
+  "recordStop": {
+    "message": "Спри"
+  },
+  "recordStopTooltip": {
+    "message": "Спри и запази записа"
+  },
+  "toastRecordingStarted": {
+    "message": "Записът започна…"
+  },
+  "toastRecordingStopped": {
+    "message": "Записът е запазен в изтеглянията ви."
+  },
+  "toastMicDenied": {
+    "message": "Разрешението за микрофон е отказано."
+  },
+  "toastScreenDenied": {
+    "message": "Разрешението за екран е отказано."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Заснемането на раздела е неуспешно. Опитайте да презаредите раздела."
+  },
+  "toastRecovered": {
+    "message": "Последният запис е възстановен."
+  },
+  "recoverLast": {
+    "message": "Възстанови последния запис"
+  },
+  "discardLast": {
+    "message": "Отхвърли"
+  },
+  "recordingActive": {
+    "message": "Запис в сесия"
+  },
+  "recordDuration": {
+    "message": "Продължителност"
+  },
+  "recordHintTab": {
+    "message": "Раздел · микрофон · звук на раздела"
+  },
+  "recordHintScreen": {
+    "message": "Екран · микрофон (по избор)"
+  },
+  "recordHintWebcam": {
+    "message": "Уебкамера + микрофон"
+  },
+  "sectionVideoEditor": {
+    "message": "Видео редактор (Фаза C)"
+  },
+  "sectionScheduler": {
+    "message": "Планиран запис"
+  },
+  "sectionLicense": {
+    "message": "Лиценз"
+  },
+  "openVideoEditor": {
+    "message": "Отвори видео редактора"
+  },
+  "noRecordingsYet": {
+    "message": "Все още няма записи. Първо запишете нещо."
+  },
+  "editorVideoTitle": {
+    "message": "Видео редактор"
+  },
+  "editorTrim": {
+    "message": "Изрязване"
+  },
+  "editorCrop": {
+    "message": "Кадриране"
+  },
+  "editorBlur": {
+    "message": "Замъгляване"
+  },
+  "editorClickZoom": {
+    "message": "Мащабиране при щракване"
+  },
+  "editorExportWebM": {
+    "message": "Експортирай WebM (безплатно)"
+  },
+  "editorExportMp4": {
+    "message": "Експортирай MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Експортирай GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Експортирай 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Начало"
+  },
+  "editorOutPoint": {
+    "message": "Край"
+  },
+  "editorAddBlurRegion": {
+    "message": "Добави област за замъгляване"
+  },
+  "editorClearOverlays": {
+    "message": "Изчисти наслагванията"
+  },
+  "editorProcessing": {
+    "message": "Обработка…"
+  },
+  "editorExportDone": {
+    "message": "Експортът е запазен в изтеглянията."
+  },
+  "editorExportFailed": {
+    "message": "Експортът е неуспешен."
+  },
+  "schedulerStartIn": {
+    "message": "Старт след (мин)"
+  },
+  "schedulerDuration": {
+    "message": "Продължителност (мин)"
+  },
+  "schedulerSource": {
+    "message": "Източник"
+  },
+  "schedulerCreate": {
+    "message": "Планирай запис"
+  },
+  "schedulerCancel": {
+    "message": "Отмени планирането"
+  },
+  "schedulerActive": {
+    "message": "Планирано"
+  },
+  "schedulerFiresIn": {
+    "message": "Стартира след $MIN$ сек",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Минималното планиране е 30 сек (ограничение на алармите на Chrome)."
+  },
+  "licenseKey": {
+    "message": "Лицензен ключ"
+  },
+  "licenseActivate": {
+    "message": "Активирай"
+  },
+  "licenseActive": {
+    "message": "Pro лицензът е активен"
+  },
+  "licenseInvalid": {
+    "message": "Невалиден лицензен ключ."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "БЕЗПЛАТНО"
+  },
+  "proFeatureLocked": {
+    "message": "Pro функция — активирайте лиценз, за да я отключите."
+  },
+  "toastScheduled": {
+    "message": "Записът е планиран."
+  },
+  "toastScheduleCancelled": {
+    "message": "Планирането е отменено."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro лицензът е активиран."
+  },
+  "cmdOpenEditor": {
+    "message": "Отвори видео редактора"
+  },
+  "formatWebM": {
+    "message": "WebM (безплатно)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

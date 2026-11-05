@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Quay màn hình & Chụp ảnh — Không đăng nhập, Không hình mờ",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Quay tab/màn hình/webcam và chụp ảnh toàn trang. Không đăng nhập, không hình mờ, không giới hạn, không tải lên.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Chụp ảnh & Quay màn hình"
+  },
+  "cmdCaptureVisible": {
+    "message": "Chụp phần đang hiển thị của trang"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Chụp toàn trang"
+  },
+  "cmdCaptureArea": {
+    "message": "Chụp vùng đã chọn"
+  },
+  "popupTitle": {
+    "message": "Quay màn hình & Chụp ảnh"
+  },
+  "popupSubtitle": {
+    "message": "Không đăng nhập · Không hình mờ · Không tải lên"
+  },
+  "sectionScreenshot": {
+    "message": "Chụp ảnh"
+  },
+  "sectionRecord": {
+    "message": "Quay (Giai đoạn B)"
+  },
+  "actionVisible": {
+    "message": "Vùng đang hiển thị"
+  },
+  "actionFullPage": {
+    "message": "Toàn trang"
+  },
+  "actionArea": {
+    "message": "Vùng đã chọn"
+  },
+  "actionDelay": {
+    "message": "Trễ 3 giây"
+  },
+  "recordTab": {
+    "message": "Tab"
+  },
+  "recordScreen": {
+    "message": "Màn hình"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Micro"
+  },
+  "tabAudioOn": {
+    "message": "Âm thanh tab"
+  },
+  "comingSoonPhaseB": {
+    "message": "Tính năng quay sẽ có trong Giai đoạn B (cập nhật miễn phí)."
+  },
+  "settingsFormat": {
+    "message": "Định dạng mặc định"
+  },
+  "formatPNG": {
+    "message": "PNG (không mất chất lượng)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (nhỏ hơn)"
+  },
+  "formatPDF": {
+    "message": "PDF (nhiều trang)"
+  },
+  "settingsDPR": {
+    "message": "Chụp ở độ phân giải retina"
+  },
+  "settingsQuality": {
+    "message": "Chất lượng JPEG"
+  },
+  "save": {
+    "message": "Lưu"
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "openEditor": {
+    "message": "Mở trong trình chỉnh sửa"
+  },
+  "downloadNow": {
+    "message": "Tải xuống ngay"
+  },
+  "editorTitle": {
+    "message": "Trình chỉnh sửa"
+  },
+  "toolArrow": {
+    "message": "Mũi tên"
+  },
+  "toolBox": {
+    "message": "Khung"
+  },
+  "toolText": {
+    "message": "Văn bản"
+  },
+  "toolBlur": {
+    "message": "Làm mờ"
+  },
+  "toolHighlight": {
+    "message": "Đánh dấu"
+  },
+  "toolUndo": {
+    "message": "Hoàn tác"
+  },
+  "toolRedo": {
+    "message": "Làm lại"
+  },
+  "toolClear": {
+    "message": "Xóa hết"
+  },
+  "exportPng": {
+    "message": "Xuất PNG"
+  },
+  "exportJpeg": {
+    "message": "Xuất JPEG"
+  },
+  "exportPdf": {
+    "message": "Xuất PDF"
+  },
+  "toastCapturing": {
+    "message": "Đang chụp…"
+  },
+  "toastStitching": {
+    "message": "Đang ghép các mảnh…"
+  },
+  "toastSaved": {
+    "message": "Đã lưu vào thư mục Tải xuống của bạn."
+  },
+  "toastEditorOpened": {
+    "message": "Đã mở trình chỉnh sửa trong tab mới."
+  },
+  "toastFailed": {
+    "message": "Chụp thất bại. Hãy thử tải lại tab."
+  },
+  "toastCanvasCapHit": {
+    "message": "Trang rất dài — kết quả được chia mảnh để phù hợp với giới hạn canvas của Chrome."
+  },
+  "selectorHint": {
+    "message": "Kéo để chọn. Nhấn Esc để hủy."
+  },
+  "delayCountdown": {
+    "message": "Chụp sau $SECONDS$ giây…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Mọi xử lý đều diễn ra cục bộ. Màn hình của bạn không bao giờ rời khỏi thiết bị."
+  },
+  "cmdRecordToggle": {
+    "message": "Bật/tắt quay màn hình"
+  },
+  "recordStop": {
+    "message": "Dừng"
+  },
+  "recordStopTooltip": {
+    "message": "Dừng và lưu bản quay"
+  },
+  "toastRecordingStarted": {
+    "message": "Đã bắt đầu quay…"
+  },
+  "toastRecordingStopped": {
+    "message": "Đã lưu bản quay vào thư mục Tải xuống của bạn."
+  },
+  "toastMicDenied": {
+    "message": "Quyền truy cập micro bị từ chối."
+  },
+  "toastScreenDenied": {
+    "message": "Quyền truy cập màn hình bị từ chối."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Quay tab thất bại. Hãy thử tải lại tab."
+  },
+  "toastRecovered": {
+    "message": "Đã khôi phục bản quay gần nhất."
+  },
+  "recoverLast": {
+    "message": "Khôi phục bản quay gần nhất"
+  },
+  "discardLast": {
+    "message": "Bỏ đi"
+  },
+  "recordingActive": {
+    "message": "Đang trong phiên quay"
+  },
+  "recordDuration": {
+    "message": "Thời lượng"
+  },
+  "recordHintTab": {
+    "message": "Tab · micro · âm thanh tab"
+  },
+  "recordHintScreen": {
+    "message": "Màn hình · micro (tùy chọn)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + micro"
+  },
+  "sectionVideoEditor": {
+    "message": "Trình chỉnh sửa video (Giai đoạn C)"
+  },
+  "sectionScheduler": {
+    "message": "Quay theo lịch"
+  },
+  "sectionLicense": {
+    "message": "Bản quyền"
+  },
+  "openVideoEditor": {
+    "message": "Mở trình chỉnh sửa video"
+  },
+  "noRecordingsYet": {
+    "message": "Chưa có bản quay nào. Hãy quay gì đó trước đã."
+  },
+  "editorVideoTitle": {
+    "message": "Trình chỉnh sửa video"
+  },
+  "editorTrim": {
+    "message": "Cắt bớt"
+  },
+  "editorCrop": {
+    "message": "Cắt xén"
+  },
+  "editorBlur": {
+    "message": "Làm mờ"
+  },
+  "editorClickZoom": {
+    "message": "Nhấp để phóng to"
+  },
+  "editorExportWebM": {
+    "message": "Xuất WebM (miễn phí)"
+  },
+  "editorExportMp4": {
+    "message": "Xuất MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Xuất GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Xuất 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Điểm vào"
+  },
+  "editorOutPoint": {
+    "message": "Điểm ra"
+  },
+  "editorAddBlurRegion": {
+    "message": "Thêm vùng làm mờ"
+  },
+  "editorClearOverlays": {
+    "message": "Xóa các lớp phủ"
+  },
+  "editorProcessing": {
+    "message": "Đang xử lý…"
+  },
+  "editorExportDone": {
+    "message": "Đã lưu bản xuất vào Tải xuống."
+  },
+  "editorExportFailed": {
+    "message": "Xuất thất bại."
+  },
+  "schedulerStartIn": {
+    "message": "Bắt đầu sau (phút)"
+  },
+  "schedulerDuration": {
+    "message": "Thời lượng (phút)"
+  },
+  "schedulerSource": {
+    "message": "Nguồn"
+  },
+  "schedulerCreate": {
+    "message": "Lên lịch quay"
+  },
+  "schedulerCancel": {
+    "message": "Hủy lịch"
+  },
+  "schedulerActive": {
+    "message": "Đã lên lịch"
+  },
+  "schedulerFiresIn": {
+    "message": "Kích hoạt sau $MIN$ giây",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Lịch tối thiểu là 30 giây (giới hạn tối thiểu của báo thức Chrome)."
+  },
+  "licenseKey": {
+    "message": "Khóa bản quyền"
+  },
+  "licenseActivate": {
+    "message": "Kích hoạt"
+  },
+  "licenseActive": {
+    "message": "Bản quyền Pro đang hoạt động"
+  },
+  "licenseInvalid": {
+    "message": "Khóa bản quyền không hợp lệ."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "MIỄN PHÍ"
+  },
+  "proFeatureLocked": {
+    "message": "Tính năng Pro — kích hoạt bản quyền để mở khóa."
+  },
+  "toastScheduled": {
+    "message": "Đã lên lịch quay."
+  },
+  "toastScheduleCancelled": {
+    "message": "Đã hủy lịch."
+  },
+  "toastLicenseActivated": {
+    "message": "Đã kích hoạt bản quyền Pro."
+  },
+  "cmdOpenEditor": {
+    "message": "Mở trình chỉnh sửa video"
+  },
+  "formatWebM": {
+    "message": "WebM (miễn phí)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

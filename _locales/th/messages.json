@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — ไม่ต้องล็อกอิน ไม่มีลายน้ำ",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "บันทึกแท็บ/หน้าจอ/เว็บแคม และจับภาพหน้าจอเต็มหน้า ไม่ต้องล็อกอิน ไม่มีลายน้ำ ไม่มีขีดจำกัด ไม่มีการอัปโหลด",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "จับภาพหน้าจอและบันทึก"
+  },
+  "cmdCaptureVisible": {
+    "message": "จับภาพส่วนที่มองเห็นของหน้า"
+  },
+  "cmdCaptureFullPage": {
+    "message": "จับภาพทั้งหน้า"
+  },
+  "cmdCaptureArea": {
+    "message": "จับภาพพื้นที่ที่เลือก"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "ไม่ต้องล็อกอิน · ไม่มีลายน้ำ · ไม่มีการอัปโหลด"
+  },
+  "sectionScreenshot": {
+    "message": "จับภาพหน้าจอ"
+  },
+  "sectionRecord": {
+    "message": "บันทึก (เฟส B)"
+  },
+  "actionVisible": {
+    "message": "พื้นที่ที่มองเห็น"
+  },
+  "actionFullPage": {
+    "message": "ทั้งหน้า"
+  },
+  "actionArea": {
+    "message": "พื้นที่ที่เลือก"
+  },
+  "actionDelay": {
+    "message": "หน่วงเวลา 3 วินาที"
+  },
+  "recordTab": {
+    "message": "แท็บ"
+  },
+  "recordScreen": {
+    "message": "หน้าจอ"
+  },
+  "recordWebcam": {
+    "message": "เว็บแคม"
+  },
+  "micOn": {
+    "message": "ไมค์"
+  },
+  "tabAudioOn": {
+    "message": "เสียงของแท็บ"
+  },
+  "comingSoonPhaseB": {
+    "message": "การบันทึกจะมาในเฟส B (อัปเดตฟรี)"
+  },
+  "settingsFormat": {
+    "message": "รูปแบบเริ่มต้น"
+  },
+  "formatPNG": {
+    "message": "PNG (ไม่สูญเสียคุณภาพ)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (ไฟล์เล็กกว่า)"
+  },
+  "formatPDF": {
+    "message": "PDF (หลายหน้า)"
+  },
+  "settingsDPR": {
+    "message": "จับภาพที่ความละเอียดเรตินา"
+  },
+  "settingsQuality": {
+    "message": "คุณภาพ JPEG"
+  },
+  "save": {
+    "message": "บันทึก"
+  },
+  "cancel": {
+    "message": "ยกเลิก"
+  },
+  "openEditor": {
+    "message": "เปิดในโปรแกรมแก้ไข"
+  },
+  "downloadNow": {
+    "message": "ดาวน์โหลดตอนนี้"
+  },
+  "editorTitle": {
+    "message": "โปรแกรมแก้ไข"
+  },
+  "toolArrow": {
+    "message": "ลูกศร"
+  },
+  "toolBox": {
+    "message": "กล่อง"
+  },
+  "toolText": {
+    "message": "ข้อความ"
+  },
+  "toolBlur": {
+    "message": "เบลอ"
+  },
+  "toolHighlight": {
+    "message": "ไฮไลต์"
+  },
+  "toolUndo": {
+    "message": "เลิกทำ"
+  },
+  "toolRedo": {
+    "message": "ทำซ้ำ"
+  },
+  "toolClear": {
+    "message": "ล้าง"
+  },
+  "exportPng": {
+    "message": "ส่งออก PNG"
+  },
+  "exportJpeg": {
+    "message": "ส่งออก JPEG"
+  },
+  "exportPdf": {
+    "message": "ส่งออก PDF"
+  },
+  "toastCapturing": {
+    "message": "กำลังจับภาพ…"
+  },
+  "toastStitching": {
+    "message": "กำลังต่อภาพ…"
+  },
+  "toastSaved": {
+    "message": "บันทึกลงในโฟลเดอร์ดาวน์โหลดแล้ว"
+  },
+  "toastEditorOpened": {
+    "message": "เปิดโปรแกรมแก้ไขในแท็บใหม่แล้ว"
+  },
+  "toastFailed": {
+    "message": "จับภาพไม่สำเร็จ ลองรีโหลดแท็บดู"
+  },
+  "toastCanvasCapHit": {
+    "message": "หน้ายาวมาก — แบ่งผลลัพธ์เป็นส่วน ๆ เพื่อให้พอดีกับขีดจำกัดแคนวาสของ Chrome"
+  },
+  "selectorHint": {
+    "message": "ลากเพื่อเลือก กด Esc เพื่อยกเลิก"
+  },
+  "delayCountdown": {
+    "message": "จะจับภาพในอีก $SECONDS$ วินาที…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "การประมวลผลทั้งหมดเกิดขึ้นภายในเครื่อง หน้าจอของคุณจะไม่ออกไปจากอุปกรณ์"
+  },
+  "cmdRecordToggle": {
+    "message": "สลับการบันทึก"
+  },
+  "recordStop": {
+    "message": "หยุด"
+  },
+  "recordStopTooltip": {
+    "message": "หยุดและบันทึกการอัด"
+  },
+  "toastRecordingStarted": {
+    "message": "เริ่มบันทึกแล้ว…"
+  },
+  "toastRecordingStopped": {
+    "message": "บันทึกการอัดลงในโฟลเดอร์ดาวน์โหลดแล้ว"
+  },
+  "toastMicDenied": {
+    "message": "การอนุญาตใช้ไมโครโฟนถูกปฏิเสธ"
+  },
+  "toastScreenDenied": {
+    "message": "การอนุญาตใช้หน้าจอถูกปฏิเสธ"
+  },
+  "toastTabCaptureFailed": {
+    "message": "จับภาพแท็บไม่สำเร็จ ลองรีโหลดแท็บดู"
+  },
+  "toastRecovered": {
+    "message": "กู้คืนการอัดครั้งล่าสุดแล้ว"
+  },
+  "recoverLast": {
+    "message": "กู้คืนการอัดครั้งล่าสุด"
+  },
+  "discardLast": {
+    "message": "ทิ้ง"
+  },
+  "recordingActive": {
+    "message": "กำลังบันทึกอยู่"
+  },
+  "recordDuration": {
+    "message": "ระยะเวลา"
+  },
+  "recordHintTab": {
+    "message": "แท็บ · ไมค์ · เสียงของแท็บ"
+  },
+  "recordHintScreen": {
+    "message": "หน้าจอ · ไมค์ (ไม่บังคับ)"
+  },
+  "recordHintWebcam": {
+    "message": "เว็บแคม + ไมค์"
+  },
+  "sectionVideoEditor": {
+    "message": "โปรแกรมแก้ไขวิดีโอ (เฟส C)"
+  },
+  "sectionScheduler": {
+    "message": "การบันทึกตามกำหนดเวลา"
+  },
+  "sectionLicense": {
+    "message": "ลิขสิทธิ์"
+  },
+  "openVideoEditor": {
+    "message": "เปิดโปรแกรมแก้ไขวิดีโอ"
+  },
+  "noRecordingsYet": {
+    "message": "ยังไม่มีการอัด บันทึกอะไรสักอย่างก่อน"
+  },
+  "editorVideoTitle": {
+    "message": "โปรแกรมแก้ไขวิดีโอ"
+  },
+  "editorTrim": {
+    "message": "ตัด"
+  },
+  "editorCrop": {
+    "message": "ครอบตัด"
+  },
+  "editorBlur": {
+    "message": "เบลอ"
+  },
+  "editorClickZoom": {
+    "message": "ซูมเมื่อคลิก"
+  },
+  "editorExportWebM": {
+    "message": "ส่งออก WebM (ฟรี)"
+  },
+  "editorExportMp4": {
+    "message": "ส่งออก MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "ส่งออก GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "ส่งออก 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "จุดเข้า"
+  },
+  "editorOutPoint": {
+    "message": "จุดออก"
+  },
+  "editorAddBlurRegion": {
+    "message": "เพิ่มพื้นที่เบลอ"
+  },
+  "editorClearOverlays": {
+    "message": "ล้างเลเยอร์ทับ"
+  },
+  "editorProcessing": {
+    "message": "กำลังประมวลผล…"
+  },
+  "editorExportDone": {
+    "message": "ส่งออกและบันทึกลงในโฟลเดอร์ดาวน์โหลดแล้ว"
+  },
+  "editorExportFailed": {
+    "message": "ส่งออกไม่สำเร็จ"
+  },
+  "schedulerStartIn": {
+    "message": "เริ่มในอีก (นาที)"
+  },
+  "schedulerDuration": {
+    "message": "ระยะเวลา (นาที)"
+  },
+  "schedulerSource": {
+    "message": "แหล่งที่มา"
+  },
+  "schedulerCreate": {
+    "message": "ตั้งกำหนดการบันทึก"
+  },
+  "schedulerCancel": {
+    "message": "ยกเลิกกำหนดการ"
+  },
+  "schedulerActive": {
+    "message": "ตั้งกำหนดการแล้ว"
+  },
+  "schedulerFiresIn": {
+    "message": "จะเริ่มในอีก $MIN$ วินาที",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "กำหนดการขั้นต่ำคือ 30 วินาที (ข้อจำกัดการปลุกของ Chrome)"
+  },
+  "licenseKey": {
+    "message": "คีย์ลิขสิทธิ์"
+  },
+  "licenseActivate": {
+    "message": "เปิดใช้งาน"
+  },
+  "licenseActive": {
+    "message": "ลิขสิทธิ์ Pro เปิดใช้งานอยู่"
+  },
+  "licenseInvalid": {
+    "message": "คีย์ลิขสิทธิ์ไม่ถูกต้อง"
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "ฟีเจอร์ Pro — เปิดใช้งานลิขสิทธิ์เพื่อปลดล็อก"
+  },
+  "toastScheduled": {
+    "message": "ตั้งกำหนดการบันทึกแล้ว"
+  },
+  "toastScheduleCancelled": {
+    "message": "ยกเลิกกำหนดการแล้ว"
+  },
+  "toastLicenseActivated": {
+    "message": "เปิดใช้งานลิขสิทธิ์ Pro แล้ว"
+  },
+  "cmdOpenEditor": {
+    "message": "เปิดโปรแกรมแก้ไขวิดีโอ"
+  },
+  "formatWebM": {
+    "message": "WebM (ฟรี)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

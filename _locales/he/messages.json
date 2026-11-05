@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "מקליט מסך וצילום מסך — ללא התחברות, ללא סימן מים",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "הקלט לשונית/מסך/מצלמת רשת וצלם דפים מלאים. ללא התחברות, ללא סימן מים, ללא הגבלות, ללא העלאה.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "צילום מסך והקלטה"
+  },
+  "cmdCaptureVisible": {
+    "message": "צלם את החלק הנראה של הדף"
+  },
+  "cmdCaptureFullPage": {
+    "message": "צלם דף מלא"
+  },
+  "cmdCaptureArea": {
+    "message": "צלם אזור נבחר"
+  },
+  "popupTitle": {
+    "message": "מקליט מסך וצילום מסך"
+  },
+  "popupSubtitle": {
+    "message": "ללא התחברות · ללא סימן מים · ללא העלאה"
+  },
+  "sectionScreenshot": {
+    "message": "צילום מסך"
+  },
+  "sectionRecord": {
+    "message": "הקלטה (שלב B)"
+  },
+  "actionVisible": {
+    "message": "אזור נראה"
+  },
+  "actionFullPage": {
+    "message": "דף מלא"
+  },
+  "actionArea": {
+    "message": "אזור נבחר"
+  },
+  "actionDelay": {
+    "message": "השהיה 3 שניות"
+  },
+  "recordTab": {
+    "message": "לשונית"
+  },
+  "recordScreen": {
+    "message": "מסך"
+  },
+  "recordWebcam": {
+    "message": "מצלמת רשת"
+  },
+  "micOn": {
+    "message": "מיקרופון"
+  },
+  "tabAudioOn": {
+    "message": "שמע לשונית"
+  },
+  "comingSoonPhaseB": {
+    "message": "ההקלטה מגיעה בשלב B (עדכון חינם)."
+  },
+  "settingsFormat": {
+    "message": "פורמט ברירת מחדל"
+  },
+  "formatPNG": {
+    "message": "PNG (ללא אובדן איכות)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (קטן יותר)"
+  },
+  "formatPDF": {
+    "message": "PDF (רב-עמודי)"
+  },
+  "settingsDPR": {
+    "message": "צלם ברזולוציית רטינה"
+  },
+  "settingsQuality": {
+    "message": "איכות JPEG"
+  },
+  "save": {
+    "message": "שמור"
+  },
+  "cancel": {
+    "message": "ביטול"
+  },
+  "openEditor": {
+    "message": "פתח בעורך"
+  },
+  "downloadNow": {
+    "message": "הורד עכשיו"
+  },
+  "editorTitle": {
+    "message": "עורך"
+  },
+  "toolArrow": {
+    "message": "חץ"
+  },
+  "toolBox": {
+    "message": "תיבה"
+  },
+  "toolText": {
+    "message": "טקסט"
+  },
+  "toolBlur": {
+    "message": "טשטוש"
+  },
+  "toolHighlight": {
+    "message": "הדגשה"
+  },
+  "toolUndo": {
+    "message": "בטל"
+  },
+  "toolRedo": {
+    "message": "בצע שוב"
+  },
+  "toolClear": {
+    "message": "נקה"
+  },
+  "exportPng": {
+    "message": "ייצא PNG"
+  },
+  "exportJpeg": {
+    "message": "ייצא JPEG"
+  },
+  "exportPdf": {
+    "message": "ייצא PDF"
+  },
+  "toastCapturing": {
+    "message": "מצלם…"
+  },
+  "toastStitching": {
+    "message": "מחבר אריחים…"
+  },
+  "toastSaved": {
+    "message": "נשמר בהורדות שלך."
+  },
+  "toastEditorOpened": {
+    "message": "העורך נפתח בלשונית חדשה."
+  },
+  "toastFailed": {
+    "message": "הצילום נכשל. נסה לטעון מחדש את הלשונית."
+  },
+  "toastCanvasCapHit": {
+    "message": "הדף גבוה מאוד — הפלט חולק לאריחים כדי להתאים למגבלת ה-canvas של Chrome."
+  },
+  "selectorHint": {
+    "message": "גרור כדי לבחור. Esc לביטול."
+  },
+  "delayCountdown": {
+    "message": "מצלם בעוד $SECONDS$ שניות…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "כל העיבוד מקומי. המסך שלך לעולם לא עוזב את המכשיר."
+  },
+  "cmdRecordToggle": {
+    "message": "הפעל/עצור הקלטה"
+  },
+  "recordStop": {
+    "message": "עצור"
+  },
+  "recordStopTooltip": {
+    "message": "עצור ושמור הקלטה"
+  },
+  "toastRecordingStarted": {
+    "message": "ההקלטה התחילה…"
+  },
+  "toastRecordingStopped": {
+    "message": "ההקלטה נשמרה בהורדות שלך."
+  },
+  "toastMicDenied": {
+    "message": "הרשאת המיקרופון נדחתה."
+  },
+  "toastScreenDenied": {
+    "message": "הרשאת המסך נדחתה."
+  },
+  "toastTabCaptureFailed": {
+    "message": "צילום הלשונית נכשל. נסה לטעון מחדש את הלשונית."
+  },
+  "toastRecovered": {
+    "message": "ההקלטה האחרונה שוחזרה."
+  },
+  "recoverLast": {
+    "message": "שחזר הקלטה אחרונה"
+  },
+  "discardLast": {
+    "message": "מחק"
+  },
+  "recordingActive": {
+    "message": "הקלטה פעילה"
+  },
+  "recordDuration": {
+    "message": "משך"
+  },
+  "recordHintTab": {
+    "message": "לשונית · מיקרופון · שמע לשונית"
+  },
+  "recordHintScreen": {
+    "message": "מסך · מיקרופון (אופציונלי)"
+  },
+  "recordHintWebcam": {
+    "message": "מצלמת רשת + מיקרופון"
+  },
+  "sectionVideoEditor": {
+    "message": "עורך וידאו (שלב C)"
+  },
+  "sectionScheduler": {
+    "message": "הקלטה מתוזמנת"
+  },
+  "sectionLicense": {
+    "message": "רישיון"
+  },
+  "openVideoEditor": {
+    "message": "פתח עורך וידאו"
+  },
+  "noRecordingsYet": {
+    "message": "אין עדיין הקלטות. הקלט משהו קודם."
+  },
+  "editorVideoTitle": {
+    "message": "עורך וידאו"
+  },
+  "editorTrim": {
+    "message": "חיתוך משך"
+  },
+  "editorCrop": {
+    "message": "חיתוך תמונה"
+  },
+  "editorBlur": {
+    "message": "טשטוש"
+  },
+  "editorClickZoom": {
+    "message": "זום בלחיצה"
+  },
+  "editorExportWebM": {
+    "message": "ייצא WebM (חינם)"
+  },
+  "editorExportMp4": {
+    "message": "ייצא MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "ייצא GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "ייצא 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "כניסה"
+  },
+  "editorOutPoint": {
+    "message": "יציאה"
+  },
+  "editorAddBlurRegion": {
+    "message": "הוסף אזור טשטוש"
+  },
+  "editorClearOverlays": {
+    "message": "נקה שכבות"
+  },
+  "editorProcessing": {
+    "message": "מעבד…"
+  },
+  "editorExportDone": {
+    "message": "הייצוא נשמר בהורדות."
+  },
+  "editorExportFailed": {
+    "message": "הייצוא נכשל."
+  },
+  "schedulerStartIn": {
+    "message": "התחל בעוד (דקות)"
+  },
+  "schedulerDuration": {
+    "message": "משך (דקות)"
+  },
+  "schedulerSource": {
+    "message": "מקור"
+  },
+  "schedulerCreate": {
+    "message": "תזמן הקלטה"
+  },
+  "schedulerCancel": {
+    "message": "בטל תזמון"
+  },
+  "schedulerActive": {
+    "message": "מתוזמן"
+  },
+  "schedulerFiresIn": {
+    "message": "יופעל בעוד $MIN$ שניות",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "התזמון המינימלי הוא 30 שניות (מגבלת ה-alarms של Chrome)."
+  },
+  "licenseKey": {
+    "message": "מפתח רישיון"
+  },
+  "licenseActivate": {
+    "message": "הפעל"
+  },
+  "licenseActive": {
+    "message": "רישיון Pro פעיל"
+  },
+  "licenseInvalid": {
+    "message": "מפתח הרישיון אינו תקין."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "תכונת Pro — הפעל רישיון כדי לפתוח."
+  },
+  "toastScheduled": {
+    "message": "ההקלטה תוזמנה."
+  },
+  "toastScheduleCancelled": {
+    "message": "התזמון בוטל."
+  },
+  "toastLicenseActivated": {
+    "message": "רישיון Pro הופעל."
+  },
+  "cmdOpenEditor": {
+    "message": "פתח עורך וידאו"
+  },
+  "formatWebM": {
+    "message": "WebM (חינם)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

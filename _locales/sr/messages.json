@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Snimač ekrana i snimak ekrana — bez prijave, bez vodenog žiga",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Snimajte karticu/ekran/veb-kameru i pravite snimke celih stranica. Bez prijave, bez vodenog žiga, bez ograničenja, bez otpremanja.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Snimak ekrana i snimanje"
+  },
+  "cmdCaptureVisible": {
+    "message": "Snimi vidljivi deo stranice"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Snimi celu stranicu"
+  },
+  "cmdCaptureArea": {
+    "message": "Snimi izabranu oblast"
+  },
+  "popupTitle": {
+    "message": "Snimač ekrana i snimak ekrana"
+  },
+  "popupSubtitle": {
+    "message": "Bez prijave · Bez vodenog žiga · Bez otpremanja"
+  },
+  "sectionScreenshot": {
+    "message": "Snimak ekrana"
+  },
+  "sectionRecord": {
+    "message": "Snimanje (Faza B)"
+  },
+  "actionVisible": {
+    "message": "Vidljiva oblast"
+  },
+  "actionFullPage": {
+    "message": "Cela stranica"
+  },
+  "actionArea": {
+    "message": "Izabrana oblast"
+  },
+  "actionDelay": {
+    "message": "Odlaganje 3 s"
+  },
+  "recordTab": {
+    "message": "Kartica"
+  },
+  "recordScreen": {
+    "message": "Ekran"
+  },
+  "recordWebcam": {
+    "message": "Veb-kamera"
+  },
+  "micOn": {
+    "message": "Mikrofon"
+  },
+  "tabAudioOn": {
+    "message": "Zvuk kartice"
+  },
+  "comingSoonPhaseB": {
+    "message": "Snimanje stiže u Fazi B (besplatna nadogradnja)."
+  },
+  "settingsFormat": {
+    "message": "Podrazumevani format"
+  },
+  "formatPNG": {
+    "message": "PNG (bez gubitaka)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (manje)"
+  },
+  "formatPDF": {
+    "message": "PDF (više stranica)"
+  },
+  "settingsDPR": {
+    "message": "Snimaj u retina rezoluciji"
+  },
+  "settingsQuality": {
+    "message": "JPEG kvalitet"
+  },
+  "save": {
+    "message": "Sačuvaj"
+  },
+  "cancel": {
+    "message": "Otkaži"
+  },
+  "openEditor": {
+    "message": "Otvori u uređivaču"
+  },
+  "downloadNow": {
+    "message": "Preuzmi odmah"
+  },
+  "editorTitle": {
+    "message": "Uređivač"
+  },
+  "toolArrow": {
+    "message": "Strelica"
+  },
+  "toolBox": {
+    "message": "Okvir"
+  },
+  "toolText": {
+    "message": "Tekst"
+  },
+  "toolBlur": {
+    "message": "Zamućenje"
+  },
+  "toolHighlight": {
+    "message": "Isticanje"
+  },
+  "toolUndo": {
+    "message": "Opozovi"
+  },
+  "toolRedo": {
+    "message": "Ponovi"
+  },
+  "toolClear": {
+    "message": "Obriši"
+  },
+  "exportPng": {
+    "message": "Izvezi PNG"
+  },
+  "exportJpeg": {
+    "message": "Izvezi JPEG"
+  },
+  "exportPdf": {
+    "message": "Izvezi PDF"
+  },
+  "toastCapturing": {
+    "message": "Snimanje…"
+  },
+  "toastStitching": {
+    "message": "Spajanje delova…"
+  },
+  "toastSaved": {
+    "message": "Sačuvano u fascikli Preuzimanja."
+  },
+  "toastEditorOpened": {
+    "message": "Uređivač je otvoren u novoj kartici."
+  },
+  "toastFailed": {
+    "message": "Snimanje nije uspelo. Pokušajte ponovo da učitate karticu."
+  },
+  "toastCanvasCapHit": {
+    "message": "Stranica je veoma duga — izlaz je podeljen na delove da bi stao u ograničenje platna pregledača Chrome."
+  },
+  "selectorHint": {
+    "message": "Prevucite da biste izabrali. Esc za otkazivanje."
+  },
+  "delayCountdown": {
+    "message": "Snimanje za $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Sva obrada je lokalna. Vaš ekran nikada ne napušta vaš uređaj."
+  },
+  "cmdRecordToggle": {
+    "message": "Uključi/isključi snimanje"
+  },
+  "recordStop": {
+    "message": "Zaustavi"
+  },
+  "recordStopTooltip": {
+    "message": "Zaustavi i sačuvaj snimak"
+  },
+  "toastRecordingStarted": {
+    "message": "Snimanje je počelo…"
+  },
+  "toastRecordingStopped": {
+    "message": "Snimak je sačuvan u fascikli Preuzimanja."
+  },
+  "toastMicDenied": {
+    "message": "Dozvola za mikrofon je odbijena."
+  },
+  "toastScreenDenied": {
+    "message": "Dozvola za ekran je odbijena."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Snimanje kartice nije uspelo. Pokušajte ponovo da učitate karticu."
+  },
+  "toastRecovered": {
+    "message": "Poslednji snimak je vraćen."
+  },
+  "recoverLast": {
+    "message": "Vrati poslednji snimak"
+  },
+  "discardLast": {
+    "message": "Odbaci"
+  },
+  "recordingActive": {
+    "message": "Snimanje je u toku"
+  },
+  "recordDuration": {
+    "message": "Trajanje"
+  },
+  "recordHintTab": {
+    "message": "Kartica · mikrofon · zvuk kartice"
+  },
+  "recordHintScreen": {
+    "message": "Ekran · mikrofon (opciono)"
+  },
+  "recordHintWebcam": {
+    "message": "Veb-kamera + mikrofon"
+  },
+  "sectionVideoEditor": {
+    "message": "Video uređivač (Faza C)"
+  },
+  "sectionScheduler": {
+    "message": "Zakazano snimanje"
+  },
+  "sectionLicense": {
+    "message": "Licenca"
+  },
+  "openVideoEditor": {
+    "message": "Otvori video uređivač"
+  },
+  "noRecordingsYet": {
+    "message": "Još nema snimaka. Prvo nešto snimite."
+  },
+  "editorVideoTitle": {
+    "message": "Video uređivač"
+  },
+  "editorTrim": {
+    "message": "Skrati"
+  },
+  "editorCrop": {
+    "message": "Iseci"
+  },
+  "editorBlur": {
+    "message": "Zamućenje"
+  },
+  "editorClickZoom": {
+    "message": "Zumiranje klikom"
+  },
+  "editorExportWebM": {
+    "message": "Izvezi WebM (besplatno)"
+  },
+  "editorExportMp4": {
+    "message": "Izvezi MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Izvezi GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Izvezi 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Početak"
+  },
+  "editorOutPoint": {
+    "message": "Kraj"
+  },
+  "editorAddBlurRegion": {
+    "message": "Dodaj oblast zamućenja"
+  },
+  "editorClearOverlays": {
+    "message": "Obriši preklapanja"
+  },
+  "editorProcessing": {
+    "message": "Obrada…"
+  },
+  "editorExportDone": {
+    "message": "Izvoz je sačuvan u fascikli Preuzimanja."
+  },
+  "editorExportFailed": {
+    "message": "Izvoz nije uspeo."
+  },
+  "schedulerStartIn": {
+    "message": "Počni za (min)"
+  },
+  "schedulerDuration": {
+    "message": "Trajanje (min)"
+  },
+  "schedulerSource": {
+    "message": "Izvor"
+  },
+  "schedulerCreate": {
+    "message": "Zakaži snimanje"
+  },
+  "schedulerCancel": {
+    "message": "Otkaži zakazivanje"
+  },
+  "schedulerActive": {
+    "message": "Zakazano"
+  },
+  "schedulerFiresIn": {
+    "message": "Pokreće se za $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimalno zakazivanje je 30 s (ograničenje alarma pregledača Chrome)."
+  },
+  "licenseKey": {
+    "message": "Licencni ključ"
+  },
+  "licenseActivate": {
+    "message": "Aktiviraj"
+  },
+  "licenseActive": {
+    "message": "Pro licenca je aktivna"
+  },
+  "licenseInvalid": {
+    "message": "Licencni ključ nije važeći."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "BESPLATNO"
+  },
+  "proFeatureLocked": {
+    "message": "Pro funkcija — aktivirajte licencu da biste je otključali."
+  },
+  "toastScheduled": {
+    "message": "Snimanje je zakazano."
+  },
+  "toastScheduleCancelled": {
+    "message": "Zakazivanje je otkazano."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro licenca je aktivirana."
+  },
+  "cmdOpenEditor": {
+    "message": "Otvori video uređivač"
+  },
+  "formatWebM": {
+    "message": "WebM (besplatno)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

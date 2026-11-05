@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Schermrecorder & Screenshot — Geen login, geen watermerk",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Neem tabblad/scherm/webcam op en maak screenshots van volledige pagina's. Geen login, geen watermerk, geen limieten, geen upload.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Screenshot & Opnemen"
+  },
+  "cmdCaptureVisible": {
+    "message": "Zichtbaar deel van de pagina vastleggen"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Volledige pagina vastleggen"
+  },
+  "cmdCaptureArea": {
+    "message": "Geselecteerd gebied vastleggen"
+  },
+  "popupTitle": {
+    "message": "Schermrecorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "Geen login · Geen watermerk · Geen upload"
+  },
+  "sectionScreenshot": {
+    "message": "Screenshot"
+  },
+  "sectionRecord": {
+    "message": "Opnemen (Fase B)"
+  },
+  "actionVisible": {
+    "message": "Zichtbaar gebied"
+  },
+  "actionFullPage": {
+    "message": "Volledige pagina"
+  },
+  "actionArea": {
+    "message": "Geselecteerd gebied"
+  },
+  "actionDelay": {
+    "message": "Vertraging 3s"
+  },
+  "recordTab": {
+    "message": "Tabblad"
+  },
+  "recordScreen": {
+    "message": "Scherm"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Microfoon"
+  },
+  "tabAudioOn": {
+    "message": "Tabbladgeluid"
+  },
+  "comingSoonPhaseB": {
+    "message": "Opnemen komt in Fase B (gratis update)."
+  },
+  "settingsFormat": {
+    "message": "Standaardformaat"
+  },
+  "formatPNG": {
+    "message": "PNG (verliesvrij)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (kleiner)"
+  },
+  "formatPDF": {
+    "message": "PDF (meerdere pagina's)"
+  },
+  "settingsDPR": {
+    "message": "Vastleggen op retina-resolutie"
+  },
+  "settingsQuality": {
+    "message": "JPEG-kwaliteit"
+  },
+  "save": {
+    "message": "Opslaan"
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "openEditor": {
+    "message": "Openen in editor"
+  },
+  "downloadNow": {
+    "message": "Nu downloaden"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Pijl"
+  },
+  "toolBox": {
+    "message": "Kader"
+  },
+  "toolText": {
+    "message": "Tekst"
+  },
+  "toolBlur": {
+    "message": "Vervagen"
+  },
+  "toolHighlight": {
+    "message": "Markeren"
+  },
+  "toolUndo": {
+    "message": "Ongedaan maken"
+  },
+  "toolRedo": {
+    "message": "Opnieuw"
+  },
+  "toolClear": {
+    "message": "Wissen"
+  },
+  "exportPng": {
+    "message": "PNG exporteren"
+  },
+  "exportJpeg": {
+    "message": "JPEG exporteren"
+  },
+  "exportPdf": {
+    "message": "PDF exporteren"
+  },
+  "toastCapturing": {
+    "message": "Vastleggen…"
+  },
+  "toastStitching": {
+    "message": "Tegels samenvoegen…"
+  },
+  "toastSaved": {
+    "message": "Opgeslagen in je Downloads."
+  },
+  "toastEditorOpened": {
+    "message": "Editor geopend in een nieuw tabblad."
+  },
+  "toastFailed": {
+    "message": "Vastleggen mislukt. Probeer het tabblad opnieuw te laden."
+  },
+  "toastCanvasCapHit": {
+    "message": "Pagina is erg lang — uitvoer opgedeeld in tegels om binnen de canvaslimiet van Chrome te passen."
+  },
+  "selectorHint": {
+    "message": "Sleep om te selecteren. Esc om te annuleren."
+  },
+  "delayCountdown": {
+    "message": "Vastleggen over $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Alle verwerking is lokaal. Je scherm verlaat nooit je apparaat."
+  },
+  "cmdRecordToggle": {
+    "message": "Opname in-/uitschakelen"
+  },
+  "recordStop": {
+    "message": "Stoppen"
+  },
+  "recordStopTooltip": {
+    "message": "Opname stoppen en opslaan"
+  },
+  "toastRecordingStarted": {
+    "message": "Opname gestart…"
+  },
+  "toastRecordingStopped": {
+    "message": "Opname opgeslagen in je Downloads."
+  },
+  "toastMicDenied": {
+    "message": "Toestemming voor microfoon geweigerd."
+  },
+  "toastScreenDenied": {
+    "message": "Toestemming voor scherm geweigerd."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Tabblad vastleggen mislukt. Probeer het tabblad opnieuw te laden."
+  },
+  "toastRecovered": {
+    "message": "Laatste opname hersteld."
+  },
+  "recoverLast": {
+    "message": "Laatste opname herstellen"
+  },
+  "discardLast": {
+    "message": "Weggooien"
+  },
+  "recordingActive": {
+    "message": "Opname bezig"
+  },
+  "recordDuration": {
+    "message": "Duur"
+  },
+  "recordHintTab": {
+    "message": "Tabblad · microfoon · tabbladgeluid"
+  },
+  "recordHintScreen": {
+    "message": "Scherm · microfoon (optioneel)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + microfoon"
+  },
+  "sectionVideoEditor": {
+    "message": "Video-editor (Fase C)"
+  },
+  "sectionScheduler": {
+    "message": "Geplande opname"
+  },
+  "sectionLicense": {
+    "message": "Licentie"
+  },
+  "openVideoEditor": {
+    "message": "Video-editor openen"
+  },
+  "noRecordingsYet": {
+    "message": "Nog geen opnames. Neem eerst iets op."
+  },
+  "editorVideoTitle": {
+    "message": "Video-editor"
+  },
+  "editorTrim": {
+    "message": "Bijknippen"
+  },
+  "editorCrop": {
+    "message": "Uitsnijden"
+  },
+  "editorBlur": {
+    "message": "Vervagen"
+  },
+  "editorClickZoom": {
+    "message": "Klik-zoom"
+  },
+  "editorExportWebM": {
+    "message": "WebM exporteren (gratis)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 exporteren (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF exporteren (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K exporteren (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Begin"
+  },
+  "editorOutPoint": {
+    "message": "Einde"
+  },
+  "editorAddBlurRegion": {
+    "message": "Vervaaggebied toevoegen"
+  },
+  "editorClearOverlays": {
+    "message": "Overlays wissen"
+  },
+  "editorProcessing": {
+    "message": "Verwerken…"
+  },
+  "editorExportDone": {
+    "message": "Export opgeslagen in Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export mislukt."
+  },
+  "schedulerStartIn": {
+    "message": "Starten over (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duur (min)"
+  },
+  "schedulerSource": {
+    "message": "Bron"
+  },
+  "schedulerCreate": {
+    "message": "Opname plannen"
+  },
+  "schedulerCancel": {
+    "message": "Planning annuleren"
+  },
+  "schedulerActive": {
+    "message": "Gepland"
+  },
+  "schedulerFiresIn": {
+    "message": "Start over $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimale planning is 30s (ondergrens van Chrome-alarmen)."
+  },
+  "licenseKey": {
+    "message": "Licentiesleutel"
+  },
+  "licenseActivate": {
+    "message": "Activeren"
+  },
+  "licenseActive": {
+    "message": "Pro-licentie actief"
+  },
+  "licenseInvalid": {
+    "message": "Licentiesleutel ongeldig."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "GRATIS"
+  },
+  "proFeatureLocked": {
+    "message": "Pro-functie — activeer een licentie om te ontgrendelen."
+  },
+  "toastScheduled": {
+    "message": "Opname gepland."
+  },
+  "toastScheduleCancelled": {
+    "message": "Planning geannuleerd."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro-licentie geactiveerd."
+  },
+  "cmdOpenEditor": {
+    "message": "Video-editor openen"
+  },
+  "formatWebM": {
+    "message": "WebM (gratis)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

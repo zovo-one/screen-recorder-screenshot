@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "Запись экрана и скриншоты — без входа, без водяных знаков"
+  },
+  "extDesc": {
+    "message": "Запись вкладки/экрана/веб-камеры и снимки всей страницы. Без входа, без водяных знаков, без ограничений, без загрузок."
+  },
+  "actionTitle": {
+    "message": "Снимок и запись"
+  },
+  "cmdCaptureVisible": {
+    "message": "Снимок видимой части"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Снимок всей страницы"
+  },
+  "cmdCaptureArea": {
+    "message": "Снимок выбранной области"
+  },
+  "popupTitle": {
+    "message": "Запись экрана и скриншоты"
+  },
+  "popupSubtitle": {
+    "message": "Без входа · Без водяных знаков · Без загрузок"
+  },
+  "sectionScreenshot": {
+    "message": "Скриншот"
+  },
+  "sectionRecord": {
+    "message": "Запись (Фаза B)"
+  },
+  "actionVisible": {
+    "message": "Видимая область"
+  },
+  "actionFullPage": {
+    "message": "Вся страница"
+  },
+  "actionArea": {
+    "message": "Выбранная область"
+  },
+  "actionDelay": {
+    "message": "Задержка 3 с"
+  },
+  "recordTab": {
+    "message": "Вкладка"
+  },
+  "recordScreen": {
+    "message": "Экран"
+  },
+  "recordWebcam": {
+    "message": "Веб-камера"
+  },
+  "micOn": {
+    "message": "Микрофон"
+  },
+  "tabAudioOn": {
+    "message": "Звук вкладки"
+  },
+  "comingSoonPhaseB": {
+    "message": "Запись появится в Фазе B (бесплатное обновление)."
+  },
+  "settingsFormat": {
+    "message": "Формат по умолчанию"
+  },
+  "formatPNG": {
+    "message": "PNG (без потерь)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (меньше)"
+  },
+  "formatPDF": {
+    "message": "PDF (многостраничный)"
+  },
+  "settingsDPR": {
+    "message": "Снимки в разрешении Retina"
+  },
+  "settingsQuality": {
+    "message": "Качество JPEG"
+  },
+  "save": {
+    "message": "Сохранить"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "openEditor": {
+    "message": "Открыть в редакторе"
+  },
+  "downloadNow": {
+    "message": "Скачать сейчас"
+  },
+  "editorTitle": {
+    "message": "Редактор"
+  },
+  "toolArrow": {
+    "message": "Стрелка"
+  },
+  "toolBox": {
+    "message": "Прямоугольник"
+  },
+  "toolText": {
+    "message": "Текст"
+  },
+  "toolBlur": {
+    "message": "Размытие"
+  },
+  "toolHighlight": {
+    "message": "Выделение"
+  },
+  "toolUndo": {
+    "message": "Отменить"
+  },
+  "toolRedo": {
+    "message": "Вернуть"
+  },
+  "toolClear": {
+    "message": "Очистить"
+  },
+  "exportPng": {
+    "message": "Экспорт PNG"
+  },
+  "exportJpeg": {
+    "message": "Экспорт JPEG"
+  },
+  "exportPdf": {
+    "message": "Экспорт PDF"
+  },
+  "toastCapturing": {
+    "message": "Захват…"
+  },
+  "toastStitching": {
+    "message": "Сборка фрагментов…"
+  },
+  "toastSaved": {
+    "message": "Сохранено в Загрузки."
+  },
+  "toastEditorOpened": {
+    "message": "Редактор открыт в новой вкладке."
+  },
+  "toastFailed": {
+    "message": "Захват не удался. Перезагрузите вкладку."
+  },
+  "toastCanvasCapHit": {
+    "message": "Страница очень длинная — результат разбит на части из-за лимита холста."
+  },
+  "selectorHint": {
+    "message": "Потяните для выбора. Esc для отмены."
+  },
+  "delayCountdown": {
+    "message": "Захват через $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Вся обработка локальная. Ваш экран не покидает устройство."
+  },
+  "cmdRecordToggle": {
+    "message": "Переключить запись"
+  },
+  "recordStop": {
+    "message": "Стоп"
+  },
+  "recordStopTooltip": {
+    "message": "Остановить и сохранить запись"
+  },
+  "toastRecordingStarted": {
+    "message": "Запись начата…"
+  },
+  "toastRecordingStopped": {
+    "message": "Запись сохранена в Загрузках."
+  },
+  "toastMicDenied": {
+    "message": "Доступ к микрофону запрещён."
+  },
+  "toastScreenDenied": {
+    "message": "Доступ к экрану запрещён."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Захват вкладки не удался. Перезагрузите вкладку."
+  },
+  "toastRecovered": {
+    "message": "Последняя запись восстановлена."
+  },
+  "recoverLast": {
+    "message": "Восстановить последнюю запись"
+  },
+  "discardLast": {
+    "message": "Отменить"
+  },
+  "recordingActive": {
+    "message": "Идёт запись"
+  },
+  "recordDuration": {
+    "message": "Длительность"
+  },
+  "recordHintTab": {
+    "message": "Вкладка · мик · звук вкладки"
+  },
+  "recordHintScreen": {
+    "message": "Экран · мик (опц.)"
+  },
+  "recordHintWebcam": {
+    "message": "Веб-камера + мик"
+  },
+  "sectionVideoEditor": {
+    "message": "Видеоредактор (Фаза C)"
+  },
+  "sectionScheduler": {
+    "message": "Запланированная запись"
+  },
+  "sectionLicense": {
+    "message": "Лицензия"
+  },
+  "openVideoEditor": {
+    "message": "Открыть видеоредактор"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "Запланировать запись"
+  },
+  "schedulerCancel": {
+    "message": "Отменить план"
+  },
+  "schedulerActive": {
+    "message": "Запланировано"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "Лицензионный ключ"
+  },
+  "licenseActivate": {
+    "message": "Активировать"
+  },
+  "licenseActive": {
+    "message": "Pro-лицензия активирована"
+  },
+  "licenseInvalid": {
+    "message": "Неверный ключ лицензии."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "БЕСПЛАТНО"
+  },
+  "proFeatureLocked": {
+    "message": "Функция Pro — активируйте лицензию."
+  },
+  "toastScheduled": {
+    "message": "Запись запланирована."
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro-лицензия активирована."
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

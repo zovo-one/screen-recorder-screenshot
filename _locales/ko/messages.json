@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "화면 녹화 및 스크린샷 — 로그인 불필요, 워터마크 없음"
+  },
+  "extDesc": {
+    "message": "탭/화면/웹캠을 녹화하고 전체 페이지를 캡처합니다. 로그인 불필요, 워터마크 없음, 제한 없음, 업로드 없음."
+  },
+  "actionTitle": {
+    "message": "캡처 및 녹화"
+  },
+  "cmdCaptureVisible": {
+    "message": "보이는 부분 캡처"
+  },
+  "cmdCaptureFullPage": {
+    "message": "전체 페이지 캡처"
+  },
+  "cmdCaptureArea": {
+    "message": "선택 영역 캡처"
+  },
+  "popupTitle": {
+    "message": "화면 녹화 및 스크린샷"
+  },
+  "popupSubtitle": {
+    "message": "로그인 불필요 · 워터마크 없음 · 업로드 없음"
+  },
+  "sectionScreenshot": {
+    "message": "스크린샷"
+  },
+  "sectionRecord": {
+    "message": "녹화 (B단계)"
+  },
+  "actionVisible": {
+    "message": "보이는 영역"
+  },
+  "actionFullPage": {
+    "message": "전체 페이지"
+  },
+  "actionArea": {
+    "message": "선택 영역"
+  },
+  "actionDelay": {
+    "message": "3초 지연"
+  },
+  "recordTab": {
+    "message": "탭"
+  },
+  "recordScreen": {
+    "message": "화면"
+  },
+  "recordWebcam": {
+    "message": "웹캠"
+  },
+  "micOn": {
+    "message": "마이크"
+  },
+  "tabAudioOn": {
+    "message": "탭 오디오"
+  },
+  "comingSoonPhaseB": {
+    "message": "녹화 기능은 B단계에서 제공됩니다(무료 업데이트)."
+  },
+  "settingsFormat": {
+    "message": "기본 형식"
+  },
+  "formatPNG": {
+    "message": "PNG(무손실)"
+  },
+  "formatJPEG": {
+    "message": "JPEG(더 작음)"
+  },
+  "formatPDF": {
+    "message": "PDF(여러 페이지)"
+  },
+  "settingsDPR": {
+    "message": "레티나 해상도로 캡처"
+  },
+  "settingsQuality": {
+    "message": "JPEG 품질"
+  },
+  "save": {
+    "message": "저장"
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "openEditor": {
+    "message": "편집기에서 열기"
+  },
+  "downloadNow": {
+    "message": "지금 다운로드"
+  },
+  "editorTitle": {
+    "message": "편집기"
+  },
+  "toolArrow": {
+    "message": "화살표"
+  },
+  "toolBox": {
+    "message": "사각형"
+  },
+  "toolText": {
+    "message": "텍스트"
+  },
+  "toolBlur": {
+    "message": "흐리게"
+  },
+  "toolHighlight": {
+    "message": "강조"
+  },
+  "toolUndo": {
+    "message": "실행 취소"
+  },
+  "toolRedo": {
+    "message": "다시 실행"
+  },
+  "toolClear": {
+    "message": "지우기"
+  },
+  "exportPng": {
+    "message": "PNG 내보내기"
+  },
+  "exportJpeg": {
+    "message": "JPEG 내보내기"
+  },
+  "exportPdf": {
+    "message": "PDF 내보내기"
+  },
+  "toastCapturing": {
+    "message": "캡처 중…"
+  },
+  "toastStitching": {
+    "message": "타일 결합 중…"
+  },
+  "toastSaved": {
+    "message": "다운로드에 저장되었습니다."
+  },
+  "toastEditorOpened": {
+    "message": "새 탭에서 편집기가 열렸습니다."
+  },
+  "toastFailed": {
+    "message": "캡처 실패. 탭을 새로고침하세요."
+  },
+  "toastCanvasCapHit": {
+    "message": "페이지가 매우 깁니다 — 캔버스 한도로 인해 타일로 출력됩니다."
+  },
+  "selectorHint": {
+    "message": "드래그하여 선택. Esc로 취소."
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$s 후 캡처…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "모든 처리는 로컬입니다. 화면이 기기를 떠나지 않습니다."
+  },
+  "cmdRecordToggle": {
+    "message": "녹화 전환"
+  },
+  "recordStop": {
+    "message": "정지"
+  },
+  "recordStopTooltip": {
+    "message": "녹화 중지 및 저장"
+  },
+  "toastRecordingStarted": {
+    "message": "녹화 시작됨…"
+  },
+  "toastRecordingStopped": {
+    "message": "녹화가 다운로드에 저장되었습니다."
+  },
+  "toastMicDenied": {
+    "message": "마이크 권한이 거부되었습니다."
+  },
+  "toastScreenDenied": {
+    "message": "화면 권한이 거부되었습니다."
+  },
+  "toastTabCaptureFailed": {
+    "message": "탭 캡처 실패. 탭을 새로고침하세요."
+  },
+  "toastRecovered": {
+    "message": "마지막 녹화가 복구되었습니다."
+  },
+  "recoverLast": {
+    "message": "마지막 녹화 복구"
+  },
+  "discardLast": {
+    "message": "취소"
+  },
+  "recordingActive": {
+    "message": "녹화 중"
+  },
+  "recordDuration": {
+    "message": "재생 시간"
+  },
+  "recordHintTab": {
+    "message": "탭 · 마이크 · 탭 오디오"
+  },
+  "recordHintScreen": {
+    "message": "화면 · 마이크(선택)"
+  },
+  "recordHintWebcam": {
+    "message": "웹캠 + 마이크"
+  },
+  "sectionVideoEditor": {
+    "message": "동영상 편집기(C단계)"
+  },
+  "sectionScheduler": {
+    "message": "예약 녹화"
+  },
+  "sectionLicense": {
+    "message": "라이선스"
+  },
+  "openVideoEditor": {
+    "message": "동영상 편집기 열기"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "녹화 예약"
+  },
+  "schedulerCancel": {
+    "message": "예약 취소"
+  },
+  "schedulerActive": {
+    "message": "예약됨"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "라이선스 키"
+  },
+  "licenseActivate": {
+    "message": "활성화"
+  },
+  "licenseActive": {
+    "message": "Pro 라이선스 활성"
+  },
+  "licenseInvalid": {
+    "message": "라이선스 키가 잘못되었습니다."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "무료"
+  },
+  "proFeatureLocked": {
+    "message": "Pro 기능 — 라이선스를 활성화하세요."
+  },
+  "toastScheduled": {
+    "message": "녹화가 예약되었습니다."
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro 라이선스가 활성화되었습니다."
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

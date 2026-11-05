@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzovo_screen_recorder=self.webpackChunkzovo_screen_recorder||[]).push([[113],{113(e,t,c){c.d(t,{setLatestCapture:()=>s});const r="latest-capture";async function s(e){try{await chrome.storage.local.set({[r]:e})}catch{}}}}]);

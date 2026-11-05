@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "സ്ക്രീൻ റെക്കോർഡർ & സ്ക്രീൻഷോട്ട് — ലോഗിൻ ഇല്ല, വാട്ടർമാർക്ക് ഇല്ല",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "ടാബ്/സ്ക്രീൻ/വെബ്ക്യാം റെക്കോർഡ് ചെയ്യുകയും മുഴുവൻ പേജുകളും സ്ക്രീൻഷോട്ട് എടുക്കുകയും ചെയ്യുക.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "സ്ക്രീൻഷോട്ട് & റെക്കോർഡ്"
+  },
+  "cmdCaptureVisible": {
+    "message": "പേജിന്റെ ദൃശ്യമായ ഭാഗം ക്യാപ്ചർ ചെയ്യുക"
+  },
+  "cmdCaptureFullPage": {
+    "message": "മുഴുവൻ പേജും ക്യാപ്ചർ ചെയ്യുക"
+  },
+  "cmdCaptureArea": {
+    "message": "തിരഞ്ഞെടുത്ത പ്രദേശം ക്യാപ്ചർ ചെയ്യുക"
+  },
+  "popupTitle": {
+    "message": "സ്ക്രീൻ റെക്കോർഡർ & സ്ക്രീൻഷോട്ട്"
+  },
+  "popupSubtitle": {
+    "message": "ലോഗിൻ ഇല്ല · വാട്ടർമാർക്ക് ഇല്ല · അപ്‌ലോഡ് ഇല്ല"
+  },
+  "sectionScreenshot": {
+    "message": "സ്ക്രീൻഷോട്ട്"
+  },
+  "sectionRecord": {
+    "message": "റെക്കോർഡ് ചെയ്യുക (ഘട്ടം B)"
+  },
+  "actionVisible": {
+    "message": "ദൃശ്യമായ പ്രദേശം"
+  },
+  "actionFullPage": {
+    "message": "മുഴുവൻ പേജ്"
+  },
+  "actionArea": {
+    "message": "തിരഞ്ഞെടുത്ത പ്രദേശം"
+  },
+  "actionDelay": {
+    "message": "3 സെക്കൻഡ് കാലതാമസം"
+  },
+  "recordTab": {
+    "message": "ടാബ്"
+  },
+  "recordScreen": {
+    "message": "സ്ക്രീൻ"
+  },
+  "recordWebcam": {
+    "message": "വെബ്ക്യാം"
+  },
+  "micOn": {
+    "message": "മൈക്ക്"
+  },
+  "tabAudioOn": {
+    "message": "ടാബ് ഓഡിയോ"
+  },
+  "comingSoonPhaseB": {
+    "message": "റെക്കോർഡിംഗ് ഘട്ടം B-യിൽ എത്തുന്നു (സൗജന്യ അപ്ഡേറ്റ്)."
+  },
+  "settingsFormat": {
+    "message": "സ്ഥിരസ്ഥിതി ഫോർമാറ്റ്"
+  },
+  "formatPNG": {
+    "message": "PNG (നഷ്ടരഹിതം)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (ചെറുത്)"
+  },
+  "formatPDF": {
+    "message": "PDF (മൾട്ടി-പേജ്)"
+  },
+  "settingsDPR": {
+    "message": "റെറ്റിന റെസലൂഷനിൽ ക്യാപ്ചർ ചെയ്യുക"
+  },
+  "settingsQuality": {
+    "message": "JPEG ഗുണനിലവാരം"
+  },
+  "save": {
+    "message": "സേവ് ചെയ്യുക"
+  },
+  "cancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "openEditor": {
+    "message": "എഡിറ്ററിൽ തുറക്കുക"
+  },
+  "downloadNow": {
+    "message": "ഇപ്പോൾ ഡൗൺലോഡ് ചെയ്യുക"
+  },
+  "editorTitle": {
+    "message": "എഡിറ്റർ"
+  },
+  "toolArrow": {
+    "message": "അമ്പ്"
+  },
+  "toolBox": {
+    "message": "ബോക്സ്"
+  },
+  "toolText": {
+    "message": "ടെക്സ്റ്റ്"
+  },
+  "toolBlur": {
+    "message": "മങ്ങിക്കുക"
+  },
+  "toolHighlight": {
+    "message": "ഹൈലൈറ്റ്"
+  },
+  "toolUndo": {
+    "message": "പഴയപടിയാക്കുക"
+  },
+  "toolRedo": {
+    "message": "വീണ്ടും ചെയ്യുക"
+  },
+  "toolClear": {
+    "message": "മായ്ക്കുക"
+  },
+  "exportPng": {
+    "message": "PNG എക്സ്പോർട്ട് ചെയ്യുക"
+  },
+  "exportJpeg": {
+    "message": "JPEG എക്സ്പോർട്ട് ചെയ്യുക"
+  },
+  "exportPdf": {
+    "message": "PDF എക്സ്പോർട്ട് ചെയ്യുക"
+  },
+  "toastCapturing": {
+    "message": "ക്യാപ്ചർ ചെയ്യുന്നു…"
+  },
+  "toastStitching": {
+    "message": "ടൈലുകൾ ചേർക്കുന്നു…"
+  },
+  "toastSaved": {
+    "message": "നിങ്ങളുടെ ഡൗൺലോഡുകളിലേക്ക് സേവ് ചെയ്തു."
+  },
+  "toastEditorOpened": {
+    "message": "ഒരു പുതിയ ടാബിൽ എഡിറ്റർ തുറന്നു."
+  },
+  "toastFailed": {
+    "message": "ക്യാപ്ചർ പരാജയപ്പെട്ടു. ടാബ് റീലോഡ് ചെയ്ത് ശ്രമിക്കുക."
+  },
+  "toastCanvasCapHit": {
+    "message": "പേജ് വളരെ നീളമുള്ളതാണ് — Chrome-ന്റെ ക്യാൻവാസ് പരിധിക്ക് അനുയോജ്യമായി ഔട്ട്പുട്ട് ടൈൽ ചെയ്തു."
+  },
+  "selectorHint": {
+    "message": "തിരഞ്ഞെടുക്കാൻ വലിച്ചിടുക. റദ്ദാക്കാൻ Esc."
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$ സെക്കൻഡിനുള്ളിൽ ക്യാപ്ചർ ചെയ്യുന്നു…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "എല്ലാ പ്രോസസ്സിംഗും പ്രാദേശികമാണ്. നിങ്ങളുടെ സ്ക്രീൻ ഒരിക്കലും നിങ്ങളുടെ ഉപകരണം വിട്ടുപോകുന്നില്ല."
+  },
+  "cmdRecordToggle": {
+    "message": "റെക്കോർഡിംഗ് ടോഗിൾ ചെയ്യുക"
+  },
+  "recordStop": {
+    "message": "നിർത്തുക"
+  },
+  "recordStopTooltip": {
+    "message": "റെക്കോർഡിംഗ് നിർത്തി സേവ് ചെയ്യുക"
+  },
+  "toastRecordingStarted": {
+    "message": "റെക്കോർഡിംഗ് ആരംഭിച്ചു…"
+  },
+  "toastRecordingStopped": {
+    "message": "റെക്കോർഡിംഗ് നിങ്ങളുടെ ഡൗൺലോഡുകളിലേക്ക് സേവ് ചെയ്തു."
+  },
+  "toastMicDenied": {
+    "message": "മൈക്രോഫോൺ അനുമതി നിരസിച്ചു."
+  },
+  "toastScreenDenied": {
+    "message": "സ്ക്രീൻ അനുമതി നിരസിച്ചു."
+  },
+  "toastTabCaptureFailed": {
+    "message": "ടാബ് ക്യാപ്ചർ പരാജയപ്പെട്ടു. ടാബ് റീലോഡ് ചെയ്ത് ശ്രമിക്കുക."
+  },
+  "toastRecovered": {
+    "message": "അവസാന റെക്കോർഡിംഗ് വീണ്ടെടുത്തു."
+  },
+  "recoverLast": {
+    "message": "അവസാന റെക്കോർഡിംഗ് വീണ്ടെടുക്കുക"
+  },
+  "discardLast": {
+    "message": "ഉപേക്ഷിക്കുക"
+  },
+  "recordingActive": {
+    "message": "സെഷനിൽ റെക്കോർഡ് ചെയ്യുന്നു"
+  },
+  "recordDuration": {
+    "message": "ദൈർഘ്യം"
+  },
+  "recordHintTab": {
+    "message": "ടാബ് · മൈക്ക് · ടാബ് ഓഡിയോ"
+  },
+  "recordHintScreen": {
+    "message": "സ്ക്രീൻ · മൈക്ക് (ഐച്ഛികം)"
+  },
+  "recordHintWebcam": {
+    "message": "വെബ്ക്യാം + മൈക്ക്"
+  },
+  "sectionVideoEditor": {
+    "message": "വീഡിയോ എഡിറ്റർ (ഘട്ടം C)"
+  },
+  "sectionScheduler": {
+    "message": "ഷെഡ്യൂൾ ചെയ്ത റെക്കോർഡിംഗ്"
+  },
+  "sectionLicense": {
+    "message": "ലൈസൻസ്"
+  },
+  "openVideoEditor": {
+    "message": "വീഡിയോ എഡിറ്റർ തുറക്കുക"
+  },
+  "noRecordingsYet": {
+    "message": "ഇതുവരെ റെക്കോർഡിംഗുകളൊന്നുമില്ല. ആദ്യം എന്തെങ്കിലും റെക്കോർഡ് ചെയ്യുക."
+  },
+  "editorVideoTitle": {
+    "message": "വീഡിയോ എഡിറ്റർ"
+  },
+  "editorTrim": {
+    "message": "ട്രിം ചെയ്യുക"
+  },
+  "editorCrop": {
+    "message": "ക്രോപ്പ് ചെയ്യുക"
+  },
+  "editorBlur": {
+    "message": "മങ്ങിക്കുക"
+  },
+  "editorClickZoom": {
+    "message": "ക്ലിക്ക്-സൂം"
+  },
+  "editorExportWebM": {
+    "message": "WebM എക്സ്പോർട്ട് ചെയ്യുക (സൗജന്യം)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 എക്സ്പോർട്ട് ചെയ്യുക (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF എക്സ്പോർട്ട് ചെയ്യുക (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K എക്സ്പോർട്ട് ചെയ്യുക (Pro)"
+  },
+  "editorInPoint": {
+    "message": "ഇൻ"
+  },
+  "editorOutPoint": {
+    "message": "ഔട്ട്"
+  },
+  "editorAddBlurRegion": {
+    "message": "മങ്ങൽ പ്രദേശം ചേർക്കുക"
+  },
+  "editorClearOverlays": {
+    "message": "ഓവർലേകൾ മായ്ക്കുക"
+  },
+  "editorProcessing": {
+    "message": "പ്രോസസ്സ് ചെയ്യുന്നു…"
+  },
+  "editorExportDone": {
+    "message": "എക്സ്പോർട്ട് ഡൗൺലോഡുകളിലേക്ക് സേവ് ചെയ്തു."
+  },
+  "editorExportFailed": {
+    "message": "എക്സ്പോർട്ട് പരാജയപ്പെട്ടു."
+  },
+  "schedulerStartIn": {
+    "message": "ആരംഭിക്കുന്നത് (മിനിറ്റ്)"
+  },
+  "schedulerDuration": {
+    "message": "ദൈർഘ്യം (മിനിറ്റ്)"
+  },
+  "schedulerSource": {
+    "message": "ഉറവിടം"
+  },
+  "schedulerCreate": {
+    "message": "റെക്കോർഡിംഗ് ഷെഡ്യൂൾ ചെയ്യുക"
+  },
+  "schedulerCancel": {
+    "message": "ഷെഡ്യൂൾ റദ്ദാക്കുക"
+  },
+  "schedulerActive": {
+    "message": "ഷെഡ്യൂൾ ചെയ്തു"
+  },
+  "schedulerFiresIn": {
+    "message": "$MIN$ സെക്കൻഡിനുള്ളിൽ ആരംഭിക്കുന്നു",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "കുറഞ്ഞ ഷെഡ്യൂൾ 30 സെക്കൻഡാണ് (Chrome അലാറം പരിധി)."
+  },
+  "licenseKey": {
+    "message": "ലൈസൻസ് കീ"
+  },
+  "licenseActivate": {
+    "message": "സജീവമാക്കുക"
+  },
+  "licenseActive": {
+    "message": "Pro ലൈസൻസ് സജീവമാണ്"
+  },
+  "licenseInvalid": {
+    "message": "ലൈസൻസ് കീ അസാധുവാണ്."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro സവിശേഷത — അൺലോക്ക് ചെയ്യാൻ ഒരു ലൈസൻസ് സജീവമാക്കുക."
+  },
+  "toastScheduled": {
+    "message": "റെക്കോർഡിംഗ് ഷെഡ്യൂൾ ചെയ്തു."
+  },
+  "toastScheduleCancelled": {
+    "message": "ഷെഡ്യൂൾ റദ്ദാക്കി."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro ലൈസൻസ് സജീവമാക്കി."
+  },
+  "cmdOpenEditor": {
+    "message": "വീഡിയോ എഡിറ്റർ തുറക്കുക"
+  },
+  "formatWebM": {
+    "message": "WebM (സൗജന്യം)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

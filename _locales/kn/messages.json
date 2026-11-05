@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡರ್ ಮತ್ತು ಸ್ಕ್ರೀನ್‌ಶಾಟ್ — ಲಾಗಿನ್ ಇಲ್ಲ, ವಾಟರ್‌ಮಾರ್ಕ್ ಇಲ್ಲ",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "ಟ್ಯಾಬ್/ಸ್ಕ್ರೀನ್/ವೆಬ್‌ಕ್ಯಾಮ್ ರೆಕಾರ್ಡ್ ಮಾಡಿ ಮತ್ತು ಪೂರ್ಣ ಪುಟಗಳ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ತೆಗೆಯಿರಿ.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಮತ್ತು ರೆಕಾರ್ಡ್"
+  },
+  "cmdCaptureVisible": {
+    "message": "ಪುಟದ ಗೋಚರ ಭಾಗವನ್ನು ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ"
+  },
+  "cmdCaptureFullPage": {
+    "message": "ಪೂರ್ಣ ಪುಟವನ್ನು ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ"
+  },
+  "cmdCaptureArea": {
+    "message": "ಆಯ್ಕೆಮಾಡಿದ ಪ್ರದೇಶವನ್ನು ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ"
+  },
+  "popupTitle": {
+    "message": "ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡರ್ ಮತ್ತು ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
+  },
+  "popupSubtitle": {
+    "message": "ಲಾಗಿನ್ ಇಲ್ಲ · ವಾಟರ್‌ಮಾರ್ಕ್ ಇಲ್ಲ · ಅಪ್‌ಲೋಡ್ ಇಲ್ಲ"
+  },
+  "sectionScreenshot": {
+    "message": "ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
+  },
+  "sectionRecord": {
+    "message": "ರೆಕಾರ್ಡ್"
+  },
+  "actionVisible": {
+    "message": "ಗೋಚರ ಪ್ರದೇಶ"
+  },
+  "actionFullPage": {
+    "message": "ಪೂರ್ಣ ಪುಟ"
+  },
+  "actionArea": {
+    "message": "ಆಯ್ಕೆಮಾಡಿದ ಪ್ರದೇಶ"
+  },
+  "actionDelay": {
+    "message": "3 ಸೆ ವಿಳಂಬ"
+  },
+  "recordTab": {
+    "message": "ಟ್ಯಾಬ್"
+  },
+  "recordScreen": {
+    "message": "ಸ್ಕ್ರೀನ್"
+  },
+  "recordWebcam": {
+    "message": "ವೆಬ್‌ಕ್ಯಾಮ್"
+  },
+  "micOn": {
+    "message": "ಮೈಕ್"
+  },
+  "tabAudioOn": {
+    "message": "ಟ್ಯಾಬ್ ಆಡಿಯೊ"
+  },
+  "comingSoonPhaseB": {
+    "message": "ರೆಕಾರ್ಡಿಂಗ್ a free update ನಲ್ಲಿ ಬರುತ್ತದೆ (ಉಚಿತ ಅಪ್‌ಡೇಟ್)."
+  },
+  "settingsFormat": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಸ್ವರೂಪ"
+  },
+  "formatPNG": {
+    "message": "PNG (ನಷ್ಟರಹಿತ)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (ಚಿಕ್ಕದು)"
+  },
+  "formatPDF": {
+    "message": "PDF (ಬಹು-ಪುಟ)"
+  },
+  "settingsDPR": {
+    "message": "ರೆಟಿನಾ ರೆಸಲ್ಯೂಶನ್‌ನಲ್ಲಿ ಕ್ಯಾಪ್ಚರ್ ಮಾಡಿ"
+  },
+  "settingsQuality": {
+    "message": "JPEG ಗುಣಮಟ್ಟ"
+  },
+  "save": {
+    "message": "ಉಳಿಸಿ"
+  },
+  "cancel": {
+    "message": "ರದ್ದುಮಾಡಿ"
+  },
+  "openEditor": {
+    "message": "ಎಡಿಟರ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+  },
+  "downloadNow": {
+    "message": "ಈಗ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+  },
+  "editorTitle": {
+    "message": "ಎಡಿಟರ್"
+  },
+  "toolArrow": {
+    "message": "ಬಾಣ"
+  },
+  "toolBox": {
+    "message": "ಚೌಕ"
+  },
+  "toolText": {
+    "message": "ಪಠ್ಯ"
+  },
+  "toolBlur": {
+    "message": "ಬ್ಲರ್"
+  },
+  "toolHighlight": {
+    "message": "ಹೈಲೈಟ್"
+  },
+  "toolUndo": {
+    "message": "ರದ್ದುಗೊಳಿಸಿ"
+  },
+  "toolRedo": {
+    "message": "ಮರುಮಾಡಿ"
+  },
+  "toolClear": {
+    "message": "ಅಳಿಸಿ"
+  },
+  "exportPng": {
+    "message": "PNG ರಫ್ತು ಮಾಡಿ"
+  },
+  "exportJpeg": {
+    "message": "JPEG ರಫ್ತು ಮಾಡಿ"
+  },
+  "exportPdf": {
+    "message": "PDF ರಫ್ತು ಮಾಡಿ"
+  },
+  "toastCapturing": {
+    "message": "ಕ್ಯಾಪ್ಚರ್ ಮಾಡುತ್ತಿದೆ…"
+  },
+  "toastStitching": {
+    "message": "ಟೈಲ್‌ಗಳನ್ನು ಜೋಡಿಸುತ್ತಿದೆ…"
+  },
+  "toastSaved": {
+    "message": "ನಿಮ್ಮ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆ ಉಳಿಸಲಾಗಿದೆ."
+  },
+  "toastEditorOpened": {
+    "message": "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಎಡಿಟರ್ ತೆರೆಯಲಾಗಿದೆ."
+  },
+  "toastFailed": {
+    "message": "ಕ್ಯಾಪ್ಚರ್ ವಿಫಲವಾಯಿತು. ಟ್ಯಾಬ್ ಅನ್ನು ರೀಲೋಡ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "toastCanvasCapHit": {
+    "message": "ಪುಟ ತುಂಬಾ ಎತ್ತರವಾಗಿದೆ — Chrome ನ ಕ್ಯಾನ್ವಾಸ್ ಮಿತಿಗೆ ಹೊಂದುವಂತೆ ಔಟ್‌ಪುಟ್ ಟೈಲ್ ಮಾಡಲಾಗಿದೆ."
+  },
+  "selectorHint": {
+    "message": "ಆಯ್ಕೆಮಾಡಲು ಎಳೆಯಿರಿ. ರದ್ದುಮಾಡಲು Esc."
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$ ಸೆ ನಲ್ಲಿ ಕ್ಯಾಪ್ಚರ್ ಆಗುತ್ತದೆ…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "ಎಲ್ಲಾ ಪ್ರಕ್ರಿಯೆ ಸ್ಥಳೀಯವಾಗಿದೆ. ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ಎಂದಿಗೂ ನಿಮ್ಮ ಸಾಧನವನ್ನು ಬಿಡುವುದಿಲ್ಲ."
+  },
+  "cmdRecordToggle": {
+    "message": "ರೆಕಾರ್ಡಿಂಗ್ ಟಾಗಲ್ ಮಾಡಿ"
+  },
+  "recordStop": {
+    "message": "ನಿಲ್ಲಿಸಿ"
+  },
+  "recordStopTooltip": {
+    "message": "ರೆಕಾರ್ಡಿಂಗ್ ನಿಲ್ಲಿಸಿ ಮತ್ತು ಉಳಿಸಿ"
+  },
+  "toastRecordingStarted": {
+    "message": "ರೆಕಾರ್ಡಿಂಗ್ ಪ್ರಾರಂಭವಾಯಿತು…"
+  },
+  "toastRecordingStopped": {
+    "message": "ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ನಿಮ್ಮ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆ ಉಳಿಸಲಾಗಿದೆ."
+  },
+  "toastMicDenied": {
+    "message": "ಮೈಕ್ರೊಫೋನ್ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗಿದೆ."
+  },
+  "toastScreenDenied": {
+    "message": "ಸ್ಕ್ರೀನ್ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗಿದೆ."
+  },
+  "toastTabCaptureFailed": {
+    "message": "ಟ್ಯಾಬ್ ಕ್ಯಾಪ್ಚರ್ ವಿಫಲವಾಯಿತು. ಟ್ಯಾಬ್ ಅನ್ನು ರೀಲೋಡ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "toastRecovered": {
+    "message": "ಕೊನೆಯ ರೆಕಾರ್ಡಿಂಗ್ ಮರುಪಡೆಯಲಾಗಿದೆ."
+  },
+  "recoverLast": {
+    "message": "ಕೊನೆಯ ರೆಕಾರ್ಡಿಂಗ್ ಮರುಪಡೆಯಿರಿ"
+  },
+  "discardLast": {
+    "message": "ತ್ಯಜಿಸಿ"
+  },
+  "recordingActive": {
+    "message": "ಸೆಷನ್‌ನಲ್ಲಿ ರೆಕಾರ್ಡಿಂಗ್"
+  },
+  "recordDuration": {
+    "message": "ಅವಧಿ"
+  },
+  "recordHintTab": {
+    "message": "ಟ್ಯಾಬ್ · ಮೈಕ್ · ಟ್ಯಾಬ್ ಆಡಿಯೊ"
+  },
+  "recordHintScreen": {
+    "message": "ಸ್ಕ್ರೀನ್ · ಮೈಕ್ (ಐಚ್ಛಿಕ)"
+  },
+  "recordHintWebcam": {
+    "message": "ವೆಬ್‌ಕ್ಯಾಮ್ + ಮೈಕ್"
+  },
+  "sectionVideoEditor": {
+    "message": "ವೀಡಿಯೊ ಎಡಿಟರ್"
+  },
+  "sectionScheduler": {
+    "message": "ನಿಗದಿತ ರೆಕಾರ್ಡಿಂಗ್"
+  },
+  "sectionLicense": {
+    "message": "ಲೈಸೆನ್ಸ್"
+  },
+  "openVideoEditor": {
+    "message": "ವೀಡಿಯೊ ಎಡಿಟರ್ ತೆರೆಯಿರಿ"
+  },
+  "noRecordingsYet": {
+    "message": "ಇನ್ನೂ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳಿಲ್ಲ. ಮೊದಲು ಏನಾದರೂ ರೆಕಾರ್ಡ್ ಮಾಡಿ."
+  },
+  "editorVideoTitle": {
+    "message": "ವೀಡಿಯೊ ಎಡಿಟರ್"
+  },
+  "editorTrim": {
+    "message": "ಟ್ರಿಮ್"
+  },
+  "editorCrop": {
+    "message": "ಕ್ರಾಪ್"
+  },
+  "editorBlur": {
+    "message": "ಬ್ಲರ್"
+  },
+  "editorClickZoom": {
+    "message": "ಕ್ಲಿಕ್-ಜೂಮ್"
+  },
+  "editorExportWebM": {
+    "message": "WebM ರಫ್ತು ಮಾಡಿ (ಉಚಿತ)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 ರಫ್ತು ಮಾಡಿ (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF ರಫ್ತು ಮಾಡಿ (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K ರಫ್ತು ಮಾಡಿ (Pro)"
+  },
+  "editorInPoint": {
+    "message": "ಇನ್"
+  },
+  "editorOutPoint": {
+    "message": "ಔಟ್"
+  },
+  "editorAddBlurRegion": {
+    "message": "ಬ್ಲರ್ ಪ್ರದೇಶ ಸೇರಿಸಿ"
+  },
+  "editorClearOverlays": {
+    "message": "ಓವರ್‌ಲೇಗಳನ್ನು ಅಳಿಸಿ"
+  },
+  "editorProcessing": {
+    "message": "ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತಿದೆ…"
+  },
+  "editorExportDone": {
+    "message": "ರಫ್ತು ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆ ಉಳಿಸಲಾಗಿದೆ."
+  },
+  "editorExportFailed": {
+    "message": "ರಫ್ತು ವಿಫಲವಾಯಿತು."
+  },
+  "schedulerStartIn": {
+    "message": "ಇಷ್ಟರೊಳಗೆ ಪ್ರಾರಂಭ (ನಿಮಿಷ)"
+  },
+  "schedulerDuration": {
+    "message": "ಅವಧಿ (ನಿಮಿಷ)"
+  },
+  "schedulerSource": {
+    "message": "ಮೂಲ"
+  },
+  "schedulerCreate": {
+    "message": "ರೆಕಾರ್ಡಿಂಗ್ ನಿಗದಿಪಡಿಸಿ"
+  },
+  "schedulerCancel": {
+    "message": "ನಿಗದಿ ರದ್ದುಮಾಡಿ"
+  },
+  "schedulerActive": {
+    "message": "ನಿಗದಿಪಡಿಸಲಾಗಿದೆ"
+  },
+  "schedulerFiresIn": {
+    "message": "$MIN$ ಸೆ ನಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "ಕನಿಷ್ಠ ನಿಗದಿ 30 ಸೆ (Chrome ಅಲಾರಂ ಮಿತಿ)."
+  },
+  "licenseKey": {
+    "message": "ಲೈಸೆನ್ಸ್ ಕೀ"
+  },
+  "licenseActivate": {
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "licenseActive": {
+    "message": "Pro ಲೈಸೆನ್ಸ್ ಸಕ್ರಿಯವಾಗಿದೆ"
+  },
+  "licenseInvalid": {
+    "message": "ಲೈಸೆನ್ಸ್ ಕೀ ಅಮಾನ್ಯವಾಗಿದೆ."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro ವೈಶಿಷ್ಟ್ಯ — ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಲೈಸೆನ್ಸ್ ಸಕ್ರಿಯಗೊಳಿಸಿ."
+  },
+  "toastScheduled": {
+    "message": "ರೆಕಾರ್ಡಿಂಗ್ ನಿಗದಿಪಡಿಸಲಾಗಿದೆ."
+  },
+  "toastScheduleCancelled": {
+    "message": "ನಿಗದಿ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro ಲೈಸೆನ್ಸ್ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ."
+  },
+  "cmdOpenEditor": {
+    "message": "ವೀಡಿಯೊ ಎಡಿಟರ್ ತೆರೆಯಿರಿ"
+  },
+  "formatWebM": {
+    "message": "WebM (ಉಚಿತ)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — без входу, без водяного знака",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Записуйте вкладку/екран/вебкамеру та робіть знімки цілих сторінок. Без входу, без водяного знака, без обмежень, без завантаження на",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Знімок і запис"
+  },
+  "cmdCaptureVisible": {
+    "message": "Зняти видиму частину сторінки"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Зняти всю сторінку"
+  },
+  "cmdCaptureArea": {
+    "message": "Зняти вибрану область"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "Без входу · Без водяного знака · Без завантаження на сервер"
+  },
+  "sectionScreenshot": {
+    "message": "Знімок екрана"
+  },
+  "sectionRecord": {
+    "message": "Запис (Фаза B)"
+  },
+  "actionVisible": {
+    "message": "Видима область"
+  },
+  "actionFullPage": {
+    "message": "Уся сторінка"
+  },
+  "actionArea": {
+    "message": "Вибрана область"
+  },
+  "actionDelay": {
+    "message": "Затримка 3 с"
+  },
+  "recordTab": {
+    "message": "Вкладка"
+  },
+  "recordScreen": {
+    "message": "Екран"
+  },
+  "recordWebcam": {
+    "message": "Вебкамера"
+  },
+  "micOn": {
+    "message": "Мікрофон"
+  },
+  "tabAudioOn": {
+    "message": "Звук вкладки"
+  },
+  "comingSoonPhaseB": {
+    "message": "Запис з'явиться у Фазі B (безкоштовне оновлення)."
+  },
+  "settingsFormat": {
+    "message": "Формат за замовчуванням"
+  },
+  "formatPNG": {
+    "message": "PNG (без втрат)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (менший розмір)"
+  },
+  "formatPDF": {
+    "message": "PDF (кілька сторінок)"
+  },
+  "settingsDPR": {
+    "message": "Знімати в роздільній здатності Retina"
+  },
+  "settingsQuality": {
+    "message": "Якість JPEG"
+  },
+  "save": {
+    "message": "Зберегти"
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "openEditor": {
+    "message": "Відкрити в редакторі"
+  },
+  "downloadNow": {
+    "message": "Завантажити зараз"
+  },
+  "editorTitle": {
+    "message": "Редактор"
+  },
+  "toolArrow": {
+    "message": "Стрілка"
+  },
+  "toolBox": {
+    "message": "Прямокутник"
+  },
+  "toolText": {
+    "message": "Текст"
+  },
+  "toolBlur": {
+    "message": "Розмиття"
+  },
+  "toolHighlight": {
+    "message": "Виділення"
+  },
+  "toolUndo": {
+    "message": "Скасувати"
+  },
+  "toolRedo": {
+    "message": "Повторити"
+  },
+  "toolClear": {
+    "message": "Очистити"
+  },
+  "exportPng": {
+    "message": "Експорт PNG"
+  },
+  "exportJpeg": {
+    "message": "Експорт JPEG"
+  },
+  "exportPdf": {
+    "message": "Експорт PDF"
+  },
+  "toastCapturing": {
+    "message": "Знімання…"
+  },
+  "toastStitching": {
+    "message": "Зшивання фрагментів…"
+  },
+  "toastSaved": {
+    "message": "Збережено в папку «Завантаження»."
+  },
+  "toastEditorOpened": {
+    "message": "Редактор відкрито в новій вкладці."
+  },
+  "toastFailed": {
+    "message": "Не вдалося зробити знімок. Спробуйте перезавантажити вкладку."
+  },
+  "toastCanvasCapHit": {
+    "message": "Сторінка дуже висока — результат розбито на фрагменти, щоб вкластися в обмеження полотна Chrome."
+  },
+  "selectorHint": {
+    "message": "Перетягніть, щоб вибрати. Esc — скасувати."
+  },
+  "delayCountdown": {
+    "message": "Знімання через $SECONDS$ с…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Уся обробка відбувається локально. Ваш екран ніколи не покидає ваш пристрій."
+  },
+  "cmdRecordToggle": {
+    "message": "Увімкнути/вимкнути запис"
+  },
+  "recordStop": {
+    "message": "Зупинити"
+  },
+  "recordStopTooltip": {
+    "message": "Зупинити та зберегти запис"
+  },
+  "toastRecordingStarted": {
+    "message": "Запис почато…"
+  },
+  "toastRecordingStopped": {
+    "message": "Запис збережено в папку «Завантаження»."
+  },
+  "toastMicDenied": {
+    "message": "У доступі до мікрофона відмовлено."
+  },
+  "toastScreenDenied": {
+    "message": "У доступі до екрана відмовлено."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Не вдалося захопити вкладку. Спробуйте перезавантажити вкладку."
+  },
+  "toastRecovered": {
+    "message": "Відновлено останній запис."
+  },
+  "recoverLast": {
+    "message": "Відновити останній запис"
+  },
+  "discardLast": {
+    "message": "Відхилити"
+  },
+  "recordingActive": {
+    "message": "Триває запис"
+  },
+  "recordDuration": {
+    "message": "Тривалість"
+  },
+  "recordHintTab": {
+    "message": "Вкладка · мікрофон · звук вкладки"
+  },
+  "recordHintScreen": {
+    "message": "Екран · мікрофон (необов'язково)"
+  },
+  "recordHintWebcam": {
+    "message": "Вебкамера + мікрофон"
+  },
+  "sectionVideoEditor": {
+    "message": "Відеоредактор (Фаза C)"
+  },
+  "sectionScheduler": {
+    "message": "Запланований запис"
+  },
+  "sectionLicense": {
+    "message": "Ліцензія"
+  },
+  "openVideoEditor": {
+    "message": "Відкрити відеоредактор"
+  },
+  "noRecordingsYet": {
+    "message": "Ще немає записів. Спершу щось запишіть."
+  },
+  "editorVideoTitle": {
+    "message": "Відеоредактор"
+  },
+  "editorTrim": {
+    "message": "Обрізати за часом"
+  },
+  "editorCrop": {
+    "message": "Кадрувати"
+  },
+  "editorBlur": {
+    "message": "Розмиття"
+  },
+  "editorClickZoom": {
+    "message": "Зум по кліку"
+  },
+  "editorExportWebM": {
+    "message": "Експорт WebM (безкоштовно)"
+  },
+  "editorExportMp4": {
+    "message": "Експорт MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Експорт GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Експорт 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Початок"
+  },
+  "editorOutPoint": {
+    "message": "Кінець"
+  },
+  "editorAddBlurRegion": {
+    "message": "Додати область розмиття"
+  },
+  "editorClearOverlays": {
+    "message": "Очистити накладки"
+  },
+  "editorProcessing": {
+    "message": "Обробка…"
+  },
+  "editorExportDone": {
+    "message": "Експорт збережено в папку «Завантаження»."
+  },
+  "editorExportFailed": {
+    "message": "Не вдалося експортувати."
+  },
+  "schedulerStartIn": {
+    "message": "Почати через (хв)"
+  },
+  "schedulerDuration": {
+    "message": "Тривалість (хв)"
+  },
+  "schedulerSource": {
+    "message": "Джерело"
+  },
+  "schedulerCreate": {
+    "message": "Запланувати запис"
+  },
+  "schedulerCancel": {
+    "message": "Скасувати розклад"
+  },
+  "schedulerActive": {
+    "message": "Заплановано"
+  },
+  "schedulerFiresIn": {
+    "message": "Спрацює через $MIN$ с",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Мінімальний розклад — 30 с (мінімум для будильників Chrome)."
+  },
+  "licenseKey": {
+    "message": "Ліцензійний ключ"
+  },
+  "licenseActivate": {
+    "message": "Активувати"
+  },
+  "licenseActive": {
+    "message": "Ліцензія Pro активна"
+  },
+  "licenseInvalid": {
+    "message": "Недійсний ліцензійний ключ."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Функція Pro — активуйте ліцензію, щоб відкрити."
+  },
+  "toastScheduled": {
+    "message": "Запис заплановано."
+  },
+  "toastScheduleCancelled": {
+    "message": "Розклад скасовано."
+  },
+  "toastLicenseActivated": {
+    "message": "Ліцензію Pro активовано."
+  },
+  "cmdOpenEditor": {
+    "message": "Відкрити відеоредактор"
+  },
+  "formatWebM": {
+    "message": "WebM (безкоштовно)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

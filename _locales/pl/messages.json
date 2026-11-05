@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Rejestrator ekranu i zrzuty ekranu — bez logowania, bez znaku wodnego",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Nagrywaj kartę/ekran/kamerę i rób zrzuty całych stron. Bez logowania, bez znaku wodnego, bez limitów, bez przesyłania.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Zrzut ekranu i nagrywanie"
+  },
+  "cmdCaptureVisible": {
+    "message": "Przechwyć widoczną część strony"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Przechwyć całą stronę"
+  },
+  "cmdCaptureArea": {
+    "message": "Przechwyć zaznaczony obszar"
+  },
+  "popupTitle": {
+    "message": "Rejestrator ekranu i zrzuty ekranu"
+  },
+  "popupSubtitle": {
+    "message": "Bez logowania · Bez znaku wodnego · Bez przesyłania"
+  },
+  "sectionScreenshot": {
+    "message": "Zrzut ekranu"
+  },
+  "sectionRecord": {
+    "message": "Nagrywanie (Faza B)"
+  },
+  "actionVisible": {
+    "message": "Widoczny obszar"
+  },
+  "actionFullPage": {
+    "message": "Cała strona"
+  },
+  "actionArea": {
+    "message": "Zaznaczony obszar"
+  },
+  "actionDelay": {
+    "message": "Opóźnienie 3 s"
+  },
+  "recordTab": {
+    "message": "Karta"
+  },
+  "recordScreen": {
+    "message": "Ekran"
+  },
+  "recordWebcam": {
+    "message": "Kamera"
+  },
+  "micOn": {
+    "message": "Mikrofon"
+  },
+  "tabAudioOn": {
+    "message": "Dźwięk karty"
+  },
+  "comingSoonPhaseB": {
+    "message": "Nagrywanie pojawi się w Fazie B (bezpłatna aktualizacja)."
+  },
+  "settingsFormat": {
+    "message": "Domyślny format"
+  },
+  "formatPNG": {
+    "message": "PNG (bezstratny)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (mniejszy)"
+  },
+  "formatPDF": {
+    "message": "PDF (wielostronicowy)"
+  },
+  "settingsDPR": {
+    "message": "Przechwytuj w rozdzielczości retina"
+  },
+  "settingsQuality": {
+    "message": "Jakość JPEG"
+  },
+  "save": {
+    "message": "Zapisz"
+  },
+  "cancel": {
+    "message": "Anuluj"
+  },
+  "openEditor": {
+    "message": "Otwórz w edytorze"
+  },
+  "downloadNow": {
+    "message": "Pobierz teraz"
+  },
+  "editorTitle": {
+    "message": "Edytor"
+  },
+  "toolArrow": {
+    "message": "Strzałka"
+  },
+  "toolBox": {
+    "message": "Prostokąt"
+  },
+  "toolText": {
+    "message": "Tekst"
+  },
+  "toolBlur": {
+    "message": "Rozmycie"
+  },
+  "toolHighlight": {
+    "message": "Wyróżnienie"
+  },
+  "toolUndo": {
+    "message": "Cofnij"
+  },
+  "toolRedo": {
+    "message": "Ponów"
+  },
+  "toolClear": {
+    "message": "Wyczyść"
+  },
+  "exportPng": {
+    "message": "Eksportuj PNG"
+  },
+  "exportJpeg": {
+    "message": "Eksportuj JPEG"
+  },
+  "exportPdf": {
+    "message": "Eksportuj PDF"
+  },
+  "toastCapturing": {
+    "message": "Przechwytywanie…"
+  },
+  "toastStitching": {
+    "message": "Łączenie fragmentów…"
+  },
+  "toastSaved": {
+    "message": "Zapisano w folderze Pobrane."
+  },
+  "toastEditorOpened": {
+    "message": "Otwarto edytor w nowej karcie."
+  },
+  "toastFailed": {
+    "message": "Przechwytywanie nie powiodło się. Spróbuj przeładować kartę."
+  },
+  "toastCanvasCapHit": {
+    "message": "Strona jest bardzo długa — wynik podzielono na fragmenty, aby zmieścić się w limicie płótna Chrome."
+  },
+  "selectorHint": {
+    "message": "Przeciągnij, aby zaznaczyć. Esc, aby anulować."
+  },
+  "delayCountdown": {
+    "message": "Przechwytywanie za $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Całe przetwarzanie odbywa się lokalnie. Twój ekran nigdy nie opuszcza urządzenia."
+  },
+  "cmdRecordToggle": {
+    "message": "Przełącz nagrywanie"
+  },
+  "recordStop": {
+    "message": "Zatrzymaj"
+  },
+  "recordStopTooltip": {
+    "message": "Zatrzymaj i zapisz nagranie"
+  },
+  "toastRecordingStarted": {
+    "message": "Rozpoczęto nagrywanie…"
+  },
+  "toastRecordingStopped": {
+    "message": "Zapisano nagranie w folderze Pobrane."
+  },
+  "toastMicDenied": {
+    "message": "Odmówiono uprawnienia do mikrofonu."
+  },
+  "toastScreenDenied": {
+    "message": "Odmówiono uprawnienia do ekranu."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Przechwytywanie karty nie powiodło się. Spróbuj przeładować kartę."
+  },
+  "toastRecovered": {
+    "message": "Odzyskano ostatnie nagranie."
+  },
+  "recoverLast": {
+    "message": "Odzyskaj ostatnie nagranie"
+  },
+  "discardLast": {
+    "message": "Odrzuć"
+  },
+  "recordingActive": {
+    "message": "Trwa nagrywanie"
+  },
+  "recordDuration": {
+    "message": "Czas trwania"
+  },
+  "recordHintTab": {
+    "message": "Karta · mikrofon · dźwięk karty"
+  },
+  "recordHintScreen": {
+    "message": "Ekran · mikrofon (opcjonalnie)"
+  },
+  "recordHintWebcam": {
+    "message": "Kamera + mikrofon"
+  },
+  "sectionVideoEditor": {
+    "message": "Edytor wideo (Faza C)"
+  },
+  "sectionScheduler": {
+    "message": "Zaplanowane nagrywanie"
+  },
+  "sectionLicense": {
+    "message": "Licencja"
+  },
+  "openVideoEditor": {
+    "message": "Otwórz edytor wideo"
+  },
+  "noRecordingsYet": {
+    "message": "Brak nagrań. Najpierw coś nagraj."
+  },
+  "editorVideoTitle": {
+    "message": "Edytor wideo"
+  },
+  "editorTrim": {
+    "message": "Przytnij"
+  },
+  "editorCrop": {
+    "message": "Kadruj"
+  },
+  "editorBlur": {
+    "message": "Rozmycie"
+  },
+  "editorClickZoom": {
+    "message": "Powiększenie po kliknięciu"
+  },
+  "editorExportWebM": {
+    "message": "Eksportuj WebM (bezpłatnie)"
+  },
+  "editorExportMp4": {
+    "message": "Eksportuj MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Eksportuj GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Eksportuj 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Początek"
+  },
+  "editorOutPoint": {
+    "message": "Koniec"
+  },
+  "editorAddBlurRegion": {
+    "message": "Dodaj obszar rozmycia"
+  },
+  "editorClearOverlays": {
+    "message": "Wyczyść nakładki"
+  },
+  "editorProcessing": {
+    "message": "Przetwarzanie…"
+  },
+  "editorExportDone": {
+    "message": "Eksport zapisano w folderze Pobrane."
+  },
+  "editorExportFailed": {
+    "message": "Eksport nie powiódł się."
+  },
+  "schedulerStartIn": {
+    "message": "Rozpocznij za (min)"
+  },
+  "schedulerDuration": {
+    "message": "Czas trwania (min)"
+  },
+  "schedulerSource": {
+    "message": "Źródło"
+  },
+  "schedulerCreate": {
+    "message": "Zaplanuj nagrywanie"
+  },
+  "schedulerCancel": {
+    "message": "Anuluj harmonogram"
+  },
+  "schedulerActive": {
+    "message": "Zaplanowano"
+  },
+  "schedulerFiresIn": {
+    "message": "Uruchomi się za $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimalny harmonogram to 30 s (limit alarmów Chrome)."
+  },
+  "licenseKey": {
+    "message": "Klucz licencyjny"
+  },
+  "licenseActivate": {
+    "message": "Aktywuj"
+  },
+  "licenseActive": {
+    "message": "Licencja Pro aktywna"
+  },
+  "licenseInvalid": {
+    "message": "Nieprawidłowy klucz licencyjny."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Funkcja Pro — aktywuj licencję, aby odblokować."
+  },
+  "toastScheduled": {
+    "message": "Nagrywanie zaplanowane."
+  },
+  "toastScheduleCancelled": {
+    "message": "Harmonogram anulowany."
+  },
+  "toastLicenseActivated": {
+    "message": "Licencja Pro aktywowana."
+  },
+  "cmdOpenEditor": {
+    "message": "Otwórz edytor wideo"
+  },
+  "formatWebM": {
+    "message": "WebM (bezpłatnie)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

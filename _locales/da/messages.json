@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Skærmoptager og skærmbillede — Ingen login, intet vandmærke",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Optag faneblad/skærm/webcam og tag skærmbilleder af hele sider. Ingen login, intet vandmærke, ingen grænser, ingen upload.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Skærmbillede og optagelse"
+  },
+  "cmdCaptureVisible": {
+    "message": "Tag billede af den synlige del af siden"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Tag billede af hele siden"
+  },
+  "cmdCaptureArea": {
+    "message": "Tag billede af det valgte område"
+  },
+  "popupTitle": {
+    "message": "Skærmoptager og skærmbillede"
+  },
+  "popupSubtitle": {
+    "message": "Ingen login · Intet vandmærke · Ingen upload"
+  },
+  "sectionScreenshot": {
+    "message": "Skærmbillede"
+  },
+  "sectionRecord": {
+    "message": "Optag (Fase B)"
+  },
+  "actionVisible": {
+    "message": "Synligt område"
+  },
+  "actionFullPage": {
+    "message": "Hele siden"
+  },
+  "actionArea": {
+    "message": "Valgt område"
+  },
+  "actionDelay": {
+    "message": "Forsink 3 s"
+  },
+  "recordTab": {
+    "message": "Faneblad"
+  },
+  "recordScreen": {
+    "message": "Skærm"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Mikrofon"
+  },
+  "tabAudioOn": {
+    "message": "Fanebladslyd"
+  },
+  "comingSoonPhaseB": {
+    "message": "Optagelse kommer i Fase B (gratis opdatering)."
+  },
+  "settingsFormat": {
+    "message": "Standardformat"
+  },
+  "formatPNG": {
+    "message": "PNG (tabsfri)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (mindre)"
+  },
+  "formatPDF": {
+    "message": "PDF (flere sider)"
+  },
+  "settingsDPR": {
+    "message": "Tag billede i retina-opløsning"
+  },
+  "settingsQuality": {
+    "message": "JPEG-kvalitet"
+  },
+  "save": {
+    "message": "Gem"
+  },
+  "cancel": {
+    "message": "Annuller"
+  },
+  "openEditor": {
+    "message": "Åbn i editor"
+  },
+  "downloadNow": {
+    "message": "Download nu"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Pil"
+  },
+  "toolBox": {
+    "message": "Boks"
+  },
+  "toolText": {
+    "message": "Tekst"
+  },
+  "toolBlur": {
+    "message": "Sløring"
+  },
+  "toolHighlight": {
+    "message": "Fremhæv"
+  },
+  "toolUndo": {
+    "message": "Fortryd"
+  },
+  "toolRedo": {
+    "message": "Annuller fortryd"
+  },
+  "toolClear": {
+    "message": "Ryd"
+  },
+  "exportPng": {
+    "message": "Eksportér PNG"
+  },
+  "exportJpeg": {
+    "message": "Eksportér JPEG"
+  },
+  "exportPdf": {
+    "message": "Eksportér PDF"
+  },
+  "toastCapturing": {
+    "message": "Tager billede…"
+  },
+  "toastStitching": {
+    "message": "Samler fliser…"
+  },
+  "toastSaved": {
+    "message": "Gemt i dine downloads."
+  },
+  "toastEditorOpened": {
+    "message": "Åbnede editoren i et nyt faneblad."
+  },
+  "toastFailed": {
+    "message": "Billedet mislykkedes. Prøv at genindlæse fanebladet."
+  },
+  "toastCanvasCapHit": {
+    "message": "Siden er meget høj — output opdelt i fliser for at passe til Chromes lærredsgrænse."
+  },
+  "selectorHint": {
+    "message": "Træk for at vælge. Esc for at annullere."
+  },
+  "delayCountdown": {
+    "message": "Tager billede om $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Al behandling sker lokalt. Din skærm forlader aldrig din enhed."
+  },
+  "cmdRecordToggle": {
+    "message": "Slå optagelse til/fra"
+  },
+  "recordStop": {
+    "message": "Stop"
+  },
+  "recordStopTooltip": {
+    "message": "Stop og gem optagelse"
+  },
+  "toastRecordingStarted": {
+    "message": "Optagelse startet…"
+  },
+  "toastRecordingStopped": {
+    "message": "Gemte optagelsen i dine downloads."
+  },
+  "toastMicDenied": {
+    "message": "Adgang til mikrofon blev nægtet."
+  },
+  "toastScreenDenied": {
+    "message": "Adgang til skærm blev nægtet."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Optagelse af faneblad mislykkedes. Prøv at genindlæse fanebladet."
+  },
+  "toastRecovered": {
+    "message": "Gendannede seneste optagelse."
+  },
+  "recoverLast": {
+    "message": "Gendan seneste optagelse"
+  },
+  "discardLast": {
+    "message": "Kassér"
+  },
+  "recordingActive": {
+    "message": "Optagelse i gang"
+  },
+  "recordDuration": {
+    "message": "Varighed"
+  },
+  "recordHintTab": {
+    "message": "Faneblad · mikrofon · fanebladslyd"
+  },
+  "recordHintScreen": {
+    "message": "Skærm · mikrofon (valgfrit)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + mikrofon"
+  },
+  "sectionVideoEditor": {
+    "message": "Videoeditor (Fase C)"
+  },
+  "sectionScheduler": {
+    "message": "Planlagt optagelse"
+  },
+  "sectionLicense": {
+    "message": "Licens"
+  },
+  "openVideoEditor": {
+    "message": "Åbn videoeditor"
+  },
+  "noRecordingsYet": {
+    "message": "Ingen optagelser endnu. Optag noget først."
+  },
+  "editorVideoTitle": {
+    "message": "Videoeditor"
+  },
+  "editorTrim": {
+    "message": "Beskær"
+  },
+  "editorCrop": {
+    "message": "Tilklip"
+  },
+  "editorBlur": {
+    "message": "Sløring"
+  },
+  "editorClickZoom": {
+    "message": "Klik-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Eksportér WebM (gratis)"
+  },
+  "editorExportMp4": {
+    "message": "Eksportér MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Eksportér GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Eksportér 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Ind"
+  },
+  "editorOutPoint": {
+    "message": "Ud"
+  },
+  "editorAddBlurRegion": {
+    "message": "Tilføj sløringsområde"
+  },
+  "editorClearOverlays": {
+    "message": "Ryd overlejringer"
+  },
+  "editorProcessing": {
+    "message": "Behandler…"
+  },
+  "editorExportDone": {
+    "message": "Eksport gemt i downloads."
+  },
+  "editorExportFailed": {
+    "message": "Eksport mislykkedes."
+  },
+  "schedulerStartIn": {
+    "message": "Start om (min)"
+  },
+  "schedulerDuration": {
+    "message": "Varighed (min)"
+  },
+  "schedulerSource": {
+    "message": "Kilde"
+  },
+  "schedulerCreate": {
+    "message": "Planlæg optagelse"
+  },
+  "schedulerCancel": {
+    "message": "Annuller planlægning"
+  },
+  "schedulerActive": {
+    "message": "Planlagt"
+  },
+  "schedulerFiresIn": {
+    "message": "Udløses om $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimumsplanlægning er 30 s (Chrome-alarmens nedre grænse)."
+  },
+  "licenseKey": {
+    "message": "Licensnøgle"
+  },
+  "licenseActivate": {
+    "message": "Aktivér"
+  },
+  "licenseActive": {
+    "message": "Pro-licens aktiv"
+  },
+  "licenseInvalid": {
+    "message": "Licensnøgle ugyldig."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "GRATIS"
+  },
+  "proFeatureLocked": {
+    "message": "Pro-funktion — aktivér en licens for at låse op."
+  },
+  "toastScheduled": {
+    "message": "Optagelse planlagt."
+  },
+  "toastScheduleCancelled": {
+    "message": "Planlægning annulleret."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro-licens aktiveret."
+  },
+  "cmdOpenEditor": {
+    "message": "Åbn videoeditor"
+  },
+  "formatWebM": {
+    "message": "WebM (gratis)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

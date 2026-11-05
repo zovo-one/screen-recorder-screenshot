@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "スクリーンレコーダー & スクリーンショット — ログイン不要、透かしなし"
+  },
+  "extDesc": {
+    "message": "タブ・画面・ウェブカメラを録画し、ページ全体をキャプチャ。ログイン不要、透かしなし、時間制限なし、アップロードなし。"
+  },
+  "actionTitle": {
+    "message": "キャプチャと録画"
+  },
+  "cmdCaptureVisible": {
+    "message": "表示部分をキャプチャ"
+  },
+  "cmdCaptureFullPage": {
+    "message": "ページ全体をキャプチャ"
+  },
+  "cmdCaptureArea": {
+    "message": "選択範囲をキャプチャ"
+  },
+  "popupTitle": {
+    "message": "スクリーンレコーダー & スクリーンショット"
+  },
+  "popupSubtitle": {
+    "message": "ログイン不要 · 透かしなし · アップロードなし"
+  },
+  "sectionScreenshot": {
+    "message": "スクリーンショット"
+  },
+  "sectionRecord": {
+    "message": "録画（フェーズ B）"
+  },
+  "actionVisible": {
+    "message": "表示領域"
+  },
+  "actionFullPage": {
+    "message": "ページ全体"
+  },
+  "actionArea": {
+    "message": "選択範囲"
+  },
+  "actionDelay": {
+    "message": "3秒遅延"
+  },
+  "recordTab": {
+    "message": "タブ"
+  },
+  "recordScreen": {
+    "message": "画面"
+  },
+  "recordWebcam": {
+    "message": "ウェブカメラ"
+  },
+  "micOn": {
+    "message": "マイク"
+  },
+  "tabAudioOn": {
+    "message": "タブ音声"
+  },
+  "comingSoonPhaseB": {
+    "message": "録画機能はフェーズ B で追加されます（無料アップデート）。"
+  },
+  "settingsFormat": {
+    "message": "既定の形式"
+  },
+  "formatPNG": {
+    "message": "PNG（可逆圧縮）"
+  },
+  "formatJPEG": {
+    "message": "JPEG（より小さい）"
+  },
+  "formatPDF": {
+    "message": "PDF（複数ページ）"
+  },
+  "settingsDPR": {
+    "message": "Retina 解像度でキャプチャ"
+  },
+  "settingsQuality": {
+    "message": "JPEG 品質"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "openEditor": {
+    "message": "エディタで開く"
+  },
+  "downloadNow": {
+    "message": "今すぐダウンロード"
+  },
+  "editorTitle": {
+    "message": "エディタ"
+  },
+  "toolArrow": {
+    "message": "矢印"
+  },
+  "toolBox": {
+    "message": "四角"
+  },
+  "toolText": {
+    "message": "テキスト"
+  },
+  "toolBlur": {
+    "message": "ぼかし"
+  },
+  "toolHighlight": {
+    "message": "ハイライト"
+  },
+  "toolUndo": {
+    "message": "元に戻す"
+  },
+  "toolRedo": {
+    "message": "やり直し"
+  },
+  "toolClear": {
+    "message": "クリア"
+  },
+  "exportPng": {
+    "message": "PNG をエクスポート"
+  },
+  "exportJpeg": {
+    "message": "JPEG をエクスポート"
+  },
+  "exportPdf": {
+    "message": "PDF をエクスポート"
+  },
+  "toastCapturing": {
+    "message": "キャプチャ中…"
+  },
+  "toastStitching": {
+    "message": "タイルを結合中…"
+  },
+  "toastSaved": {
+    "message": "ダウンロードに保存しました。"
+  },
+  "toastEditorOpened": {
+    "message": "新しいタブでエディタを開きました。"
+  },
+  "toastFailed": {
+    "message": "キャプチャに失敗しました。タブを再読み込みしてください。"
+  },
+  "toastCanvasCapHit": {
+    "message": "ページが非常に長いため、キャンバス上限に合わせてタイル化しました。"
+  },
+  "selectorHint": {
+    "message": "ドラッグして選択。Esc でキャンセル。"
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$s 後にキャプチャ…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "すべての処理はローカルです。画面がデバイスから外に出ることはありません。"
+  },
+  "cmdRecordToggle": {
+    "message": "録画の切り替え"
+  },
+  "recordStop": {
+    "message": "停止"
+  },
+  "recordStopTooltip": {
+    "message": "録画を停止して保存"
+  },
+  "toastRecordingStarted": {
+    "message": "録画を開始しました…"
+  },
+  "toastRecordingStopped": {
+    "message": "録画をダウンロードに保存しました。"
+  },
+  "toastMicDenied": {
+    "message": "マイク権限が拒否されました。"
+  },
+  "toastScreenDenied": {
+    "message": "画面権限が拒否されました。"
+  },
+  "toastTabCaptureFailed": {
+    "message": "タブキャプチャに失敗しました。タブを再読み込みしてください。"
+  },
+  "toastRecovered": {
+    "message": "前回の録画を復元しました。"
+  },
+  "recoverLast": {
+    "message": "前回の録画を復元"
+  },
+  "discardLast": {
+    "message": "破棄"
+  },
+  "recordingActive": {
+    "message": "録画中"
+  },
+  "recordDuration": {
+    "message": "時間"
+  },
+  "recordHintTab": {
+    "message": "タブ · マイク · タブ音声"
+  },
+  "recordHintScreen": {
+    "message": "画面 · マイク（任意）"
+  },
+  "recordHintWebcam": {
+    "message": "ウェブカメラ + マイク"
+  },
+  "sectionVideoEditor": {
+    "message": "動画エディター(フェーズC)"
+  },
+  "sectionScheduler": {
+    "message": "予約録画"
+  },
+  "sectionLicense": {
+    "message": "ライセンス"
+  },
+  "openVideoEditor": {
+    "message": "動画エディターを開く"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "録画を予約"
+  },
+  "schedulerCancel": {
+    "message": "予約をキャンセル"
+  },
+  "schedulerActive": {
+    "message": "予約済み"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "ライセンスキー"
+  },
+  "licenseActivate": {
+    "message": "アクティベート"
+  },
+  "licenseActive": {
+    "message": "Pro ライセンス有効"
+  },
+  "licenseInvalid": {
+    "message": "ライセンスキーが無効です。"
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "無料"
+  },
+  "proFeatureLocked": {
+    "message": "Pro 機能 — ライセンスをアクティベートしてください。"
+  },
+  "toastScheduled": {
+    "message": "録画を予約しました。"
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro ライセンスを有効化しました。"
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

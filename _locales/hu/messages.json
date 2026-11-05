@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Képernyőrögzítő és képernyőkép — bejelentkezés és vízjel nélkül",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Rögzíts lapot, képernyőt vagy webkamerát, és készíts képernyőképet teljes oldalakról.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Képernyőkép és rögzítés"
+  },
+  "cmdCaptureVisible": {
+    "message": "Az oldal látható részének rögzítése"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Teljes oldal rögzítése"
+  },
+  "cmdCaptureArea": {
+    "message": "Kijelölt terület rögzítése"
+  },
+  "popupTitle": {
+    "message": "Képernyőrögzítő és képernyőkép"
+  },
+  "popupSubtitle": {
+    "message": "Bejelentkezés nélkül · Vízjel nélkül · Feltöltés nélkül"
+  },
+  "sectionScreenshot": {
+    "message": "Képernyőkép"
+  },
+  "sectionRecord": {
+    "message": "Rögzítés (B fázis)"
+  },
+  "actionVisible": {
+    "message": "Látható terület"
+  },
+  "actionFullPage": {
+    "message": "Teljes oldal"
+  },
+  "actionArea": {
+    "message": "Kijelölt terület"
+  },
+  "actionDelay": {
+    "message": "Késleltetés 3 mp"
+  },
+  "recordTab": {
+    "message": "Lap"
+  },
+  "recordScreen": {
+    "message": "Képernyő"
+  },
+  "recordWebcam": {
+    "message": "Webkamera"
+  },
+  "micOn": {
+    "message": "Mikrofon"
+  },
+  "tabAudioOn": {
+    "message": "Lap hangja"
+  },
+  "comingSoonPhaseB": {
+    "message": "A rögzítés a B fázisban érkezik (ingyenes frissítés)."
+  },
+  "settingsFormat": {
+    "message": "Alapértelmezett formátum"
+  },
+  "formatPNG": {
+    "message": "PNG (veszteségmentes)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (kisebb)"
+  },
+  "formatPDF": {
+    "message": "PDF (többoldalas)"
+  },
+  "settingsDPR": {
+    "message": "Rögzítés retina felbontásban"
+  },
+  "settingsQuality": {
+    "message": "JPEG minőség"
+  },
+  "save": {
+    "message": "Mentés"
+  },
+  "cancel": {
+    "message": "Mégse"
+  },
+  "openEditor": {
+    "message": "Megnyitás a szerkesztőben"
+  },
+  "downloadNow": {
+    "message": "Letöltés most"
+  },
+  "editorTitle": {
+    "message": "Szerkesztő"
+  },
+  "toolArrow": {
+    "message": "Nyíl"
+  },
+  "toolBox": {
+    "message": "Doboz"
+  },
+  "toolText": {
+    "message": "Szöveg"
+  },
+  "toolBlur": {
+    "message": "Elmosás"
+  },
+  "toolHighlight": {
+    "message": "Kiemelés"
+  },
+  "toolUndo": {
+    "message": "Visszavonás"
+  },
+  "toolRedo": {
+    "message": "Ismét"
+  },
+  "toolClear": {
+    "message": "Törlés"
+  },
+  "exportPng": {
+    "message": "Exportálás PNG-ként"
+  },
+  "exportJpeg": {
+    "message": "Exportálás JPEG-ként"
+  },
+  "exportPdf": {
+    "message": "Exportálás PDF-ként"
+  },
+  "toastCapturing": {
+    "message": "Rögzítés…"
+  },
+  "toastStitching": {
+    "message": "Csempék összefűzése…"
+  },
+  "toastSaved": {
+    "message": "Mentve a Letöltések közé."
+  },
+  "toastEditorOpened": {
+    "message": "A szerkesztő megnyílt egy új lapon."
+  },
+  "toastFailed": {
+    "message": "A rögzítés nem sikerült. Próbáld meg újratölteni a lapot."
+  },
+  "toastCanvasCapHit": {
+    "message": "Az oldal nagyon magas — a kimenet csempézve lett, hogy elférjen a Chrome vászonkorlátjában."
+  },
+  "selectorHint": {
+    "message": "Húzd a kijelöléshez. Esc a megszakításhoz."
+  },
+  "delayCountdown": {
+    "message": "Rögzítés $SECONDS$ mp múlva…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Minden feldolgozás helyben történik. A képernyőd sosem hagyja el az eszközödet."
+  },
+  "cmdRecordToggle": {
+    "message": "Rögzítés be/ki"
+  },
+  "recordStop": {
+    "message": "Leállítás"
+  },
+  "recordStopTooltip": {
+    "message": "Rögzítés leállítása és mentése"
+  },
+  "toastRecordingStarted": {
+    "message": "A rögzítés elindult…"
+  },
+  "toastRecordingStopped": {
+    "message": "A felvétel mentve a Letöltések közé."
+  },
+  "toastMicDenied": {
+    "message": "A mikrofonhoz való hozzáférés elutasítva."
+  },
+  "toastScreenDenied": {
+    "message": "A képernyőhöz való hozzáférés elutasítva."
+  },
+  "toastTabCaptureFailed": {
+    "message": "A lap rögzítése nem sikerült. Próbáld meg újratölteni a lapot."
+  },
+  "toastRecovered": {
+    "message": "Az utolsó felvétel helyreállítva."
+  },
+  "recoverLast": {
+    "message": "Utolsó felvétel helyreállítása"
+  },
+  "discardLast": {
+    "message": "Elvetés"
+  },
+  "recordingActive": {
+    "message": "Rögzítés folyamatban"
+  },
+  "recordDuration": {
+    "message": "Időtartam"
+  },
+  "recordHintTab": {
+    "message": "Lap · mikrofon · lap hangja"
+  },
+  "recordHintScreen": {
+    "message": "Képernyő · mikrofon (opcionális)"
+  },
+  "recordHintWebcam": {
+    "message": "Webkamera + mikrofon"
+  },
+  "sectionVideoEditor": {
+    "message": "Videószerkesztő (C fázis)"
+  },
+  "sectionScheduler": {
+    "message": "Ütemezett rögzítés"
+  },
+  "sectionLicense": {
+    "message": "Licenc"
+  },
+  "openVideoEditor": {
+    "message": "Videószerkesztő megnyitása"
+  },
+  "noRecordingsYet": {
+    "message": "Még nincsenek felvételek. Rögzíts valamit először."
+  },
+  "editorVideoTitle": {
+    "message": "Videószerkesztő"
+  },
+  "editorTrim": {
+    "message": "Vágás"
+  },
+  "editorCrop": {
+    "message": "Körülvágás"
+  },
+  "editorBlur": {
+    "message": "Elmosás"
+  },
+  "editorClickZoom": {
+    "message": "Kattintásos nagyítás"
+  },
+  "editorExportWebM": {
+    "message": "Exportálás WebM-ként (ingyenes)"
+  },
+  "editorExportMp4": {
+    "message": "Exportálás MP4-ként (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Exportálás GIF-ként (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Exportálás 4K-ban (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Kezdőpont"
+  },
+  "editorOutPoint": {
+    "message": "Végpont"
+  },
+  "editorAddBlurRegion": {
+    "message": "Elmosási terület hozzáadása"
+  },
+  "editorClearOverlays": {
+    "message": "Rátétek törlése"
+  },
+  "editorProcessing": {
+    "message": "Feldolgozás…"
+  },
+  "editorExportDone": {
+    "message": "Az exportálás mentve a Letöltések közé."
+  },
+  "editorExportFailed": {
+    "message": "Az exportálás nem sikerült."
+  },
+  "schedulerStartIn": {
+    "message": "Indítás ennyi perc múlva"
+  },
+  "schedulerDuration": {
+    "message": "Időtartam (perc)"
+  },
+  "schedulerSource": {
+    "message": "Forrás"
+  },
+  "schedulerCreate": {
+    "message": "Rögzítés ütemezése"
+  },
+  "schedulerCancel": {
+    "message": "Ütemezés törlése"
+  },
+  "schedulerActive": {
+    "message": "Ütemezve"
+  },
+  "schedulerFiresIn": {
+    "message": "Indul $MIN$ mp múlva",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "A minimális ütemezés 30 mp (a Chrome ébresztők alsó korlátja)."
+  },
+  "licenseKey": {
+    "message": "Licenckulcs"
+  },
+  "licenseActivate": {
+    "message": "Aktiválás"
+  },
+  "licenseActive": {
+    "message": "Pro licenc aktív"
+  },
+  "licenseInvalid": {
+    "message": "Érvénytelen licenckulcs."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro funkció — aktiválj egy licencet a feloldáshoz."
+  },
+  "toastScheduled": {
+    "message": "A rögzítés ütemezve."
+  },
+  "toastScheduleCancelled": {
+    "message": "Az ütemezés törölve."
+  },
+  "toastLicenseActivated": {
+    "message": "A Pro licenc aktiválva."
+  },
+  "cmdOpenEditor": {
+    "message": "Videószerkesztő megnyitása"
+  },
+  "formatWebM": {
+    "message": "WebM (ingyenes)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

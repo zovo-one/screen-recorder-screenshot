@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder और Screenshot — कोई लॉगिन नहीं, कोई वॉटरमार्क नहीं",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "टैब/स्क्रीन/वेबकैम रिकॉर्ड करें और पूरे पेजों के स्क्रीनशॉट लें। कोई लॉगिन नहीं, कोई वॉटरमार्क नहीं, कोई सीमा नहीं, कोई अपलोड नहीं।",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Screenshot और Record"
+  },
+  "cmdCaptureVisible": {
+    "message": "पेज का दिखाई देने वाला हिस्सा कैप्चर करें"
+  },
+  "cmdCaptureFullPage": {
+    "message": "पूरा पेज कैप्चर करें"
+  },
+  "cmdCaptureArea": {
+    "message": "चयनित क्षेत्र कैप्चर करें"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder और Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "कोई लॉगिन नहीं · कोई वॉटरमार्क नहीं · कोई अपलोड नहीं"
+  },
+  "sectionScreenshot": {
+    "message": "Screenshot"
+  },
+  "sectionRecord": {
+    "message": "रिकॉर्ड करें"
+  },
+  "actionVisible": {
+    "message": "दिखाई देने वाला क्षेत्र"
+  },
+  "actionFullPage": {
+    "message": "पूरा पेज"
+  },
+  "actionArea": {
+    "message": "चयनित क्षेत्र"
+  },
+  "actionDelay": {
+    "message": "3 सेकंड की देरी"
+  },
+  "recordTab": {
+    "message": "टैब"
+  },
+  "recordScreen": {
+    "message": "स्क्रीन"
+  },
+  "recordWebcam": {
+    "message": "वेबकैम"
+  },
+  "micOn": {
+    "message": "माइक"
+  },
+  "tabAudioOn": {
+    "message": "टैब ऑडियो"
+  },
+  "comingSoonPhaseB": {
+    "message": "रिकॉर्डिंग a free update में आएगी (मुफ़्त अपडेट)।"
+  },
+  "settingsFormat": {
+    "message": "डिफ़ॉल्ट प्रारूप"
+  },
+  "formatPNG": {
+    "message": "PNG (लॉसलेस)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (छोटा)"
+  },
+  "formatPDF": {
+    "message": "PDF (मल्टी-पेज)"
+  },
+  "settingsDPR": {
+    "message": "रेटिना रिज़ॉल्यूशन पर कैप्चर करें"
+  },
+  "settingsQuality": {
+    "message": "JPEG गुणवत्ता"
+  },
+  "save": {
+    "message": "सहेजें"
+  },
+  "cancel": {
+    "message": "रद्द करें"
+  },
+  "openEditor": {
+    "message": "एडिटर में खोलें"
+  },
+  "downloadNow": {
+    "message": "अभी डाउनलोड करें"
+  },
+  "editorTitle": {
+    "message": "एडिटर"
+  },
+  "toolArrow": {
+    "message": "तीर"
+  },
+  "toolBox": {
+    "message": "बॉक्स"
+  },
+  "toolText": {
+    "message": "टेक्स्ट"
+  },
+  "toolBlur": {
+    "message": "ब्लर"
+  },
+  "toolHighlight": {
+    "message": "हाइलाइट"
+  },
+  "toolUndo": {
+    "message": "पूर्ववत करें"
+  },
+  "toolRedo": {
+    "message": "फिर से करें"
+  },
+  "toolClear": {
+    "message": "साफ़ करें"
+  },
+  "exportPng": {
+    "message": "PNG निर्यात करें"
+  },
+  "exportJpeg": {
+    "message": "JPEG निर्यात करें"
+  },
+  "exportPdf": {
+    "message": "PDF निर्यात करें"
+  },
+  "toastCapturing": {
+    "message": "कैप्चर हो रहा है…"
+  },
+  "toastStitching": {
+    "message": "टाइलें जोड़ी जा रही हैं…"
+  },
+  "toastSaved": {
+    "message": "आपके Downloads में सहेजा गया।"
+  },
+  "toastEditorOpened": {
+    "message": "एक नए टैब में एडिटर खुला।"
+  },
+  "toastFailed": {
+    "message": "कैप्चर विफल रहा। टैब को रीलोड करके देखें।"
+  },
+  "toastCanvasCapHit": {
+    "message": "पेज बहुत लंबा है — Chrome की कैनवास सीमा में फ़िट करने के लिए आउटपुट को टाइलों में बाँटा गया।"
+  },
+  "selectorHint": {
+    "message": "चयन करने के लिए खींचें। रद्द करने के लिए Esc।"
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$ सेकंड में कैप्चर हो रहा है…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "सारी प्रोसेसिंग लोकल है। आपकी स्क्रीन कभी आपके डिवाइस से बाहर नहीं जाती।"
+  },
+  "cmdRecordToggle": {
+    "message": "रिकॉर्डिंग टॉगल करें"
+  },
+  "recordStop": {
+    "message": "रोकें"
+  },
+  "recordStopTooltip": {
+    "message": "रिकॉर्डिंग रोकें और सहेजें"
+  },
+  "toastRecordingStarted": {
+    "message": "रिकॉर्डिंग शुरू हुई…"
+  },
+  "toastRecordingStopped": {
+    "message": "रिकॉर्डिंग आपके Downloads में सहेजी गई।"
+  },
+  "toastMicDenied": {
+    "message": "माइक्रोफ़ोन की अनुमति अस्वीकृत।"
+  },
+  "toastScreenDenied": {
+    "message": "स्क्रीन की अनुमति अस्वीकृत।"
+  },
+  "toastTabCaptureFailed": {
+    "message": "टैब कैप्चर विफल रहा। टैब को रीलोड करके देखें।"
+  },
+  "toastRecovered": {
+    "message": "पिछली रिकॉर्डिंग पुनर्प्राप्त की गई।"
+  },
+  "recoverLast": {
+    "message": "पिछली रिकॉर्डिंग पुनर्प्राप्त करें"
+  },
+  "discardLast": {
+    "message": "छोड़ें"
+  },
+  "recordingActive": {
+    "message": "सत्र में रिकॉर्डिंग जारी"
+  },
+  "recordDuration": {
+    "message": "अवधि"
+  },
+  "recordHintTab": {
+    "message": "टैब · माइक · टैब ऑडियो"
+  },
+  "recordHintScreen": {
+    "message": "स्क्रीन · माइक (वैकल्पिक)"
+  },
+  "recordHintWebcam": {
+    "message": "वेबकैम + माइक"
+  },
+  "sectionVideoEditor": {
+    "message": "वीडियो एडिटर"
+  },
+  "sectionScheduler": {
+    "message": "निर्धारित रिकॉर्डिंग"
+  },
+  "sectionLicense": {
+    "message": "लाइसेंस"
+  },
+  "openVideoEditor": {
+    "message": "वीडियो एडिटर खोलें"
+  },
+  "noRecordingsYet": {
+    "message": "अभी तक कोई रिकॉर्डिंग नहीं। पहले कुछ रिकॉर्ड करें।"
+  },
+  "editorVideoTitle": {
+    "message": "वीडियो एडिटर"
+  },
+  "editorTrim": {
+    "message": "ट्रिम करें"
+  },
+  "editorCrop": {
+    "message": "क्रॉप करें"
+  },
+  "editorBlur": {
+    "message": "ब्लर"
+  },
+  "editorClickZoom": {
+    "message": "क्लिक-ज़ूम"
+  },
+  "editorExportWebM": {
+    "message": "WebM निर्यात करें (मुफ़्त)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 निर्यात करें (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF निर्यात करें (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K निर्यात करें (Pro)"
+  },
+  "editorInPoint": {
+    "message": "इन"
+  },
+  "editorOutPoint": {
+    "message": "आउट"
+  },
+  "editorAddBlurRegion": {
+    "message": "ब्लर क्षेत्र जोड़ें"
+  },
+  "editorClearOverlays": {
+    "message": "ओवरले साफ़ करें"
+  },
+  "editorProcessing": {
+    "message": "प्रोसेसिंग हो रही है…"
+  },
+  "editorExportDone": {
+    "message": "निर्यात Downloads में सहेजा गया।"
+  },
+  "editorExportFailed": {
+    "message": "निर्यात विफल रहा।"
+  },
+  "schedulerStartIn": {
+    "message": "इतने में शुरू करें (मिनट)"
+  },
+  "schedulerDuration": {
+    "message": "अवधि (मिनट)"
+  },
+  "schedulerSource": {
+    "message": "स्रोत"
+  },
+  "schedulerCreate": {
+    "message": "रिकॉर्डिंग निर्धारित करें"
+  },
+  "schedulerCancel": {
+    "message": "निर्धारण रद्द करें"
+  },
+  "schedulerActive": {
+    "message": "निर्धारित"
+  },
+  "schedulerFiresIn": {
+    "message": "$MIN$ सेकंड में चालू होगी",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "न्यूनतम निर्धारण 30 सेकंड है (Chrome अलार्म की सीमा)।"
+  },
+  "licenseKey": {
+    "message": "लाइसेंस कुंजी"
+  },
+  "licenseActivate": {
+    "message": "सक्रिय करें"
+  },
+  "licenseActive": {
+    "message": "Pro लाइसेंस सक्रिय है"
+  },
+  "licenseInvalid": {
+    "message": "लाइसेंस कुंजी अमान्य है।"
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro सुविधा — अनलॉक करने के लिए एक लाइसेंस सक्रिय करें।"
+  },
+  "toastScheduled": {
+    "message": "रिकॉर्डिंग निर्धारित की गई।"
+  },
+  "toastScheduleCancelled": {
+    "message": "निर्धारण रद्द किया गया।"
+  },
+  "toastLicenseActivated": {
+    "message": "Pro लाइसेंस सक्रिय हो गया।"
+  },
+  "cmdOpenEditor": {
+    "message": "वीडियो एडिटर खोलें"
+  },
+  "formatWebM": {
+    "message": "WebM (मुफ़्त)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — Fără autentificare, fără filigran",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Înregistrează fila/ecranul/webcamul și capturează pagini întregi. Fără autentificare, fără filigran, fără limite, fără încărcare.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Captură și înregistrare"
+  },
+  "cmdCaptureVisible": {
+    "message": "Capturează partea vizibilă a paginii"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Capturează pagina întreagă"
+  },
+  "cmdCaptureArea": {
+    "message": "Capturează zona selectată"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "Fără autentificare · Fără filigran · Fără încărcare"
+  },
+  "sectionScreenshot": {
+    "message": "Captură de ecran"
+  },
+  "sectionRecord": {
+    "message": "Înregistrare (Faza B)"
+  },
+  "actionVisible": {
+    "message": "Zona vizibilă"
+  },
+  "actionFullPage": {
+    "message": "Pagina întreagă"
+  },
+  "actionArea": {
+    "message": "Zona selectată"
+  },
+  "actionDelay": {
+    "message": "Întârziere 3 s"
+  },
+  "recordTab": {
+    "message": "Filă"
+  },
+  "recordScreen": {
+    "message": "Ecran"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Microfon"
+  },
+  "tabAudioOn": {
+    "message": "Audio filă"
+  },
+  "comingSoonPhaseB": {
+    "message": "Înregistrarea sosește în Faza B (actualizare gratuită)."
+  },
+  "settingsFormat": {
+    "message": "Format implicit"
+  },
+  "formatPNG": {
+    "message": "PNG (fără pierderi)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (mai mic)"
+  },
+  "formatPDF": {
+    "message": "PDF (mai multe pagini)"
+  },
+  "settingsDPR": {
+    "message": "Capturează la rezoluție retina"
+  },
+  "settingsQuality": {
+    "message": "Calitate JPEG"
+  },
+  "save": {
+    "message": "Salvează"
+  },
+  "cancel": {
+    "message": "Anulează"
+  },
+  "openEditor": {
+    "message": "Deschide în editor"
+  },
+  "downloadNow": {
+    "message": "Descarcă acum"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Săgeată"
+  },
+  "toolBox": {
+    "message": "Dreptunghi"
+  },
+  "toolText": {
+    "message": "Text"
+  },
+  "toolBlur": {
+    "message": "Estompare"
+  },
+  "toolHighlight": {
+    "message": "Evidențiere"
+  },
+  "toolUndo": {
+    "message": "Anulează"
+  },
+  "toolRedo": {
+    "message": "Refă"
+  },
+  "toolClear": {
+    "message": "Șterge"
+  },
+  "exportPng": {
+    "message": "Exportă PNG"
+  },
+  "exportJpeg": {
+    "message": "Exportă JPEG"
+  },
+  "exportPdf": {
+    "message": "Exportă PDF"
+  },
+  "toastCapturing": {
+    "message": "Se capturează…"
+  },
+  "toastStitching": {
+    "message": "Se îmbină fragmentele…"
+  },
+  "toastSaved": {
+    "message": "Salvat în Descărcări."
+  },
+  "toastEditorOpened": {
+    "message": "Editorul a fost deschis într-o filă nouă."
+  },
+  "toastFailed": {
+    "message": "Captura a eșuat. Încearcă să reîncarci fila."
+  },
+  "toastCanvasCapHit": {
+    "message": "Pagina este foarte înaltă — rezultatul a fost împărțit în fragmente pentru a respecta limita canvas a Chrome."
+  },
+  "selectorHint": {
+    "message": "Trage pentru a selecta. Esc pentru a anula."
+  },
+  "delayCountdown": {
+    "message": "Se capturează în $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Toată procesarea este locală. Ecranul tău nu părăsește niciodată dispozitivul."
+  },
+  "cmdRecordToggle": {
+    "message": "Comută înregistrarea"
+  },
+  "recordStop": {
+    "message": "Oprește"
+  },
+  "recordStopTooltip": {
+    "message": "Oprește și salvează înregistrarea"
+  },
+  "toastRecordingStarted": {
+    "message": "Înregistrarea a început…"
+  },
+  "toastRecordingStopped": {
+    "message": "Înregistrarea a fost salvată în Descărcări."
+  },
+  "toastMicDenied": {
+    "message": "Permisiunea pentru microfon a fost refuzată."
+  },
+  "toastScreenDenied": {
+    "message": "Permisiunea pentru ecran a fost refuzată."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Captura filei a eșuat. Încearcă să reîncarci fila."
+  },
+  "toastRecovered": {
+    "message": "Ultima înregistrare a fost recuperată."
+  },
+  "recoverLast": {
+    "message": "Recuperează ultima înregistrare"
+  },
+  "discardLast": {
+    "message": "Renunță"
+  },
+  "recordingActive": {
+    "message": "Înregistrare în sesiune"
+  },
+  "recordDuration": {
+    "message": "Durată"
+  },
+  "recordHintTab": {
+    "message": "Filă · microfon · audio filă"
+  },
+  "recordHintScreen": {
+    "message": "Ecran · microfon (opțional)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + microfon"
+  },
+  "sectionVideoEditor": {
+    "message": "Editor video (Faza C)"
+  },
+  "sectionScheduler": {
+    "message": "Înregistrare programată"
+  },
+  "sectionLicense": {
+    "message": "Licență"
+  },
+  "openVideoEditor": {
+    "message": "Deschide editorul video"
+  },
+  "noRecordingsYet": {
+    "message": "Încă nicio înregistrare. Înregistrează mai întâi ceva."
+  },
+  "editorVideoTitle": {
+    "message": "Editor video"
+  },
+  "editorTrim": {
+    "message": "Decupează"
+  },
+  "editorCrop": {
+    "message": "Ajustează"
+  },
+  "editorBlur": {
+    "message": "Estompare"
+  },
+  "editorClickZoom": {
+    "message": "Zoom la clic"
+  },
+  "editorExportWebM": {
+    "message": "Exportă WebM (gratuit)"
+  },
+  "editorExportMp4": {
+    "message": "Exportă MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Exportă GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Exportă 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Început"
+  },
+  "editorOutPoint": {
+    "message": "Sfârșit"
+  },
+  "editorAddBlurRegion": {
+    "message": "Adaugă zonă de estompare"
+  },
+  "editorClearOverlays": {
+    "message": "Șterge suprapunerile"
+  },
+  "editorProcessing": {
+    "message": "Se procesează…"
+  },
+  "editorExportDone": {
+    "message": "Exportul a fost salvat în Descărcări."
+  },
+  "editorExportFailed": {
+    "message": "Exportul a eșuat."
+  },
+  "schedulerStartIn": {
+    "message": "Începe peste (min)"
+  },
+  "schedulerDuration": {
+    "message": "Durată (min)"
+  },
+  "schedulerSource": {
+    "message": "Sursă"
+  },
+  "schedulerCreate": {
+    "message": "Programează înregistrarea"
+  },
+  "schedulerCancel": {
+    "message": "Anulează programarea"
+  },
+  "schedulerActive": {
+    "message": "Programat"
+  },
+  "schedulerFiresIn": {
+    "message": "Se declanșează peste $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Programarea minimă este de 30 s (limita alarmelor Chrome)."
+  },
+  "licenseKey": {
+    "message": "Cheie de licență"
+  },
+  "licenseActivate": {
+    "message": "Activează"
+  },
+  "licenseActive": {
+    "message": "Licență Pro activă"
+  },
+  "licenseInvalid": {
+    "message": "Cheie de licență nevalidă."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "GRATUIT"
+  },
+  "proFeatureLocked": {
+    "message": "Funcție Pro — activează o licență pentru a o debloca."
+  },
+  "toastScheduled": {
+    "message": "Înregistrarea a fost programată."
+  },
+  "toastScheduleCancelled": {
+    "message": "Programarea a fost anulată."
+  },
+  "toastLicenseActivated": {
+    "message": "Licența Pro a fost activată."
+  },
+  "cmdOpenEditor": {
+    "message": "Deschide editorul video"
+  },
+  "formatWebM": {
+    "message": "WebM (gratuit)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

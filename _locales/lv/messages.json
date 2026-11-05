@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Ekrāna ierakstītājs un ekrānuzņēmumi — bez pieteikšanās, bez ūdenszīmes",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Ierakstiet cilni/ekrānu/tīmekļa kameru un uzņemiet pilnu lapu ekrānuzņēmumus. Bez pieteikšanās, bez ūdenszīmes, bez ierobežojumiem",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Ekrānuzņēmums un ieraksts"
+  },
+  "cmdCaptureVisible": {
+    "message": "Uzņemt redzamo lapas daļu"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Uzņemt visu lapu"
+  },
+  "cmdCaptureArea": {
+    "message": "Uzņemt atlasīto apgabalu"
+  },
+  "popupTitle": {
+    "message": "Ekrāna ierakstītājs un ekrānuzņēmumi"
+  },
+  "popupSubtitle": {
+    "message": "Bez pieteikšanās · Bez ūdenszīmes · Bez augšupielādes"
+  },
+  "sectionScreenshot": {
+    "message": "Ekrānuzņēmums"
+  },
+  "sectionRecord": {
+    "message": "Ierakstīt (B posms)"
+  },
+  "actionVisible": {
+    "message": "Redzamais apgabals"
+  },
+  "actionFullPage": {
+    "message": "Visa lapa"
+  },
+  "actionArea": {
+    "message": "Atlasītais apgabals"
+  },
+  "actionDelay": {
+    "message": "Aizkave 3 s"
+  },
+  "recordTab": {
+    "message": "Cilne"
+  },
+  "recordScreen": {
+    "message": "Ekrāns"
+  },
+  "recordWebcam": {
+    "message": "Tīmekļa kamera"
+  },
+  "micOn": {
+    "message": "Mikrofons"
+  },
+  "tabAudioOn": {
+    "message": "Cilnes audio"
+  },
+  "comingSoonPhaseB": {
+    "message": "Ierakstīšana būs pieejama B posmā (bezmaksas atjauninājums)."
+  },
+  "settingsFormat": {
+    "message": "Noklusējuma formāts"
+  },
+  "formatPNG": {
+    "message": "PNG (bez zudumiem)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (mazāks)"
+  },
+  "formatPDF": {
+    "message": "PDF (vairāku lapu)"
+  },
+  "settingsDPR": {
+    "message": "Uzņemt tīklenes izšķirtspējā"
+  },
+  "settingsQuality": {
+    "message": "JPEG kvalitāte"
+  },
+  "save": {
+    "message": "Saglabāt"
+  },
+  "cancel": {
+    "message": "Atcelt"
+  },
+  "openEditor": {
+    "message": "Atvērt redaktorā"
+  },
+  "downloadNow": {
+    "message": "Lejupielādēt tagad"
+  },
+  "editorTitle": {
+    "message": "Redaktors"
+  },
+  "toolArrow": {
+    "message": "Bulta"
+  },
+  "toolBox": {
+    "message": "Lodziņš"
+  },
+  "toolText": {
+    "message": "Teksts"
+  },
+  "toolBlur": {
+    "message": "Izpludināt"
+  },
+  "toolHighlight": {
+    "message": "Izcelt"
+  },
+  "toolUndo": {
+    "message": "Atsaukt"
+  },
+  "toolRedo": {
+    "message": "Atkārtot"
+  },
+  "toolClear": {
+    "message": "Notīrīt"
+  },
+  "exportPng": {
+    "message": "Eksportēt PNG"
+  },
+  "exportJpeg": {
+    "message": "Eksportēt JPEG"
+  },
+  "exportPdf": {
+    "message": "Eksportēt PDF"
+  },
+  "toastCapturing": {
+    "message": "Notiek uzņemšana…"
+  },
+  "toastStitching": {
+    "message": "Notiek elementu savienošana…"
+  },
+  "toastSaved": {
+    "message": "Saglabāts jūsu lejupielādēs."
+  },
+  "toastEditorOpened": {
+    "message": "Redaktors atvērts jaunā cilnē."
+  },
+  "toastFailed": {
+    "message": "Uzņemšana neizdevās. Mēģiniet pārlādēt cilni."
+  },
+  "toastCanvasCapHit": {
+    "message": "Lapa ir ļoti gara — izvade sadalīta, lai iekļautos Chrome audekla ierobežojumā."
+  },
+  "selectorHint": {
+    "message": "Velciet, lai atlasītu. Esc, lai atceltu."
+  },
+  "delayCountdown": {
+    "message": "Uzņemšana pēc $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Visa apstrāde notiek lokāli. Jūsu ekrāns nekad nepamet jūsu ierīci."
+  },
+  "cmdRecordToggle": {
+    "message": "Pārslēgt ierakstīšanu"
+  },
+  "recordStop": {
+    "message": "Apturēt"
+  },
+  "recordStopTooltip": {
+    "message": "Apturēt un saglabāt ierakstu"
+  },
+  "toastRecordingStarted": {
+    "message": "Ierakstīšana sākta…"
+  },
+  "toastRecordingStopped": {
+    "message": "Ieraksts saglabāts jūsu lejupielādēs."
+  },
+  "toastMicDenied": {
+    "message": "Mikrofona atļauja liegta."
+  },
+  "toastScreenDenied": {
+    "message": "Ekrāna atļauja liegta."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Cilnes uzņemšana neizdevās. Mēģiniet pārlādēt cilni."
+  },
+  "toastRecovered": {
+    "message": "Atjaunots pēdējais ieraksts."
+  },
+  "recoverLast": {
+    "message": "Atjaunot pēdējo ierakstu"
+  },
+  "discardLast": {
+    "message": "Atmest"
+  },
+  "recordingActive": {
+    "message": "Notiek ierakstīšana"
+  },
+  "recordDuration": {
+    "message": "Ilgums"
+  },
+  "recordHintTab": {
+    "message": "Cilne · mikrofons · cilnes audio"
+  },
+  "recordHintScreen": {
+    "message": "Ekrāns · mikrofons (pēc izvēles)"
+  },
+  "recordHintWebcam": {
+    "message": "Tīmekļa kamera + mikrofons"
+  },
+  "sectionVideoEditor": {
+    "message": "Video redaktors (C posms)"
+  },
+  "sectionScheduler": {
+    "message": "Ieplānota ierakstīšana"
+  },
+  "sectionLicense": {
+    "message": "Licence"
+  },
+  "openVideoEditor": {
+    "message": "Atvērt video redaktoru"
+  },
+  "noRecordingsYet": {
+    "message": "Vēl nav ierakstu. Vispirms kaut ko ierakstiet."
+  },
+  "editorVideoTitle": {
+    "message": "Video redaktors"
+  },
+  "editorTrim": {
+    "message": "Apgriezt"
+  },
+  "editorCrop": {
+    "message": "Kadrēt"
+  },
+  "editorBlur": {
+    "message": "Izpludināt"
+  },
+  "editorClickZoom": {
+    "message": "Klikšķa tuvinājums"
+  },
+  "editorExportWebM": {
+    "message": "Eksportēt WebM (bezmaksas)"
+  },
+  "editorExportMp4": {
+    "message": "Eksportēt MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Eksportēt GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Eksportēt 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Sākums"
+  },
+  "editorOutPoint": {
+    "message": "Beigas"
+  },
+  "editorAddBlurRegion": {
+    "message": "Pievienot izpludinājuma apgabalu"
+  },
+  "editorClearOverlays": {
+    "message": "Notīrīt pārklājumus"
+  },
+  "editorProcessing": {
+    "message": "Notiek apstrāde…"
+  },
+  "editorExportDone": {
+    "message": "Eksports saglabāts lejupielādēs."
+  },
+  "editorExportFailed": {
+    "message": "Eksports neizdevās."
+  },
+  "schedulerStartIn": {
+    "message": "Sākt pēc (min)"
+  },
+  "schedulerDuration": {
+    "message": "Ilgums (min)"
+  },
+  "schedulerSource": {
+    "message": "Avots"
+  },
+  "schedulerCreate": {
+    "message": "Ieplānot ierakstīšanu"
+  },
+  "schedulerCancel": {
+    "message": "Atcelt grafiku"
+  },
+  "schedulerActive": {
+    "message": "Ieplānots"
+  },
+  "schedulerFiresIn": {
+    "message": "Sāksies pēc $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimālais grafiks ir 30 s (Chrome signālu ierobežojums)."
+  },
+  "licenseKey": {
+    "message": "Licences atslēga"
+  },
+  "licenseActivate": {
+    "message": "Aktivizēt"
+  },
+  "licenseActive": {
+    "message": "Pro licence aktīva"
+  },
+  "licenseInvalid": {
+    "message": "Nederīga licences atslēga."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro funkcija — aktivizējiet licenci, lai atbloķētu."
+  },
+  "toastScheduled": {
+    "message": "Ierakstīšana ieplānota."
+  },
+  "toastScheduleCancelled": {
+    "message": "Grafiks atcelts."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro licence aktivizēta."
+  },
+  "cmdOpenEditor": {
+    "message": "Atvērt video redaktoru"
+  },
+  "formatWebM": {
+    "message": "WebM (bezmaksas)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

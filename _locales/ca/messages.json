@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Enregistrador de pantalla i captura — Sense marca d'aigua",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Enregistra pestanya/pantalla/càmera web i captura pàgines senceres. Sense inici de sessió, sense marca d'aigua, sense límits, sense",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Captura i enregistra"
+  },
+  "cmdCaptureVisible": {
+    "message": "Captura la part visible de la pàgina"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Captura la pàgina sencera"
+  },
+  "cmdCaptureArea": {
+    "message": "Captura l'àrea seleccionada"
+  },
+  "popupTitle": {
+    "message": "Enregistrador de pantalla i captura"
+  },
+  "popupSubtitle": {
+    "message": "Sense inici de sessió · Sense marca d'aigua · Sense pujada"
+  },
+  "sectionScreenshot": {
+    "message": "Captura de pantalla"
+  },
+  "sectionRecord": {
+    "message": "Enregistra (Fase B)"
+  },
+  "actionVisible": {
+    "message": "Àrea visible"
+  },
+  "actionFullPage": {
+    "message": "Pàgina sencera"
+  },
+  "actionArea": {
+    "message": "Àrea seleccionada"
+  },
+  "actionDelay": {
+    "message": "Retard de 3 s"
+  },
+  "recordTab": {
+    "message": "Pestanya"
+  },
+  "recordScreen": {
+    "message": "Pantalla"
+  },
+  "recordWebcam": {
+    "message": "Càmera web"
+  },
+  "micOn": {
+    "message": "Micròfon"
+  },
+  "tabAudioOn": {
+    "message": "Àudio de la pestanya"
+  },
+  "comingSoonPhaseB": {
+    "message": "L'enregistrament arribarà a la Fase B (actualització gratuïta)."
+  },
+  "settingsFormat": {
+    "message": "Format per defecte"
+  },
+  "formatPNG": {
+    "message": "PNG (sense pèrdua)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (més petit)"
+  },
+  "formatPDF": {
+    "message": "PDF (diverses pàgines)"
+  },
+  "settingsDPR": {
+    "message": "Captura a resolució retina"
+  },
+  "settingsQuality": {
+    "message": "Qualitat JPEG"
+  },
+  "save": {
+    "message": "Desa"
+  },
+  "cancel": {
+    "message": "Cancel·la"
+  },
+  "openEditor": {
+    "message": "Obre a l'editor"
+  },
+  "downloadNow": {
+    "message": "Baixa ara"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Fletxa"
+  },
+  "toolBox": {
+    "message": "Rectangle"
+  },
+  "toolText": {
+    "message": "Text"
+  },
+  "toolBlur": {
+    "message": "Difumina"
+  },
+  "toolHighlight": {
+    "message": "Ressalta"
+  },
+  "toolUndo": {
+    "message": "Desfés"
+  },
+  "toolRedo": {
+    "message": "Refés"
+  },
+  "toolClear": {
+    "message": "Neteja"
+  },
+  "exportPng": {
+    "message": "Exporta PNG"
+  },
+  "exportJpeg": {
+    "message": "Exporta JPEG"
+  },
+  "exportPdf": {
+    "message": "Exporta PDF"
+  },
+  "toastCapturing": {
+    "message": "S'està capturant…"
+  },
+  "toastStitching": {
+    "message": "S'estan unint les peces…"
+  },
+  "toastSaved": {
+    "message": "Desat a les teves Baixades."
+  },
+  "toastEditorOpened": {
+    "message": "S'ha obert l'editor en una pestanya nova."
+  },
+  "toastFailed": {
+    "message": "La captura ha fallat. Prova de recarregar la pestanya."
+  },
+  "toastCanvasCapHit": {
+    "message": "La pàgina és molt alta — la sortida s'ha dividit per ajustar-se al límit de llenç de Chrome."
+  },
+  "selectorHint": {
+    "message": "Arrossega per seleccionar. Esc per cancel·lar."
+  },
+  "delayCountdown": {
+    "message": "Es capturarà en $SECONDS$ s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Tot el processament és local. La teva pantalla mai no surt del teu dispositiu."
+  },
+  "cmdRecordToggle": {
+    "message": "Activa/desactiva l'enregistrament"
+  },
+  "recordStop": {
+    "message": "Atura"
+  },
+  "recordStopTooltip": {
+    "message": "Atura i desa l'enregistrament"
+  },
+  "toastRecordingStarted": {
+    "message": "Enregistrament iniciat…"
+  },
+  "toastRecordingStopped": {
+    "message": "Enregistrament desat a les teves Baixades."
+  },
+  "toastMicDenied": {
+    "message": "S'ha denegat el permís del micròfon."
+  },
+  "toastScreenDenied": {
+    "message": "S'ha denegat el permís de pantalla."
+  },
+  "toastTabCaptureFailed": {
+    "message": "La captura de la pestanya ha fallat. Prova de recarregar la pestanya."
+  },
+  "toastRecovered": {
+    "message": "S'ha recuperat l'últim enregistrament."
+  },
+  "recoverLast": {
+    "message": "Recupera l'últim enregistrament"
+  },
+  "discardLast": {
+    "message": "Descarta"
+  },
+  "recordingActive": {
+    "message": "Enregistrament en curs"
+  },
+  "recordDuration": {
+    "message": "Durada"
+  },
+  "recordHintTab": {
+    "message": "Pestanya · micròfon · àudio de la pestanya"
+  },
+  "recordHintScreen": {
+    "message": "Pantalla · micròfon (opcional)"
+  },
+  "recordHintWebcam": {
+    "message": "Càmera web + micròfon"
+  },
+  "sectionVideoEditor": {
+    "message": "Editor de vídeo (Fase C)"
+  },
+  "sectionScheduler": {
+    "message": "Enregistrament programat"
+  },
+  "sectionLicense": {
+    "message": "Llicència"
+  },
+  "openVideoEditor": {
+    "message": "Obre l'editor de vídeo"
+  },
+  "noRecordingsYet": {
+    "message": "Encara no hi ha enregistraments. Enregistra alguna cosa primer."
+  },
+  "editorVideoTitle": {
+    "message": "Editor de vídeo"
+  },
+  "editorTrim": {
+    "message": "Retalla"
+  },
+  "editorCrop": {
+    "message": "Escapça"
+  },
+  "editorBlur": {
+    "message": "Difumina"
+  },
+  "editorClickZoom": {
+    "message": "Zoom en fer clic"
+  },
+  "editorExportWebM": {
+    "message": "Exporta WebM (gratuït)"
+  },
+  "editorExportMp4": {
+    "message": "Exporta MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Exporta GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Exporta 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Entrada"
+  },
+  "editorOutPoint": {
+    "message": "Sortida"
+  },
+  "editorAddBlurRegion": {
+    "message": "Afegeix una regió de difuminat"
+  },
+  "editorClearOverlays": {
+    "message": "Elimina les superposicions"
+  },
+  "editorProcessing": {
+    "message": "S'està processant…"
+  },
+  "editorExportDone": {
+    "message": "Exportació desada a les Baixades."
+  },
+  "editorExportFailed": {
+    "message": "L'exportació ha fallat."
+  },
+  "schedulerStartIn": {
+    "message": "Comença d'aquí a (min)"
+  },
+  "schedulerDuration": {
+    "message": "Durada (min)"
+  },
+  "schedulerSource": {
+    "message": "Font"
+  },
+  "schedulerCreate": {
+    "message": "Programa l'enregistrament"
+  },
+  "schedulerCancel": {
+    "message": "Cancel·la la programació"
+  },
+  "schedulerActive": {
+    "message": "Programat"
+  },
+  "schedulerFiresIn": {
+    "message": "S'activa d'aquí a $MIN$ s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "La programació mínima és de 30 s (límit de les alarmes de Chrome)."
+  },
+  "licenseKey": {
+    "message": "Clau de llicència"
+  },
+  "licenseActivate": {
+    "message": "Activa"
+  },
+  "licenseActive": {
+    "message": "Llicència Pro activa"
+  },
+  "licenseInvalid": {
+    "message": "La clau de llicència no és vàlida."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "GRATUÏT"
+  },
+  "proFeatureLocked": {
+    "message": "Funció Pro — activa una llicència per desbloquejar-la."
+  },
+  "toastScheduled": {
+    "message": "Enregistrament programat."
+  },
+  "toastScheduleCancelled": {
+    "message": "Programació cancel·lada."
+  },
+  "toastLicenseActivated": {
+    "message": "Llicència Pro activada."
+  },
+  "cmdOpenEditor": {
+    "message": "Obre l'editor de vídeo"
+  },
+  "formatWebM": {
+    "message": "WebM (gratuït)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

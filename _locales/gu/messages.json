@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — લોગિન નહીં, વોટરમાર્ક નહીં",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "ટૅબ/સ્ક્રીન/વેબકૅમ રેકોર્ડ કરો અને આખા પૃષ્ઠના સ્ક્રીનશોટ લો. લોગિન નહીં, વોટરમાર્ક નહીં, મર્યાદા નહીં, અપલોડ નહીં.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "સ્ક્રીનશોટ અને રેકોર્ડ"
+  },
+  "cmdCaptureVisible": {
+    "message": "પૃષ્ઠનો દૃશ્યમાન ભાગ કૅપ્ચર કરો"
+  },
+  "cmdCaptureFullPage": {
+    "message": "આખું પૃષ્ઠ કૅપ્ચર કરો"
+  },
+  "cmdCaptureArea": {
+    "message": "પસંદ કરેલ વિસ્તાર કૅપ્ચર કરો"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder & Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "લોગિન નહીં · વોટરમાર્ક નહીં · અપલોડ નહીં"
+  },
+  "sectionScreenshot": {
+    "message": "સ્ક્રીનશોટ"
+  },
+  "sectionRecord": {
+    "message": "રેકોર્ડ"
+  },
+  "actionVisible": {
+    "message": "દૃશ્યમાન વિસ્તાર"
+  },
+  "actionFullPage": {
+    "message": "આખું પૃષ્ઠ"
+  },
+  "actionArea": {
+    "message": "પસંદ કરેલ વિસ્તાર"
+  },
+  "actionDelay": {
+    "message": "3 સેકન્ડ વિલંબ"
+  },
+  "recordTab": {
+    "message": "ટૅબ"
+  },
+  "recordScreen": {
+    "message": "સ્ક્રીન"
+  },
+  "recordWebcam": {
+    "message": "વેબકૅમ"
+  },
+  "micOn": {
+    "message": "માઇક"
+  },
+  "tabAudioOn": {
+    "message": "ટૅબ ઓડિયો"
+  },
+  "comingSoonPhaseB": {
+    "message": "રેકોર્ડિંગ a free update માં આવે છે (મફત અપડેટ)."
+  },
+  "settingsFormat": {
+    "message": "મૂળભૂત ફોર્મેટ"
+  },
+  "formatPNG": {
+    "message": "PNG (નુકસાન વિનાનું)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (નાનું)"
+  },
+  "formatPDF": {
+    "message": "PDF (બહુ-પૃષ્ઠ)"
+  },
+  "settingsDPR": {
+    "message": "રેટિના રિઝોલ્યુશન પર કૅપ્ચર કરો"
+  },
+  "settingsQuality": {
+    "message": "JPEG ગુણવત્તા"
+  },
+  "save": {
+    "message": "સાચવો"
+  },
+  "cancel": {
+    "message": "રદ કરો"
+  },
+  "openEditor": {
+    "message": "એડિટરમાં ખોલો"
+  },
+  "downloadNow": {
+    "message": "હમણાં ડાઉનલોડ કરો"
+  },
+  "editorTitle": {
+    "message": "એડિટર"
+  },
+  "toolArrow": {
+    "message": "તીર"
+  },
+  "toolBox": {
+    "message": "બોક્સ"
+  },
+  "toolText": {
+    "message": "ટેક્સ્ટ"
+  },
+  "toolBlur": {
+    "message": "બ્લર"
+  },
+  "toolHighlight": {
+    "message": "હાઇલાઇટ"
+  },
+  "toolUndo": {
+    "message": "પૂર્વવત્ કરો"
+  },
+  "toolRedo": {
+    "message": "ફરી કરો"
+  },
+  "toolClear": {
+    "message": "સાફ કરો"
+  },
+  "exportPng": {
+    "message": "PNG નિકાસ કરો"
+  },
+  "exportJpeg": {
+    "message": "JPEG નિકાસ કરો"
+  },
+  "exportPdf": {
+    "message": "PDF નિકાસ કરો"
+  },
+  "toastCapturing": {
+    "message": "કૅપ્ચર થઈ રહ્યું છે…"
+  },
+  "toastStitching": {
+    "message": "ટાઇલ્સ જોડાઈ રહી છે…"
+  },
+  "toastSaved": {
+    "message": "તમારા ડાઉનલોડ્સમાં સાચવ્યું."
+  },
+  "toastEditorOpened": {
+    "message": "એડિટર નવી ટૅબમાં ખોલ્યું."
+  },
+  "toastFailed": {
+    "message": "કૅપ્ચર નિષ્ફળ. ટૅબ ફરીથી લોડ કરવાનો પ્રયાસ કરો."
+  },
+  "toastCanvasCapHit": {
+    "message": "પૃષ્ઠ ખૂબ ઊંચું છે — Chrome ની કૅનવાસ મર્યાદામાં બંધબેસવા આઉટપુટ ટાઇલ કર્યું."
+  },
+  "selectorHint": {
+    "message": "પસંદ કરવા ખેંચો. રદ કરવા Esc."
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$ સેકન્ડમાં કૅપ્ચર થશે…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "બધી પ્રક્રિયા સ્થાનિક છે. તમારી સ્ક્રીન ક્યારેય તમારા ઉપકરણમાંથી બહાર જતી નથી."
+  },
+  "cmdRecordToggle": {
+    "message": "રેકોર્ડિંગ ટૉગલ કરો"
+  },
+  "recordStop": {
+    "message": "બંધ કરો"
+  },
+  "recordStopTooltip": {
+    "message": "રેકોર્ડિંગ બંધ કરો અને સાચવો"
+  },
+  "toastRecordingStarted": {
+    "message": "રેકોર્ડિંગ શરૂ થયું…"
+  },
+  "toastRecordingStopped": {
+    "message": "તમારા ડાઉનલોડ્સમાં રેકોર્ડિંગ સાચવ્યું."
+  },
+  "toastMicDenied": {
+    "message": "માઇક્રોફોન પરવાનગી નકારી."
+  },
+  "toastScreenDenied": {
+    "message": "સ્ક્રીન પરવાનગી નકારી."
+  },
+  "toastTabCaptureFailed": {
+    "message": "ટૅબ કૅપ્ચર નિષ્ફળ. ટૅબ ફરીથી લોડ કરવાનો પ્રયાસ કરો."
+  },
+  "toastRecovered": {
+    "message": "છેલ્લું રેકોર્ડિંગ પુનઃપ્રાપ્ત કર્યું."
+  },
+  "recoverLast": {
+    "message": "છેલ્લું રેકોર્ડિંગ પુનઃપ્રાપ્ત કરો"
+  },
+  "discardLast": {
+    "message": "કાઢી નાખો"
+  },
+  "recordingActive": {
+    "message": "સત્રમાં રેકોર્ડિંગ ચાલુ છે"
+  },
+  "recordDuration": {
+    "message": "અવધિ"
+  },
+  "recordHintTab": {
+    "message": "ટૅબ · માઇક · ટૅબ ઓડિયો"
+  },
+  "recordHintScreen": {
+    "message": "સ્ક્રીન · માઇક (વૈકલ્પિક)"
+  },
+  "recordHintWebcam": {
+    "message": "વેબકૅમ + માઇક"
+  },
+  "sectionVideoEditor": {
+    "message": "વિડિયો એડિટર"
+  },
+  "sectionScheduler": {
+    "message": "સુનિશ્ચિત રેકોર્ડિંગ"
+  },
+  "sectionLicense": {
+    "message": "લાઇસન્સ"
+  },
+  "openVideoEditor": {
+    "message": "વિડિયો એડિટર ખોલો"
+  },
+  "noRecordingsYet": {
+    "message": "હજુ કોઈ રેકોર્ડિંગ નથી. પહેલા કંઈક રેકોર્ડ કરો."
+  },
+  "editorVideoTitle": {
+    "message": "વિડિયો એડિટર"
+  },
+  "editorTrim": {
+    "message": "ટ્રિમ"
+  },
+  "editorCrop": {
+    "message": "ક્રોપ"
+  },
+  "editorBlur": {
+    "message": "બ્લર"
+  },
+  "editorClickZoom": {
+    "message": "ક્લિક-ઝૂમ"
+  },
+  "editorExportWebM": {
+    "message": "WebM નિકાસ કરો (મફત)"
+  },
+  "editorExportMp4": {
+    "message": "MP4 નિકાસ કરો (Pro)"
+  },
+  "editorExportGif": {
+    "message": "GIF નિકાસ કરો (Pro)"
+  },
+  "editorExport4K": {
+    "message": "4K નિકાસ કરો (Pro)"
+  },
+  "editorInPoint": {
+    "message": "શરૂ"
+  },
+  "editorOutPoint": {
+    "message": "અંત"
+  },
+  "editorAddBlurRegion": {
+    "message": "બ્લર પ્રદેશ ઉમેરો"
+  },
+  "editorClearOverlays": {
+    "message": "ઓવરલે સાફ કરો"
+  },
+  "editorProcessing": {
+    "message": "પ્રક્રિયા થઈ રહી છે…"
+  },
+  "editorExportDone": {
+    "message": "નિકાસ ડાઉનલોડ્સમાં સાચવ્યું."
+  },
+  "editorExportFailed": {
+    "message": "નિકાસ નિષ્ફળ."
+  },
+  "schedulerStartIn": {
+    "message": "આટલી મિનિટમાં શરૂ કરો"
+  },
+  "schedulerDuration": {
+    "message": "અવધિ (મિનિટ)"
+  },
+  "schedulerSource": {
+    "message": "સ્રોત"
+  },
+  "schedulerCreate": {
+    "message": "રેકોર્ડિંગ સુનિશ્ચિત કરો"
+  },
+  "schedulerCancel": {
+    "message": "સમયપત્રક રદ કરો"
+  },
+  "schedulerActive": {
+    "message": "સુનિશ્ચિત"
+  },
+  "schedulerFiresIn": {
+    "message": "$MIN$ સેકન્ડમાં શરૂ થશે",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "ન્યૂનતમ સમયપત્રક 30 સેકન્ડ છે (Chrome એલાર્મ મર્યાદા)."
+  },
+  "licenseKey": {
+    "message": "લાઇસન્સ કી"
+  },
+  "licenseActivate": {
+    "message": "સક્રિય કરો"
+  },
+  "licenseActive": {
+    "message": "Pro લાઇસન્સ સક્રિય"
+  },
+  "licenseInvalid": {
+    "message": "લાઇસન્સ કી અમાન્ય."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "Pro સુવિધા — ખોલવા માટે લાઇસન્સ સક્રિય કરો."
+  },
+  "toastScheduled": {
+    "message": "રેકોર્ડિંગ સુનિશ્ચિત થયું."
+  },
+  "toastScheduleCancelled": {
+    "message": "સમયપત્રક રદ થયું."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro લાઇસન્સ સક્રિય થયું."
+  },
+  "cmdOpenEditor": {
+    "message": "વિડિયો એડિટર ખોલો"
+  },
+  "formatWebM": {
+    "message": "WebM (મફત)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

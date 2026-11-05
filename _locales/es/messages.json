@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "Grabador de pantalla y captura — Sin cuenta, sin marca de agua"
+  },
+  "extDesc": {
+    "message": "Graba pestaña/pantalla/webcam y captura páginas completas. Sin cuenta, sin marca de agua, sin límites, sin subidas."
+  },
+  "actionTitle": {
+    "message": "Capturar y grabar"
+  },
+  "cmdCaptureVisible": {
+    "message": "Capturar parte visible"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Capturar página completa"
+  },
+  "cmdCaptureArea": {
+    "message": "Capturar área seleccionada"
+  },
+  "popupTitle": {
+    "message": "Grabador de pantalla y captura"
+  },
+  "popupSubtitle": {
+    "message": "Sin cuenta · Sin marca de agua · Sin subidas"
+  },
+  "sectionScreenshot": {
+    "message": "Captura"
+  },
+  "sectionRecord": {
+    "message": "Grabar (Fase B)"
+  },
+  "actionVisible": {
+    "message": "Zona visible"
+  },
+  "actionFullPage": {
+    "message": "Página completa"
+  },
+  "actionArea": {
+    "message": "Área seleccionada"
+  },
+  "actionDelay": {
+    "message": "Retraso 3s"
+  },
+  "recordTab": {
+    "message": "Pestaña"
+  },
+  "recordScreen": {
+    "message": "Pantalla"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Micrófono"
+  },
+  "tabAudioOn": {
+    "message": "Audio de pestaña"
+  },
+  "comingSoonPhaseB": {
+    "message": "La grabación llega en la Fase B (actualización gratuita)."
+  },
+  "settingsFormat": {
+    "message": "Formato por defecto"
+  },
+  "formatPNG": {
+    "message": "PNG (sin pérdidas)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (más pequeño)"
+  },
+  "formatPDF": {
+    "message": "PDF (multipágina)"
+  },
+  "settingsDPR": {
+    "message": "Capturar a resolución retina"
+  },
+  "settingsQuality": {
+    "message": "Calidad JPEG"
+  },
+  "save": {
+    "message": "Guardar"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "openEditor": {
+    "message": "Abrir en editor"
+  },
+  "downloadNow": {
+    "message": "Descargar ahora"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Flecha"
+  },
+  "toolBox": {
+    "message": "Rectángulo"
+  },
+  "toolText": {
+    "message": "Texto"
+  },
+  "toolBlur": {
+    "message": "Difuminar"
+  },
+  "toolHighlight": {
+    "message": "Resaltar"
+  },
+  "toolUndo": {
+    "message": "Deshacer"
+  },
+  "toolRedo": {
+    "message": "Rehacer"
+  },
+  "toolClear": {
+    "message": "Limpiar"
+  },
+  "exportPng": {
+    "message": "Exportar PNG"
+  },
+  "exportJpeg": {
+    "message": "Exportar JPEG"
+  },
+  "exportPdf": {
+    "message": "Exportar PDF"
+  },
+  "toastCapturing": {
+    "message": "Capturando…"
+  },
+  "toastStitching": {
+    "message": "Uniendo mosaicos…"
+  },
+  "toastSaved": {
+    "message": "Guardado en Descargas."
+  },
+  "toastEditorOpened": {
+    "message": "Editor abierto en una nueva pestaña."
+  },
+  "toastFailed": {
+    "message": "Captura fallida. Recarga la pestaña."
+  },
+  "toastCanvasCapHit": {
+    "message": "Página muy alta — salida en mosaico por el límite de lienzo."
+  },
+  "selectorHint": {
+    "message": "Arrastra para seleccionar. Esc para cancelar."
+  },
+  "delayCountdown": {
+    "message": "Capturando en $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Todo el procesamiento es local. Tu pantalla nunca sale de tu dispositivo."
+  },
+  "cmdRecordToggle": {
+    "message": "Activar/desactivar grabación"
+  },
+  "recordStop": {
+    "message": "Detener"
+  },
+  "recordStopTooltip": {
+    "message": "Detener y guardar la grabación"
+  },
+  "toastRecordingStarted": {
+    "message": "Grabación iniciada…"
+  },
+  "toastRecordingStopped": {
+    "message": "Grabación guardada en Descargas."
+  },
+  "toastMicDenied": {
+    "message": "Permiso de micrófono denegado."
+  },
+  "toastScreenDenied": {
+    "message": "Permiso de pantalla denegado."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Captura de pestaña fallida. Recarga la pestaña."
+  },
+  "toastRecovered": {
+    "message": "Última grabación recuperada."
+  },
+  "recoverLast": {
+    "message": "Recuperar última grabación"
+  },
+  "discardLast": {
+    "message": "Descartar"
+  },
+  "recordingActive": {
+    "message": "Grabación en curso"
+  },
+  "recordDuration": {
+    "message": "Duración"
+  },
+  "recordHintTab": {
+    "message": "Pestaña · mic · audio de pestaña"
+  },
+  "recordHintScreen": {
+    "message": "Pantalla · mic (opcional)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + mic"
+  },
+  "sectionVideoEditor": {
+    "message": "Editor de vídeo (Fase C)"
+  },
+  "sectionScheduler": {
+    "message": "Grabación programada"
+  },
+  "sectionLicense": {
+    "message": "Licencia"
+  },
+  "openVideoEditor": {
+    "message": "Abrir editor de vídeo"
+  },
+  "noRecordingsYet": {
+    "message": "Aún no hay grabaciones. Graba algo primero."
+  },
+  "editorVideoTitle": {
+    "message": "Editor de vídeo"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Empezar en (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duración (min)"
+  },
+  "schedulerSource": {
+    "message": "Origen"
+  },
+  "schedulerCreate": {
+    "message": "Programar grabación"
+  },
+  "schedulerCancel": {
+    "message": "Cancelar programación"
+  },
+  "schedulerActive": {
+    "message": "Programada"
+  },
+  "schedulerFiresIn": {
+    "message": "Se activa en $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "El mínimo es 30s (límite de Chrome alarms)."
+  },
+  "licenseKey": {
+    "message": "Clave de licencia"
+  },
+  "licenseActivate": {
+    "message": "Activar"
+  },
+  "licenseActive": {
+    "message": "Licencia Pro activa"
+  },
+  "licenseInvalid": {
+    "message": "Clave de licencia inválida."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "GRATIS"
+  },
+  "proFeatureLocked": {
+    "message": "Función Pro — activa una licencia."
+  },
+  "toastScheduled": {
+    "message": "Grabación programada."
+  },
+  "toastScheduleCancelled": {
+    "message": "Programación cancelada."
+  },
+  "toastLicenseActivated": {
+    "message": "Licencia Pro activada."
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

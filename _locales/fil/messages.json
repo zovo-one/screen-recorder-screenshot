@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Screen Recorder & Screenshot — Walang Login, Walang Watermark",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Mag-record ng tab/screen/webcam at kumuha ng screenshot ng buong pahina. Walang login, walang watermark, walang limitasyon, walang",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Screenshot at Record"
+  },
+  "cmdCaptureVisible": {
+    "message": "Kunan ang nakikitang bahagi ng pahina"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Kunan ang buong pahina"
+  },
+  "cmdCaptureArea": {
+    "message": "Kunan ang piniling bahagi"
+  },
+  "popupTitle": {
+    "message": "Screen Recorder at Screenshot"
+  },
+  "popupSubtitle": {
+    "message": "Walang login · Walang watermark · Walang upload"
+  },
+  "sectionScreenshot": {
+    "message": "Screenshot"
+  },
+  "sectionRecord": {
+    "message": "Record"
+  },
+  "actionVisible": {
+    "message": "Nakikitang bahagi"
+  },
+  "actionFullPage": {
+    "message": "Buong pahina"
+  },
+  "actionArea": {
+    "message": "Piniling bahagi"
+  },
+  "actionDelay": {
+    "message": "Antalang 3s"
+  },
+  "recordTab": {
+    "message": "Tab"
+  },
+  "recordScreen": {
+    "message": "Screen"
+  },
+  "recordWebcam": {
+    "message": "Webcam"
+  },
+  "micOn": {
+    "message": "Mic"
+  },
+  "tabAudioOn": {
+    "message": "Audio ng tab"
+  },
+  "comingSoonPhaseB": {
+    "message": "Darating ang pag-record sa a free update (libreng update)."
+  },
+  "settingsFormat": {
+    "message": "Default na format"
+  },
+  "formatPNG": {
+    "message": "PNG (lossless)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (mas maliit)"
+  },
+  "formatPDF": {
+    "message": "PDF (maramihang pahina)"
+  },
+  "settingsDPR": {
+    "message": "Kunan sa retina resolution"
+  },
+  "settingsQuality": {
+    "message": "Kalidad ng JPEG"
+  },
+  "save": {
+    "message": "I-save"
+  },
+  "cancel": {
+    "message": "Kanselahin"
+  },
+  "openEditor": {
+    "message": "Buksan sa editor"
+  },
+  "downloadNow": {
+    "message": "I-download ngayon"
+  },
+  "editorTitle": {
+    "message": "Editor"
+  },
+  "toolArrow": {
+    "message": "Palaso"
+  },
+  "toolBox": {
+    "message": "Kahon"
+  },
+  "toolText": {
+    "message": "Teksto"
+  },
+  "toolBlur": {
+    "message": "Blur"
+  },
+  "toolHighlight": {
+    "message": "Highlight"
+  },
+  "toolUndo": {
+    "message": "I-undo"
+  },
+  "toolRedo": {
+    "message": "I-redo"
+  },
+  "toolClear": {
+    "message": "Burahin"
+  },
+  "exportPng": {
+    "message": "I-export ang PNG"
+  },
+  "exportJpeg": {
+    "message": "I-export ang JPEG"
+  },
+  "exportPdf": {
+    "message": "I-export ang PDF"
+  },
+  "toastCapturing": {
+    "message": "Kinukunan…"
+  },
+  "toastStitching": {
+    "message": "Pinagdurugtong ang mga tile…"
+  },
+  "toastSaved": {
+    "message": "Na-save sa iyong Downloads."
+  },
+  "toastEditorOpened": {
+    "message": "Binuksan ang editor sa bagong tab."
+  },
+  "toastFailed": {
+    "message": "Nabigo ang pagkuha. Subukang i-reload ang tab."
+  },
+  "toastCanvasCapHit": {
+    "message": "Napakataas ng pahina — hinati ang output para umangkop sa limitasyon ng canvas ng Chrome."
+  },
+  "selectorHint": {
+    "message": "I-drag para pumili. Esc para kanselahin."
+  },
+  "delayCountdown": {
+    "message": "Kukunan sa loob ng $SECONDS$s…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Lahat ng pagproseso ay lokal. Ang iyong screen ay hindi kailanman lumalabas sa iyong device."
+  },
+  "cmdRecordToggle": {
+    "message": "I-toggle ang pag-record"
+  },
+  "recordStop": {
+    "message": "Ihinto"
+  },
+  "recordStopTooltip": {
+    "message": "Ihinto at i-save ang recording"
+  },
+  "toastRecordingStarted": {
+    "message": "Nagsimula ang pag-record…"
+  },
+  "toastRecordingStopped": {
+    "message": "Na-save ang recording sa iyong Downloads."
+  },
+  "toastMicDenied": {
+    "message": "Tinanggihan ang pahintulot sa mikropono."
+  },
+  "toastScreenDenied": {
+    "message": "Tinanggihan ang pahintulot sa screen."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Nabigo ang pagkuha ng tab. Subukang i-reload ang tab."
+  },
+  "toastRecovered": {
+    "message": "Nabawi ang huling recording."
+  },
+  "recoverLast": {
+    "message": "Bawiin ang huling recording"
+  },
+  "discardLast": {
+    "message": "Itapon"
+  },
+  "recordingActive": {
+    "message": "Nagre-record sa session"
+  },
+  "recordDuration": {
+    "message": "Tagal"
+  },
+  "recordHintTab": {
+    "message": "Tab · mic · audio ng tab"
+  },
+  "recordHintScreen": {
+    "message": "Screen · mic (opsyonal)"
+  },
+  "recordHintWebcam": {
+    "message": "Webcam + mic"
+  },
+  "sectionVideoEditor": {
+    "message": "Video editor"
+  },
+  "sectionScheduler": {
+    "message": "Nakaiskedyul na pag-record"
+  },
+  "sectionLicense": {
+    "message": "Lisensya"
+  },
+  "openVideoEditor": {
+    "message": "Buksan ang video editor"
+  },
+  "noRecordingsYet": {
+    "message": "Wala pang recording. Mag-record muna ng isang bagay."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "I-trim"
+  },
+  "editorCrop": {
+    "message": "I-crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "I-export ang WebM (libre)"
+  },
+  "editorExportMp4": {
+    "message": "I-export ang MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "I-export ang GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "I-export ang 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Magdagdag ng blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Burahin ang mga overlay"
+  },
+  "editorProcessing": {
+    "message": "Pinoproseso…"
+  },
+  "editorExportDone": {
+    "message": "Na-save ang export sa Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Nabigo ang export."
+  },
+  "schedulerStartIn": {
+    "message": "Magsimula sa (min)"
+  },
+  "schedulerDuration": {
+    "message": "Tagal (min)"
+  },
+  "schedulerSource": {
+    "message": "Pinagmulan"
+  },
+  "schedulerCreate": {
+    "message": "Iiskedyul ang pag-record"
+  },
+  "schedulerCancel": {
+    "message": "Kanselahin ang iskedyul"
+  },
+  "schedulerActive": {
+    "message": "Nakaiskedyul"
+  },
+  "schedulerFiresIn": {
+    "message": "Magsisimula sa $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Ang pinakamababang iskedyul ay 30s (floor ng mga alarm ng Chrome)."
+  },
+  "licenseKey": {
+    "message": "License key"
+  },
+  "licenseActivate": {
+    "message": "I-activate"
+  },
+  "licenseActive": {
+    "message": "Aktibo ang Pro license"
+  },
+  "licenseInvalid": {
+    "message": "Hindi wasto ang license key."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "LIBRE"
+  },
+  "proFeatureLocked": {
+    "message": "Feature ng Pro — mag-activate ng lisensya para i-unlock."
+  },
+  "toastScheduled": {
+    "message": "Naiskedyul ang pag-record."
+  },
+  "toastScheduleCancelled": {
+    "message": "Kinansela ang iskedyul."
+  },
+  "toastLicenseActivated": {
+    "message": "Na-activate ang Pro license."
+  },
+  "cmdOpenEditor": {
+    "message": "Buksan ang video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (libre)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

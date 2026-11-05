@@ -1,0 +1,375 @@
+{
+  "extName": {
+    "message": "Ekran kaydedici ve ekran görüntüsü — Giriş yok, filigran yok"
+  },
+  "extDesc": {
+    "message": "Sekme/ekran/web kamerasını kaydedin ve tam sayfa yakalayın. Giriş yok, filigran yok, sınır yok, yükleme yok."
+  },
+  "actionTitle": {
+    "message": "Yakala ve Kaydet"
+  },
+  "cmdCaptureVisible": {
+    "message": "Görünür kısmı yakala"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Tam sayfayı yakala"
+  },
+  "cmdCaptureArea": {
+    "message": "Seçili alanı yakala"
+  },
+  "popupTitle": {
+    "message": "Ekran kaydedici ve ekran görüntüsü"
+  },
+  "popupSubtitle": {
+    "message": "Giriş yok · Filigran yok · Yükleme yok"
+  },
+  "sectionScreenshot": {
+    "message": "Ekran görüntüsü"
+  },
+  "sectionRecord": {
+    "message": "Kaydet (Aşama B)"
+  },
+  "actionVisible": {
+    "message": "Görünür alan"
+  },
+  "actionFullPage": {
+    "message": "Tam sayfa"
+  },
+  "actionArea": {
+    "message": "Seçili alan"
+  },
+  "actionDelay": {
+    "message": "3 sn gecikme"
+  },
+  "recordTab": {
+    "message": "Sekme"
+  },
+  "recordScreen": {
+    "message": "Ekran"
+  },
+  "recordWebcam": {
+    "message": "Web kamerası"
+  },
+  "micOn": {
+    "message": "Mikrofon"
+  },
+  "tabAudioOn": {
+    "message": "Sekme sesi"
+  },
+  "comingSoonPhaseB": {
+    "message": "Kayıt Aşama B'de gelir (ücretsiz güncelleme)."
+  },
+  "settingsFormat": {
+    "message": "Varsayılan biçim"
+  },
+  "formatPNG": {
+    "message": "PNG (kayıpsız)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (daha küçük)"
+  },
+  "formatPDF": {
+    "message": "PDF (çok sayfalı)"
+  },
+  "settingsDPR": {
+    "message": "Retina çözünürlükte yakala"
+  },
+  "settingsQuality": {
+    "message": "JPEG kalitesi"
+  },
+  "save": {
+    "message": "Kaydet"
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "openEditor": {
+    "message": "Düzenleyicide aç"
+  },
+  "downloadNow": {
+    "message": "Hemen indir"
+  },
+  "editorTitle": {
+    "message": "Düzenleyici"
+  },
+  "toolArrow": {
+    "message": "Ok"
+  },
+  "toolBox": {
+    "message": "Dikdörtgen"
+  },
+  "toolText": {
+    "message": "Metin"
+  },
+  "toolBlur": {
+    "message": "Bulanıklaştır"
+  },
+  "toolHighlight": {
+    "message": "Vurgula"
+  },
+  "toolUndo": {
+    "message": "Geri al"
+  },
+  "toolRedo": {
+    "message": "Yinele"
+  },
+  "toolClear": {
+    "message": "Temizle"
+  },
+  "exportPng": {
+    "message": "PNG dışa aktar"
+  },
+  "exportJpeg": {
+    "message": "JPEG dışa aktar"
+  },
+  "exportPdf": {
+    "message": "PDF dışa aktar"
+  },
+  "toastCapturing": {
+    "message": "Yakalanıyor…"
+  },
+  "toastStitching": {
+    "message": "Karolar birleştiriliyor…"
+  },
+  "toastSaved": {
+    "message": "İndirilenler'e kaydedildi."
+  },
+  "toastEditorOpened": {
+    "message": "Düzenleyici yeni sekmede açıldı."
+  },
+  "toastFailed": {
+    "message": "Yakalama başarısız. Sekmeyi yenileyin."
+  },
+  "toastCanvasCapHit": {
+    "message": "Sayfa çok uzun — tuval sınırı nedeniyle döşendi."
+  },
+  "selectorHint": {
+    "message": "Seçmek için sürükle. İptal için Esc."
+  },
+  "delayCountdown": {
+    "message": "$SECONDS$s içinde yakalanıyor…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Tüm işleme yereldir. Ekranınız cihazınızdan asla ayrılmaz."
+  },
+  "cmdRecordToggle": {
+    "message": "Kaydı aç/kapat"
+  },
+  "recordStop": {
+    "message": "Durdur"
+  },
+  "recordStopTooltip": {
+    "message": "Kaydı durdur ve kaydet"
+  },
+  "toastRecordingStarted": {
+    "message": "Kayıt başladı…"
+  },
+  "toastRecordingStopped": {
+    "message": "Kayıt İndirilenler'e kaydedildi."
+  },
+  "toastMicDenied": {
+    "message": "Mikrofon izni reddedildi."
+  },
+  "toastScreenDenied": {
+    "message": "Ekran izni reddedildi."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Sekme yakalama başarısız. Sekmeyi yenileyin."
+  },
+  "toastRecovered": {
+    "message": "Son kayıt kurtarıldı."
+  },
+  "recoverLast": {
+    "message": "Son kaydı kurtar"
+  },
+  "discardLast": {
+    "message": "At"
+  },
+  "recordingActive": {
+    "message": "Kayıt devam ediyor"
+  },
+  "recordDuration": {
+    "message": "Süre"
+  },
+  "recordHintTab": {
+    "message": "Sekme · mik · sekme sesi"
+  },
+  "recordHintScreen": {
+    "message": "Ekran · mik (opsiyonel)"
+  },
+  "recordHintWebcam": {
+    "message": "Web kamerası + mik"
+  },
+  "sectionVideoEditor": {
+    "message": "Video editörü (Aşama C)"
+  },
+  "sectionScheduler": {
+    "message": "Zamanlanmış kayıt"
+  },
+  "sectionLicense": {
+    "message": "Lisans"
+  },
+  "openVideoEditor": {
+    "message": "Video editörünü aç"
+  },
+  "noRecordingsYet": {
+    "message": "No recordings yet. Record something first."
+  },
+  "editorVideoTitle": {
+    "message": "Video editor"
+  },
+  "editorTrim": {
+    "message": "Trim"
+  },
+  "editorCrop": {
+    "message": "Crop"
+  },
+  "editorBlur": {
+    "message": "Blur"
+  },
+  "editorClickZoom": {
+    "message": "Click-zoom"
+  },
+  "editorExportWebM": {
+    "message": "Export WebM (free)"
+  },
+  "editorExportMp4": {
+    "message": "Export MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Export GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Export 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "In"
+  },
+  "editorOutPoint": {
+    "message": "Out"
+  },
+  "editorAddBlurRegion": {
+    "message": "Add blur region"
+  },
+  "editorClearOverlays": {
+    "message": "Clear overlays"
+  },
+  "editorProcessing": {
+    "message": "Processing…"
+  },
+  "editorExportDone": {
+    "message": "Export saved to Downloads."
+  },
+  "editorExportFailed": {
+    "message": "Export failed."
+  },
+  "schedulerStartIn": {
+    "message": "Start in (min)"
+  },
+  "schedulerDuration": {
+    "message": "Duration (min)"
+  },
+  "schedulerSource": {
+    "message": "Source"
+  },
+  "schedulerCreate": {
+    "message": "Kaydı zamanla"
+  },
+  "schedulerCancel": {
+    "message": "Zamanlamayı iptal et"
+  },
+  "schedulerActive": {
+    "message": "Zamanlandı"
+  },
+  "schedulerFiresIn": {
+    "message": "Fires in $MIN$s",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimum schedule is 30s (Chrome alarms floor)."
+  },
+  "licenseKey": {
+    "message": "Lisans anahtarı"
+  },
+  "licenseActivate": {
+    "message": "Etkinleştir"
+  },
+  "licenseActive": {
+    "message": "Pro lisans etkin"
+  },
+  "licenseInvalid": {
+    "message": "Lisans anahtarı geçersiz."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "ÜCRETSİZ"
+  },
+  "proFeatureLocked": {
+    "message": "Pro özellik — lisans etkinleştir."
+  },
+  "toastScheduled": {
+    "message": "Kayıt zamanlandı."
+  },
+  "toastScheduleCancelled": {
+    "message": "Schedule cancelled."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro lisans etkinleştirildi."
+  },
+  "cmdOpenEditor": {
+    "message": "Open video editor"
+  },
+  "formatWebM": {
+    "message": "WebM (free)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

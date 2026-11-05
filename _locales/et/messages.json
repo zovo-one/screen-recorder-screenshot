@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "Ekraanisalvesti ja ekraanipilt — sisselogimiseta, vesimärgita",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Salvesta kaart/ekraan/veebikaamera ja tee tervikleheküljest ekraanipilt. Sisselogimiseta, vesimärgita, piiranguteta",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Ekraanipilt ja salvestamine"
+  },
+  "cmdCaptureVisible": {
+    "message": "Jäädvusta lehe nähtav osa"
+  },
+  "cmdCaptureFullPage": {
+    "message": "Jäädvusta terve leht"
+  },
+  "cmdCaptureArea": {
+    "message": "Jäädvusta valitud ala"
+  },
+  "popupTitle": {
+    "message": "Ekraanisalvesti ja ekraanipilt"
+  },
+  "popupSubtitle": {
+    "message": "Sisselogimiseta · Vesimärgita · Üleslaadimiseta"
+  },
+  "sectionScreenshot": {
+    "message": "Ekraanipilt"
+  },
+  "sectionRecord": {
+    "message": "Salvestamine (etapp B)"
+  },
+  "actionVisible": {
+    "message": "Nähtav ala"
+  },
+  "actionFullPage": {
+    "message": "Terve leht"
+  },
+  "actionArea": {
+    "message": "Valitud ala"
+  },
+  "actionDelay": {
+    "message": "Viivitus 3 s"
+  },
+  "recordTab": {
+    "message": "Kaart"
+  },
+  "recordScreen": {
+    "message": "Ekraan"
+  },
+  "recordWebcam": {
+    "message": "Veebikaamera"
+  },
+  "micOn": {
+    "message": "Mikrofon"
+  },
+  "tabAudioOn": {
+    "message": "Kaardi heli"
+  },
+  "comingSoonPhaseB": {
+    "message": "Salvestamine saabub etapis B (tasuta uuendus)."
+  },
+  "settingsFormat": {
+    "message": "Vaikimisi vorming"
+  },
+  "formatPNG": {
+    "message": "PNG (kadudeta)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (väiksem)"
+  },
+  "formatPDF": {
+    "message": "PDF (mitmeleheküljeline)"
+  },
+  "settingsDPR": {
+    "message": "Jäädvusta retina-resolutsioonis"
+  },
+  "settingsQuality": {
+    "message": "JPEG kvaliteet"
+  },
+  "save": {
+    "message": "Salvesta"
+  },
+  "cancel": {
+    "message": "Tühista"
+  },
+  "openEditor": {
+    "message": "Ava redaktoris"
+  },
+  "downloadNow": {
+    "message": "Laadi alla kohe"
+  },
+  "editorTitle": {
+    "message": "Redaktor"
+  },
+  "toolArrow": {
+    "message": "Nool"
+  },
+  "toolBox": {
+    "message": "Kast"
+  },
+  "toolText": {
+    "message": "Tekst"
+  },
+  "toolBlur": {
+    "message": "Hägustamine"
+  },
+  "toolHighlight": {
+    "message": "Esiletõst"
+  },
+  "toolUndo": {
+    "message": "Võta tagasi"
+  },
+  "toolRedo": {
+    "message": "Tee uuesti"
+  },
+  "toolClear": {
+    "message": "Tühjenda"
+  },
+  "exportPng": {
+    "message": "Ekspordi PNG"
+  },
+  "exportJpeg": {
+    "message": "Ekspordi JPEG"
+  },
+  "exportPdf": {
+    "message": "Ekspordi PDF"
+  },
+  "toastCapturing": {
+    "message": "Jäädvustan…"
+  },
+  "toastStitching": {
+    "message": "Ühendan plaate…"
+  },
+  "toastSaved": {
+    "message": "Salvestatud sinu allalaadimiste kausta."
+  },
+  "toastEditorOpened": {
+    "message": "Avasin redaktori uues kaardis."
+  },
+  "toastFailed": {
+    "message": "Jäädvustamine ebaõnnestus. Proovi kaart uuesti laadida."
+  },
+  "toastCanvasCapHit": {
+    "message": "Leht on väga pikk — väljund plaaditi, et mahtuda Chrome'i lõuendi piirangu sisse."
+  },
+  "selectorHint": {
+    "message": "Lohista valimiseks. Tühistamiseks vajuta Esc."
+  },
+  "delayCountdown": {
+    "message": "Jäädvustan $SECONDS$ s pärast…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "Kogu töötlus on kohalik. Sinu ekraan ei lahku kunagi sinu seadmest."
+  },
+  "cmdRecordToggle": {
+    "message": "Lülita salvestamine sisse/välja"
+  },
+  "recordStop": {
+    "message": "Peata"
+  },
+  "recordStopTooltip": {
+    "message": "Peata ja salvesta salvestis"
+  },
+  "toastRecordingStarted": {
+    "message": "Salvestamine algas…"
+  },
+  "toastRecordingStopped": {
+    "message": "Salvestis salvestatud sinu allalaadimiste kausta."
+  },
+  "toastMicDenied": {
+    "message": "Mikrofoni luba tagasi lükatud."
+  },
+  "toastScreenDenied": {
+    "message": "Ekraani luba tagasi lükatud."
+  },
+  "toastTabCaptureFailed": {
+    "message": "Kaardi jäädvustamine ebaõnnestus. Proovi kaart uuesti laadida."
+  },
+  "toastRecovered": {
+    "message": "Viimane salvestis taastatud."
+  },
+  "recoverLast": {
+    "message": "Taasta viimane salvestis"
+  },
+  "discardLast": {
+    "message": "Loobu"
+  },
+  "recordingActive": {
+    "message": "Salvestamine käib"
+  },
+  "recordDuration": {
+    "message": "Kestus"
+  },
+  "recordHintTab": {
+    "message": "Kaart · mikrofon · kaardi heli"
+  },
+  "recordHintScreen": {
+    "message": "Ekraan · mikrofon (valikuline)"
+  },
+  "recordHintWebcam": {
+    "message": "Veebikaamera + mikrofon"
+  },
+  "sectionVideoEditor": {
+    "message": "Videoredaktor (etapp C)"
+  },
+  "sectionScheduler": {
+    "message": "Ajastatud salvestamine"
+  },
+  "sectionLicense": {
+    "message": "Litsents"
+  },
+  "openVideoEditor": {
+    "message": "Ava videoredaktor"
+  },
+  "noRecordingsYet": {
+    "message": "Salvestisi veel pole. Salvesta esmalt midagi."
+  },
+  "editorVideoTitle": {
+    "message": "Videoredaktor"
+  },
+  "editorTrim": {
+    "message": "Kärbi"
+  },
+  "editorCrop": {
+    "message": "Lõika"
+  },
+  "editorBlur": {
+    "message": "Hägusta"
+  },
+  "editorClickZoom": {
+    "message": "Klõpsu-suum"
+  },
+  "editorExportWebM": {
+    "message": "Ekspordi WebM (tasuta)"
+  },
+  "editorExportMp4": {
+    "message": "Ekspordi MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "Ekspordi GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "Ekspordi 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "Algus"
+  },
+  "editorOutPoint": {
+    "message": "Lõpp"
+  },
+  "editorAddBlurRegion": {
+    "message": "Lisa hägustamisala"
+  },
+  "editorClearOverlays": {
+    "message": "Eemalda ülekatted"
+  },
+  "editorProcessing": {
+    "message": "Töötlen…"
+  },
+  "editorExportDone": {
+    "message": "Eksport salvestatud allalaadimiste kausta."
+  },
+  "editorExportFailed": {
+    "message": "Eksport ebaõnnestus."
+  },
+  "schedulerStartIn": {
+    "message": "Algus (min)"
+  },
+  "schedulerDuration": {
+    "message": "Kestus (min)"
+  },
+  "schedulerSource": {
+    "message": "Allikas"
+  },
+  "schedulerCreate": {
+    "message": "Ajasta salvestamine"
+  },
+  "schedulerCancel": {
+    "message": "Tühista ajastus"
+  },
+  "schedulerActive": {
+    "message": "Ajastatud"
+  },
+  "schedulerFiresIn": {
+    "message": "Käivitub $MIN$ s pärast",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "Minimaalne ajastus on 30 s (Chrome'i äratuste alampiir)."
+  },
+  "licenseKey": {
+    "message": "Litsentsivõti"
+  },
+  "licenseActivate": {
+    "message": "Aktiveeri"
+  },
+  "licenseActive": {
+    "message": "Pro litsents on aktiivne"
+  },
+  "licenseInvalid": {
+    "message": "Litsentsivõti on kehtetu."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "TASUTA"
+  },
+  "proFeatureLocked": {
+    "message": "Pro funktsioon — avamiseks aktiveeri litsents."
+  },
+  "toastScheduled": {
+    "message": "Salvestamine ajastatud."
+  },
+  "toastScheduleCancelled": {
+    "message": "Ajastus tühistatud."
+  },
+  "toastLicenseActivated": {
+    "message": "Pro litsents aktiveeritud."
+  },
+  "cmdOpenEditor": {
+    "message": "Ava videoredaktor"
+  },
+  "formatWebM": {
+    "message": "WebM (tasuta)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}

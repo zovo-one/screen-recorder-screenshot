@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welcome to Screen Recorder and Screenshot</title>
+<link rel="stylesheet" href="onboarding.css">
+</head>
+<body>
+<div class="bg-fx"></div>
+<div class="bg-grid"></div>
+
+<!-- top nav -->
+<nav class="topnav">
+  <div class="brand">
+    <span class="z"><b>zovo</b>.</span>
+    <span class="sep"></span>
+    <span class="prod">Screen Recorder and Screenshot</span>
+  </div>
+  <a class="ghlink" href="https://github.com/theluckystrike/zovo-screen-recorder-public" target="_blank" rel="noopener">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.7.5.5 5.7.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.4-3.9-1.4-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.4-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2a11 11 0 0 1 6 0C17.3 4.7 18.3 5 18.3 5c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg>
+    Open source <span class="arr">↗</span>
+  </a>
+</nav>
+<div class="progress"><div class="progress-fill" id="progressFill"></div></div>
+
+<div class="stage" id="stage">
+
+  <!-- ============ STEP 1 · THE HOOK ============ -->
+  <section class="step active" data-step="1" data-next="Show me">
+    <div class="center">
+      <span class="kicker">by Zovo · no login, no watermark</span>
+      <h1>You wanted a ten second clip.<br>The other tool wanted your<br><span class="em">credit card</span>.</h1>
+      <p class="lede">Loom, Screencastify and the rest ask you to make an account, then hand over a card, and they still
+        stamp their logo across your video. This one records the moment you click. No sign-up, no watermark, nothing
+        uploaded anywhere. The file lands straight in your Downloads.</p>
+
+      <div class="timeline-card">
+        <div class="tl dead"><span class="dot"></span> The usual recorder <span class="meta">account, card, watermark</span></div>
+        <div class="tl live"><span class="dot"></span> Screen Recorder and Screenshot <span class="meta">click and record</span></div>
+      </div>
+
+      <div class="gauge">
+        <div class="row">
+          <span class="lbl">What it takes to record right now</span>
+          <span class="val">0<small>steps</small></span>
+        </div>
+        <div class="track"><div class="fill" style="width:6%"></div></div>
+        <div class="sub">No account to create, no card to enter, no cloud to wait on. Open the popup, pick tab, screen or
+          webcam, and it starts.</div>
+      </div>
+
+      <div class="chips-row">
+        <span class="chip-badge"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>Open source</span>
+        <span class="chip-badge"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>Zero data collection</span>
+        <span class="chip-badge"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>Manifest V3</span>
+        <span class="chip-badge"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>Recorded locally, never uploaded</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STEP 2 · INSTANT WIN ============ -->
+  <section class="step" data-step="2" data-next="Looks great, next">
+    <div class="center">
+      <span class="kicker">Watch it work · one click</span>
+      <h2>Record in <span class="em">one click</span>.</h2>
+      <p class="lede">Pick a source and it captures right away. Your face, your tab, your whole screen, with mic and tab
+        audio if you want them. Stop when you're done and the clean file saves itself.</p>
+
+      <div class="demo">
+        <div class="demo-top">
+          <div class="demo-mem"><span>WebM</span><small> · no logo</small></div>
+          <div class="demo-cap">Pick a source to start recording</div>
+        </div>
+        <div class="demo-tabs">
+          <div class="dtab"><span class="fav"></span><span class="nm">Tab · this browser tab</span><span class="idle">mic + tab audio</span><span class="saved">ready</span></div>
+          <div class="dtab"><span class="fav"></span><span class="nm">Screen · full desktop</span><span class="idle">mic optional</span><span class="saved">ready</span></div>
+          <div class="dtab"><span class="fav"></span><span class="nm">Webcam · just you</span><span class="idle">webcam + mic</span><span class="saved">ready</span></div>
+          <div class="dtab"><span class="fav"></span><span class="nm">Recording · 00:12</span><span class="badge active">live</span></div>
+        </div>
+        <button class="cta demo-btn" type="button">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3" fill="currentColor"/></svg>
+          Start recording this tab
+        </button>
+      </div>
+      <p class="demo-note">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        Nothing signs in. Nothing uploads. Every frame is processed on your own machine and saved to Downloads.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ STEP 3 · MAKE IT YOURS ============ -->
+  <section class="step" data-step="3" data-next="Save and continue">
+    <div class="center">
+      <span class="kicker">30 seconds to set your defaults</span>
+      <h2>Make it <span class="em">yours</span>.</h2>
+      <p class="lede">Sensible defaults are already on. Change what you like and it sticks for next time.</p>
+
+      <div class="setup">
+        <div class="opt">
+          <label class="opt-lbl">Screenshot delay before capture</label>
+          <div class="slide-row">
+            <input type="range" class="rng" min="0" max="10" step="1" value="0">
+            <span class="rng-val">0 s</span>
+          </div>
+          <div class="rng-ends"><span>0 s</span><span>10 s</span></div>
+        </div>
+        <div class="opt">
+          <label class="opt-lbl">Default screenshot format</label>
+          <div class="chips">
+            <label class="chip"><input type="checkbox" checked><span>PNG</span></label>
+            <label class="chip"><input type="checkbox"><span>JPEG</span></label>
+            <label class="chip"><input type="checkbox"><span>PDF</span></label>
+          </div>
+        </div>
+        <div class="opt tgls">
+          <div class="tgl-row"><span>Capture at retina resolution</span>
+            <label class="tgl"><input type="checkbox" checked><span class="tgl-s"></span></label></div>
+          <div class="tgl-row"><span>Open the editor after each capture</span>
+            <label class="tgl"><input type="checkbox" checked><span class="tgl-s"></span></label></div>
+          <div class="tgl-row"><span>Include tab audio when recording a tab</span>
+            <label class="tgl"><input type="checkbox" checked><span class="tgl-s"></span></label></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STEP 4 · A YEAR IN THE MAKING ============ -->
+  <section class="step" data-step="4" data-next="See who built it">
+    <div class="center">
+      <span class="kicker">Not a weekend project</span>
+      <h2>A year in the <span class="em">making</span>.</h2>
+      <p class="lede">Roughly a year of full-time work by one senior engineer. Built in the open, tested against the exact
+        Chrome capture quirks that break lesser tools, and shipped without a single tracker. It's a real product, not a
+        hobby.</p>
+
+      <div class="proof-grid">
+        <div class="proof-card"><div class="pv accent">~1 yr</div><div class="pl">full-time development</div></div>
+        <div class="proof-card"><div class="pv mint">0</div><div class="pl">logins, no account to record</div></div>
+        <div class="proof-card"><div class="pv">MV3</div><div class="pl">modern, sandboxed, no remote code</div></div>
+        <div class="proof-card"><div class="pv accent">100%</div><div class="pl">open source on GitHub (MIT)</div></div>
+        <div class="proof-card"><div class="pv">53.5K+</div><div class="pl">people across the Zovo toolkit</div></div>
+        <div class="proof-card"><div class="pv mint">local</div><div class="pl">your screen never leaves the device</div></div>
+      </div>
+
+      <div class="works-note">
+        It also works the way you'd hope. Screenshots grab the visible area, a selected region, or a full scrolling page
+        stitched into one image. Recordings cover a tab, the whole screen or your webcam, with mic and tab audio when you
+        want them. Everything is encoded on your own machine and dropped into Downloads, so nothing waits on a server and
+        nothing carries a watermark.
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STEP 5 · BUILT BY SOMEONE YOU CAN REACH ============ -->
+  <section class="step" data-step="5" data-next="See what Pro unlocks">
+    <div class="center">
+      <span class="kicker">A name and an inbox behind the code</span>
+      <h2>Built by someone you can <span class="em">actually reach</span>.</h2>
+      <p class="lede">Most recorders hide behind a support portal that answers in a week, if ever. This one has a name, an
+        inbox, and a year of work staked on it. The name is Michael Lip, founder of Zovo.</p>
+
+      <div class="receipts">
+        <span class="receipt"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>70+ PRs merged upstream into Chrome, axios and nicehash</span>
+        <span class="receipt"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>20 Chrome extensions shipped</span>
+        <span class="receipt"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>$400K+ delivered, 100% job success</span>
+      </div>
+
+      <div class="reach-cards">
+        <div class="reach-card">
+          <div class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16v16H4z" fill="none"/><path d="M22 6l-10 7L2 6"/></svg></div>
+          <div class="bd"><span class="ttl">Email the person who wrote the code</span><span>Capture fails on some page or a Chrome update trips it up? You don't file a ticket into a void. You reach Michael directly at <a href="mailto:support@zovo.one">support@zovo.one</a>, and bugs get read and fixed fast, often the same week.</span></div>
+        </div>
+        <div class="reach-card">
+          <div class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.9 21l1.2-6.8-5-4.9 6.9-1z"/></svg></div>
+          <div class="bd"><span class="ttl">You shape the roadmap</span><span>Want a specific export, a hotkey, a longer schedule? Tell him and it can land in the next build. Members' requests jump the queue by design, so you're steering a tool that gets better every month.</span></div>
+        </div>
+        <div class="reach-card">
+          <div class="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+          <div class="bd"><span class="ttl">Good for both of us, long term</span><span>Paying keeps a named developer full-time on the thing you rely on, so it never becomes another abandoned recorder sold to a stranger. You get software that keeps improving. He gets to keep improving it.</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STEP 6 · ONE MEMBERSHIP (founder + pricing) ============ -->
+  <section class="step" data-step="6" data-next="Start 7-day free trial">
+    <div class="center">
+      <span class="kicker">Zovo Pro · built by one accountable developer</span>
+      <h2>Free stays free. <span class="em">Pro goes further.</span></h2>
+      <p class="lede">Capturing, recording and WebM export are free forever, with no watermark and no login. Pro adds the
+        heavier exports and the features added later.</p>
+
+      <div class="founder">
+        <img class="pic" src="assets/michael-lip.png" alt="Michael Lip">
+        <div class="body">
+          <div class="nm">Michael Lip
+            <svg class="verified" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.4 1.8 3-.2 1 2.8 2.6 1.4-.6 2.9 1.4 2.6-2 2.2.2 3-2.8.9-1.4 2.6-2.9-.7-2.5 1.6-2.5-1.6-2.9.7L6.9 21l-2.8-.9.2-3-2-2.2 1.4-2.6-.6-2.9L5.7 6l1-2.8 3 .2z"/><path d="M10.5 13.5l-2-2L7 13l3.5 3.5L17 10l-1.5-1.5z" fill="#05030f"/></svg>
+            <span class="role">· founder, Zovo</span>
+          </div>
+          <p class="cred">Solo developer · 20 Chrome extensions · 70+ PRs merged upstream into Google Chrome, axios and nicehash · $400K+ delivered at 100% job success.</p>
+          <p class="quote">"Top 1% of architects I've ever worked with." <cite>J. McConey, Dir. of Engineering</cite></p>
+          <div class="socials">
+            <a href="https://github.com/theluckystrike" target="_blank" rel="noopener">theluckystrike</a>
+            <a href="https://x.com/_alphashark_" target="_blank" rel="noopener">@_alphashark_</a>
+            <a href="mailto:support@zovo.one">Email me</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="pricing">
+        <div class="pcard">
+          <div class="seg" id="planSeg">
+            <button data-plan="monthly" class="on">Monthly</button>
+            <button data-plan="lifetime">Lifetime <span class="flag">best value</span></button>
+          </div>
+          <div class="price" id="priceRow">
+            <span class="amt" id="priceAmt">$4.99</span><span class="per" id="pricePer">/ month</span>
+          </div>
+          <div class="price-sub" id="priceSub">7-day free trial, no card to start</div>
+
+          <div class="pfeat">
+            <div class="pf"><div class="ic"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 7l-7 5 7 5V7z"/><rect x="1" y="5" width="15" height="14" rx="2"/></svg></div><div class="tx"><span class="ttl">MP4 and H.264 export</span><span>Share a file that plays anywhere, not just a WebM.</span></div></div>
+            <div class="pf"><div class="ic"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 8v8M7 12h3M14 8h3M14 8v8"/></svg></div><div class="tx"><span class="ttl">Animated GIF export</span><span>Turn a short recording into a loop for docs and chat.</span></div></div>
+            <div class="pf"><div class="ic"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M7 9h2M7 13h4"/></svg></div><div class="tx"><span class="ttl">4K and Ultra HD export</span><span>Keep every pixel sharp for demos and tutorials.</span></div></div>
+            <div class="pf"><div class="ic"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15 15"/></svg></div><div class="tx"><span class="ttl">Scheduled and long-form recording</span><span>Set a start time and length, then walk away.</span></div></div>
+          </div>
+
+          <div class="reassure-row">
+            <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg><span id="reassure1">No card to start</span></span>
+            <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>Cancel anytime</span>
+            <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="20 6 9 17 4 12"/></svg>30-day money-back</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="faq" id="faq">
+        <div class="faq-item"><button class="faq-q">Do I need an account to record?<span class="pm">+</span></button>
+          <div class="faq-a"><p>No. Capturing, recording and WebM export work with zero login and zero watermark. A Zovo membership only adds the extra exports and the scheduler, and even then it's one key, not an account you record through.</p></div></div>
+        <div class="faq-item"><button class="faq-q">What does one membership cover?<span class="pm">+</span></button>
+          <div class="faq-a"><p>Every Pro feature in Screen Recorder, including the ones added later. One license covers all of it.</p></div></div>
+        <div class="faq-item"><button class="faq-q">Can I cancel?<span class="pm">+</span></button>
+          <div class="faq-a"><p>Anytime, in one click. Lifetime is a single $99 with a 30-day money-back guarantee, so there's zero risk in trying it.</p></div></div>
+      </div>
+
+      <div class="social-proof">One membership, no login and no watermark</div>
+    </div>
+  </section>
+
+  <!-- ============ STEP 7 · ALL SET + FOUNDER SIGN-OFF ============ -->
+  <section class="step" data-step="7" data-next="Start using it">
+    <div class="center">
+      <div class="done-ic"><svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></div>
+      <span class="kicker mint">Ready when you are</span>
+      <h2>You're all set.</h2>
+      <p class="lede">Screen Recorder and Screenshot is pinned and waiting. Open the popup, pick a source, and your capture
+        saves straight to Downloads. No sign-up, no watermark, ever.</p>
+
+      <div class="pin">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 17v5"/><path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"/></svg>
+        Tip. Click the puzzle icon in Chrome's toolbar and pin Screen Recorder and Screenshot so it's one click away.
+      </div>
+
+      <div class="sc-title">Your keyboard shortcuts</div>
+      <div class="shortcuts">
+        <div class="sc"><span class="keys"><kbd>Alt</kbd><kbd>⇧</kbd><kbd>S</kbd></span>Capture visible part of the page</div>
+        <div class="sc"><span class="keys"><kbd>Alt</kbd><kbd>⇧</kbd><kbd>F</kbd></span>Capture full page</div>
+        <div class="sc"><span class="keys"><kbd>Alt</kbd><kbd>⇧</kbd><kbd>A</kbd></span>Capture selected area</div>
+      </div>
+
+      <div class="toolkit">
+        <div class="toolkit-head"><span class="t">Part of the Zovo toolkit</span>
+          <a href="https://www.zovo.one" target="_blank" rel="noopener">All extensions ↗</a></div>
+        <div class="tk-item"><div><div class="tn">BeLikeNative</div><div class="td">Rewrite any text, on any site</div></div><span class="meta">26,000+ · 4.7</span></div>
+        <div class="tk-item"><div><div class="tn">Join Zovo · shape the roadmap</div><div class="td">Vote on what gets built next, and members get every extension</div></div><span class="meta">↗</span></div>
+      </div>
+
+      <!-- founder sign-off -->
+      <div class="signoff">
+        <div class="signoff-head">
+          <img class="pic" src="assets/michael-lip.png" alt="Michael Lip">
+          <div class="who">
+            <div class="nm">Michael Lip
+              <svg class="verified" width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.4 1.8 3-.2 1 2.8 2.6 1.4-.6 2.9 1.4 2.6-2 2.2.2 3-2.8.9-1.4 2.6-2.9-.7-2.5 1.6-2.5-1.6-2.9.7L6.9 21l-2.8-.9.2-3-2-2.2 1.4-2.6-.6-2.9L5.7 6l1-2.8 3 .2z"/><path d="M10.5 13.5l-2-2L7 13l3.5 3.5L17 10l-1.5-1.5z" fill="#05030f"/></svg>
+            </div>
+            <div class="role">a note from the person who built this</div>
+          </div>
+        </div>
+        <p>I built this because I was tired of recorders that made me sign up, hand over a card, and then branded my own
+          clip with their logo. I just wanted to hit record and get a clean file. So I wrote the version I'd trust on my
+          own machine. Open source, no tracking, nothing uploaded, every line on GitHub where you can read it yourself.</p>
+        <p>If a page won't capture, or you wish it did one more thing, tell me. Every bug and request is read and fixed by
+          the same person who wrote the code. That's the deal. You use it, I keep making it better.</p>
+        <div class="sig">Michael</div>
+        <div class="reach">
+          <a href="mailto:support@zovo.one">support@zovo.one</a>
+          <a href="https://github.com/theluckystrike" target="_blank" rel="noopener">github.com/theluckystrike</a>
+          <a href="https://x.com/_alphashark_" target="_blank" rel="noopener">@_alphashark_</a>
+        </div>
+        <p class="ps">P.S. Lifetime is a single payment and keeps Pro here for good, including everything I add later. Whichever you
+          pick, thank you for trusting a real developer over a faceless one. Now go record something the clean way.</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- bottom nav -->
+<div class="navbar">
+  <div class="navbar-in">
+    <button class="nbtn back" id="backBtn" hidden>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>Back
+    </button>
+    <div class="indicator">
+      <span class="counter" id="counter">01 / 07</span>
+      <div class="dots" id="dots">
+        <button class="dot active" data-step="1" aria-label="Step 1"></button>
+        <button class="dot" data-step="2" aria-label="Step 2"></button>
+        <button class="dot" data-step="3" aria-label="Step 3"></button>
+        <button class="dot" data-step="4" aria-label="Step 4"></button>
+        <button class="dot" data-step="5" aria-label="Step 5"></button>
+        <button class="dot" data-step="6" aria-label="Step 6"></button>
+        <button class="dot" data-step="7" aria-label="Step 7"></button>
+      </div>
+    </div>
+    <button class="nbtn next" id="nextBtn">
+      <span id="nextLabel">Show me</span>
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+    </button>
+  </div>
+</div>
+
+<script src="onboarding.js"></script>
+</body>
+</html>

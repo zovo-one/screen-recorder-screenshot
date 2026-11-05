@@ -1,0 +1,377 @@
+{
+  "extName": {
+    "message": "مسجّل الشاشة ولقطة الشاشة — بلا تسجيل دخول وبلا علامة مائية",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "سجّل علامة التبويب أو الشاشة أو كاميرا الويب والتقط لقطات للصفحات كاملة. بلا تسجيل دخول، بلا علامة مائية، بلا حدود، بلا رفع.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "لقطة شاشة وتسجيل"
+  },
+  "cmdCaptureVisible": {
+    "message": "التقاط الجزء المرئي من الصفحة"
+  },
+  "cmdCaptureFullPage": {
+    "message": "التقاط الصفحة كاملة"
+  },
+  "cmdCaptureArea": {
+    "message": "التقاط منطقة محددة"
+  },
+  "popupTitle": {
+    "message": "مسجّل الشاشة ولقطة الشاشة"
+  },
+  "popupSubtitle": {
+    "message": "بلا تسجيل دخول · بلا علامة مائية · بلا رفع"
+  },
+  "sectionScreenshot": {
+    "message": "لقطة شاشة"
+  },
+  "sectionRecord": {
+    "message": "تسجيل (المرحلة B)"
+  },
+  "actionVisible": {
+    "message": "المنطقة المرئية"
+  },
+  "actionFullPage": {
+    "message": "الصفحة كاملة"
+  },
+  "actionArea": {
+    "message": "المنطقة المحددة"
+  },
+  "actionDelay": {
+    "message": "تأخير 3 ثوانٍ"
+  },
+  "recordTab": {
+    "message": "علامة التبويب"
+  },
+  "recordScreen": {
+    "message": "الشاشة"
+  },
+  "recordWebcam": {
+    "message": "كاميرا الويب"
+  },
+  "micOn": {
+    "message": "الميكروفون"
+  },
+  "tabAudioOn": {
+    "message": "صوت علامة التبويب"
+  },
+  "comingSoonPhaseB": {
+    "message": "التسجيل يأتي في المرحلة B (تحديث مجاني)."
+  },
+  "settingsFormat": {
+    "message": "التنسيق الافتراضي"
+  },
+  "formatPNG": {
+    "message": "PNG (بلا فقدان)"
+  },
+  "formatJPEG": {
+    "message": "JPEG (أصغر حجمًا)"
+  },
+  "formatPDF": {
+    "message": "PDF (متعدد الصفحات)"
+  },
+  "settingsDPR": {
+    "message": "الالتقاط بدقة الشبكية"
+  },
+  "settingsQuality": {
+    "message": "جودة JPEG"
+  },
+  "save": {
+    "message": "حفظ"
+  },
+  "cancel": {
+    "message": "إلغاء"
+  },
+  "openEditor": {
+    "message": "فتح في المحرّر"
+  },
+  "downloadNow": {
+    "message": "تنزيل الآن"
+  },
+  "editorTitle": {
+    "message": "المحرّر"
+  },
+  "toolArrow": {
+    "message": "سهم"
+  },
+  "toolBox": {
+    "message": "مربّع"
+  },
+  "toolText": {
+    "message": "نص"
+  },
+  "toolBlur": {
+    "message": "تمويه"
+  },
+  "toolHighlight": {
+    "message": "تمييز"
+  },
+  "toolUndo": {
+    "message": "تراجع"
+  },
+  "toolRedo": {
+    "message": "إعادة"
+  },
+  "toolClear": {
+    "message": "مسح"
+  },
+  "exportPng": {
+    "message": "تصدير PNG"
+  },
+  "exportJpeg": {
+    "message": "تصدير JPEG"
+  },
+  "exportPdf": {
+    "message": "تصدير PDF"
+  },
+  "toastCapturing": {
+    "message": "جارٍ الالتقاط…"
+  },
+  "toastStitching": {
+    "message": "جارٍ دمج البلاطات…"
+  },
+  "toastSaved": {
+    "message": "تم الحفظ في مجلد التنزيلات."
+  },
+  "toastEditorOpened": {
+    "message": "تم فتح المحرّر في علامة تبويب جديدة."
+  },
+  "toastFailed": {
+    "message": "فشل الالتقاط. جرّب إعادة تحميل علامة التبويب."
+  },
+  "toastCanvasCapHit": {
+    "message": "الصفحة طويلة جدًا — تم تبليط الناتج ليتناسب مع حد لوحة Chrome."
+  },
+  "selectorHint": {
+    "message": "اسحب للتحديد. Esc للإلغاء."
+  },
+  "delayCountdown": {
+    "message": "الالتقاط خلال $SECONDS$ ثانية…",
+    "placeholders": {
+      "seconds": {
+        "content": "$1$"
+      }
+    }
+  },
+  "footerTrust": {
+    "message": "تتم كل المعالجة محليًا. شاشتك لا تغادر جهازك أبدًا."
+  },
+  "cmdRecordToggle": {
+    "message": "تبديل التسجيل"
+  },
+  "recordStop": {
+    "message": "إيقاف"
+  },
+  "recordStopTooltip": {
+    "message": "إيقاف التسجيل وحفظه"
+  },
+  "toastRecordingStarted": {
+    "message": "بدأ التسجيل…"
+  },
+  "toastRecordingStopped": {
+    "message": "تم حفظ التسجيل في مجلد التنزيلات."
+  },
+  "toastMicDenied": {
+    "message": "تم رفض إذن الميكروفون."
+  },
+  "toastScreenDenied": {
+    "message": "تم رفض إذن الشاشة."
+  },
+  "toastTabCaptureFailed": {
+    "message": "فشل التقاط علامة التبويب. جرّب إعادة تحميلها."
+  },
+  "toastRecovered": {
+    "message": "تم استرجاع آخر تسجيل."
+  },
+  "recoverLast": {
+    "message": "استرجاع آخر تسجيل"
+  },
+  "discardLast": {
+    "message": "تجاهل"
+  },
+  "recordingActive": {
+    "message": "تسجيل قيد الجلسة"
+  },
+  "recordDuration": {
+    "message": "المدة"
+  },
+  "recordHintTab": {
+    "message": "علامة تبويب · ميكروفون · صوت علامة التبويب"
+  },
+  "recordHintScreen": {
+    "message": "الشاشة · ميكروفون (اختياري)"
+  },
+  "recordHintWebcam": {
+    "message": "كاميرا الويب + ميكروفون"
+  },
+  "sectionVideoEditor": {
+    "message": "محرّر الفيديو (المرحلة C)"
+  },
+  "sectionScheduler": {
+    "message": "تسجيل مجدول"
+  },
+  "sectionLicense": {
+    "message": "الترخيص"
+  },
+  "openVideoEditor": {
+    "message": "فتح محرّر الفيديو"
+  },
+  "noRecordingsYet": {
+    "message": "لا توجد تسجيلات بعد. سجّل شيئًا أولًا."
+  },
+  "editorVideoTitle": {
+    "message": "محرّر الفيديو"
+  },
+  "editorTrim": {
+    "message": "قص"
+  },
+  "editorCrop": {
+    "message": "اقتصاص"
+  },
+  "editorBlur": {
+    "message": "تمويه"
+  },
+  "editorClickZoom": {
+    "message": "تكبير بالنقر"
+  },
+  "editorExportWebM": {
+    "message": "تصدير WebM (مجاني)"
+  },
+  "editorExportMp4": {
+    "message": "تصدير MP4 (Pro)"
+  },
+  "editorExportGif": {
+    "message": "تصدير GIF (Pro)"
+  },
+  "editorExport4K": {
+    "message": "تصدير 4K (Pro)"
+  },
+  "editorInPoint": {
+    "message": "بداية"
+  },
+  "editorOutPoint": {
+    "message": "نهاية"
+  },
+  "editorAddBlurRegion": {
+    "message": "إضافة منطقة تمويه"
+  },
+  "editorClearOverlays": {
+    "message": "مسح الطبقات"
+  },
+  "editorProcessing": {
+    "message": "جارٍ المعالجة…"
+  },
+  "editorExportDone": {
+    "message": "تم حفظ التصدير في مجلد التنزيلات."
+  },
+  "editorExportFailed": {
+    "message": "فشل التصدير."
+  },
+  "schedulerStartIn": {
+    "message": "البدء خلال (دقيقة)"
+  },
+  "schedulerDuration": {
+    "message": "المدة (دقيقة)"
+  },
+  "schedulerSource": {
+    "message": "المصدر"
+  },
+  "schedulerCreate": {
+    "message": "جدولة التسجيل"
+  },
+  "schedulerCancel": {
+    "message": "إلغاء الجدولة"
+  },
+  "schedulerActive": {
+    "message": "مجدول"
+  },
+  "schedulerFiresIn": {
+    "message": "يبدأ خلال $MIN$ ثانية",
+    "placeholders": {
+      "min": {
+        "content": "$1$"
+      }
+    }
+  },
+  "schedulerMinWarning": {
+    "message": "الحد الأدنى للجدولة 30 ثانية (حد منبّهات Chrome)."
+  },
+  "licenseKey": {
+    "message": "مفتاح الترخيص"
+  },
+  "licenseActivate": {
+    "message": "تفعيل"
+  },
+  "licenseActive": {
+    "message": "ترخيص Pro مفعّل"
+  },
+  "licenseInvalid": {
+    "message": "مفتاح الترخيص غير صالح."
+  },
+  "licenseProBadge": {
+    "message": "PRO"
+  },
+  "licenseFreeBadge": {
+    "message": "FREE"
+  },
+  "proFeatureLocked": {
+    "message": "ميزة Pro — فعّل ترخيصًا لفتحها."
+  },
+  "toastScheduled": {
+    "message": "تمت جدولة التسجيل."
+  },
+  "toastScheduleCancelled": {
+    "message": "تم إلغاء الجدولة."
+  },
+  "toastLicenseActivated": {
+    "message": "تم تفعيل ترخيص Pro."
+  },
+  "cmdOpenEditor": {
+    "message": "فتح محرّر الفيديو"
+  },
+  "formatWebM": {
+    "message": "WebM (مجاني)"
+  },
+  "formatMp4": {
+    "message": "MP4 / H.264 (Pro)"
+  },
+  "formatGif": {
+    "message": "GIF (Pro)"
+  },
+  "format4K": {
+    "message": "4K MP4 (Pro)"
+  },
+  "upgradeCta": {
+    "message": "Upgrade"
+  },
+  "unlockProCta": {
+    "message": "Unlock Pro — $99 lifetime"
+  },
+  "onboardBody": {
+    "message": "MP4, GIF and 4K export are Pro. Try everything free for 7 days, no card."
+  },
+  "onboardTrial": {
+    "message": "Start free trial"
+  },
+  "onboardExplore": {
+    "message": "See Pro"
+  },
+  "dismiss": {
+    "message": "Dismiss"
+  },
+  "crossSell": {
+    "message": "More from Zovo, Auto Refresh and Page Monitor"
+  },
+  "heroRecordings": {
+    "message": "Recordings saved"
+  },
+  "heroEmptyTitle": {
+    "message": "Ready when you are"
+  },
+  "heroEmptySub": {
+    "message": "Capture a screenshot or start a recording below"
+  }
+}
